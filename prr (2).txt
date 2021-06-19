@@ -15,43 +15,43 @@ http://208.88.246.11:4153/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 ﻿﻿#EXTINF:-1, A&E HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=62&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif", ADN 40 HD (140)
+#EXTINF:-1, ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=40&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif", AMC (490)
+#EXTINF:-1, AMC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=131&format=HLS&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif", AMC HD (444)
+#EXTINF:-1, AMC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=328&format=HLS&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (373)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=0088&format=HLS&f=.m3u8
+#EXTINF:-1, Animal Planet
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=088&format=HLS&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif", AXN HD (213)
+#EXTINF:-1, AXN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=64&format=HLS&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif", AyM Sports (576)
+#EXTINF:-1, AyM Sports
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=180&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif", AZ Clic HD (725)
+#EXTINF:-1, AZ Clic 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=11&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif", AZ Corazón HD (250)
+#EXTINF:-1, AZ Corazón 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=70&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif", AZ Mundo HD (276)
+#EXTINF:-1, AZ Mundo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=84&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif", Azteca 7 HD (1)
+#EXTINF:-1, Azteca 7
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif", Bandamax (732)
+#EXTINF:-1, Bandamax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=221&format=HLS&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif", Boomerang (324)
+#EXTINF:-1, Boomerang
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=115&format=HLS&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif", Canal de las Estrellas (102)
+#EXTINF:-1, Canal de las Estrellas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=17&format=HLS&f=.m3u8
 
 #EXTINF:-1, Canal de las estrellas 2 -1
