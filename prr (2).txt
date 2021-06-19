@@ -51,13 +51,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1f
 #EXTINF:-1, Boomerang
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=115&format=HLS&f=.m3u8
 
-#EXTINF:-1, Canal de las Estrellas
+#EXTINF:-1, las Estrellas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=17&format=HLS&f=.m3u8
 
-#EXTINF:-1, Canal de las estrellas 2 -1
+#EXTINF:-1, las estrellas -1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2671&format=HLS&f=.m3u8
 
-#EXTINF:-1, Canal de las estrellas 2 -2
+#EXTINF:-1, las estrellas -2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=2662&format=HLS&f=.m3u8
 
 #EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif", Canal de las Estrellas HD (2)
