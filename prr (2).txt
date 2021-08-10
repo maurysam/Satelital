@@ -3,8 +3,29 @@
 #EXTINF:-1, TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=3n8144qfc1fljtk&lchId=0174&format=HLSAD&f=.m3u8
 
+
+#EXTINF:-1,Chavo Tv
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Monstruos Reales
+https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
+#EXTINF:-1,Simpson 1
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Simpsons
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1,La mejor Tv
+http://23.237.29.98:4153/255exatv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
+#EXTINF:-1,Exa Tv
+http://23.237.29.98:4153/252NU/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
+#EXTINF:-1,Video Rola 
+http://23.237.29.98:4153/258VROLA/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
+#EXTINF:-1,HTV
+http://23.237.29.98:4153/260htv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
+#EXTINF:-1,Bandamax
+http://208.88.246.11:4153/encoder70/goltv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
+#EXTINF:-1,Teleritmo
+http://23.237.29.98:4153/276teleritmo/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
+
 
 
 #EXTINF:-1,HBO
@@ -15,15 +36,15 @@ http://208.88.246.11:4153/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://208.88.246.11:4153/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
 #EXTINF:-1,HBO FAMILY
 http://23.237.29.98:4153/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
+#EXTINF:-1,Golden Premier
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/454/12?f=.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
 
 
 
 ﻿﻿#EXTINF:-1, Univision 
 http://208.88.246.11:4153/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
 ﻿﻿#EXTINF:-1, Unimas
 http://208.88.246.11:4153/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
 ﻿﻿#EXTINF:-1, Galavasion 
 http://208.88.246.11:4153/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
 
