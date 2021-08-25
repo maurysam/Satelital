@@ -51,16 +51,16 @@ http://208.88.246.11:4153/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 ﻿﻿#EXTINF:-1, A&E HD (211)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=glrogljuc37atxo&lchId=62&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif", ADN 40 HD (140)
+#EXTINF:-1, ADN 40 HD (140)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=glrogljuc37atxo&lchId=40&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif", AMC (490)
+#EXTINF:-1, AMC (490)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=glrogljuc37atxo&lchId=131&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif", AMC HD (444)
+#EXTINF:-1, AMC HD (444)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=glrogljuc37atxo&lchId=328&format=HLSAD&f=.m3u8
 
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (373)
+#EXTINF:-1, Animal Planet (373)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=glrogljuc37atxo&lchId=88&format=HLSAD&f=.m3u8
 
 #EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif", AXN HD (213)
