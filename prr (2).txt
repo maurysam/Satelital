@@ -7,8 +7,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 #EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" RECOMENDADOS ", Azteca Uno - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2195&format=HLSAD&f=.m3u8
 
-
-
 #EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew. png "group-title =" RECOMENDADOS ", Las Estrellas (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2656&format=HLSAD&f=.m3u8
 
@@ -71,29 +69,6 @@ http://odenfull.co:2086/142536/142536/135290
 http://odenfull.co:2086/142536/142536/135291
 #EXTINF: -1 tvg-id = "ESPNTres (South) .co" group-title = "RECOMENDADOS", DEP HD: ESPN 3 (COL) 
 http://odenfull.co:2086/142536/142536/135292
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 1
-http://tvstarlife.com:25461/Yann/Yann/26021
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 2
-http://tvstarlife.com:25461/Yann/Yann/26022
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 3
-http://tvstarlife.com:25461/Yann/Yann/26023
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 4
-http://tvstarlife.com:25461/Yann/Yann/26024
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 5
-http://tvstarlife.com:25461/Yann/Yann/26025
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 6
-http://tvstarlife.com:25461/Yann/Yann/26026
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 7
-http://tvstarlife.com:25461/Yann/Yann/26027
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 8
-http://tvstarlife.com:25461/Yann/Yann/26028
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 9
-http://tvstarlife.com:25461/Yann/Yann/26029
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 10
-http://tvstarlife.com:25461/Yann/Yann/26030
-#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 11
-http://tvstarlife.com:25461/Yann/Yann/26031
-
 
 #EXTINF: -1 tvg-id = "XHDFAztecaUno.mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1. png "group-title =" LOCALES ", Azteca Uno (HD)
 https://blackghost.live/play/totalp1-950.php?c=7&p=3&k=black&f=.m3u8
