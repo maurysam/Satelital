@@ -1,16 +1,15 @@
 # EXTM3U
 
 
-#EXTINF: -1 tvg-id = "XHDFAztecaUno.mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1. png "group-title =" RECOMENDADOS ", Azteca Uno (HD)
+#EXTINF: -1 tvg-id = "XHDFAztecaUno.mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1. png "group-title =" LOCALES ", Azteca Uno (HD)
 https://blackghost.live/play/totalp1-950.php?c=7&p=3&k=black&f=.m3u8
 
+#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" RECOMENDADOS ", Azteca Uno (HD) https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0007&format=HLSAD&f=.m3u8
 
-#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" RECOMENDADOS ", Azteca Uno (HD) https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=0007&format=HLSAD&f=.m3u8
-
-#EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" RECOMENDADOS ", Azteca Uno - 2 hora https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=2195&format=HLSAD&f=.m3u8
+#EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" RECOMENDADOS ", Azteca Uno - 2 hora https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2195&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew. png "group-title =" RECOMENDADOS ", Las Estrellas (HD)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=2656&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2656&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "XHFITDT.mx" tvg-name = "XHFITDT (XHFI-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew .png "group-title =" RECOMENDADOS ", Las Estrellas - 1 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2671&format=HLSAD&f=.m3u8
@@ -19,13 +18,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2662&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5 (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc. png "group-title =" RECOMENDADOS ", Canal 5 (HD)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=2364&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2364&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7 (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7. jpg "group-title =" RECOMENDADOS ", Azteca 7 (HD)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=2365&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2365&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group- title = "RECOMENDADOS", NU9VE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=2366&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2366&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "ESPN.mx" tvg-name = "ESPN" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" grupo- title = "RECOMENDADOS", ESPN
 https://blackghost.live/play/totalp1-950.php?c=169&p=3&k=black&f=.m3u8
@@ -70,7 +69,7 @@ http://odenfull.co:2086/142536/142536/135290
 #EXTINF: -1 tvg-id = "ESPNTres (South) .co" group-title = "RECOMENDADOS", DEP SD: ESPN 3 (COL) 
 http://odenfull.co:2086/142536/142536/135291
 #EXTINF: -1 tvg-id = "ESPNTres (South) .co" group-title = "RECOMENDADOS", DEP HD: ESPN 3 (COL) 
-http://odenfull.co:2086/142536/142536/135292 
+http://odenfull.co:2086/142536/142536/135292
 
 #EXTINF: -1 tvg-id = "XHDFAztecaUno.mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1. png "group-title =" LOCALES ", Azteca Uno (HD)
 https://blackghost.live/play/totalp1-950.php?c=7&p=3&k=black&f=.m3u8
