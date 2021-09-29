@@ -1,177 +1,185 @@
-#EXTM3U
+# EXTM3U
 
 
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
-https://blackghost.live/play/totalp1-950.php?c=7&p=3&k=black&f=.m3u8
+#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" RECOMENDADOS ", Azteca Uno (HD)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0007&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
-https://blackghost.live/play/totalp1-950.php?c=1784&p=3&k=black&f=.m3u8
+#EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" RECOMENDADOS ", Azteca Uno - 2 hora
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2195&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="XHFITDT.mx" tvg-name="XHFITDT (XHFI-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas - 1 hora
+
+
+#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew. png "group-title =" RECOMENDADOS ", Las Estrellas (HD)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2656&format=HLSAD&f=.m3u8
+
+#EXTINF: -1 tvg-id = "XHFITDT.mx" tvg-name = "XHFITDT (XHFI-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew .png "group-title =" RECOMENDADOS ", Las Estrellas - 1 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2671&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="XHUAATDT (XHUAAT-DT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas - 2 hora
+#EXTINF: -1 tvg-id = "XHUAATDT.mx" tvg-name = "XHUAATDT (XHUAAT-DT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew .png "group-title =" RECOMENDADOS ", Las Estrellas - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2662&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
-https://blackghost.live/play/totalp1-950.php?c=1785&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
-https://blackghost.live/play/totalp1-950.php?c=317&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
-https://blackghost.live/play/totalp1-950.php?c=1783&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN
+#EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5 (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc. png "group-title =" RECOMENDADOS ", Canal 5 (HD)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2364&format=HLSAD&f=.m3u8
+
+#EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7 (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7. jpg "group-title =" RECOMENDADOS ", Azteca 7 (HD)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2365&format=HLSAD&f=.m3u8
+
+#EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group- title = "RECOMENDADOS", NU9VE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2366&format=HLSAD&f=.m3u8
+
+#EXTINF: -1 tvg-id = "ESPN.mx" tvg-name = "ESPN" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" grupo- title = "RECOMENDADOS", ESPN
 https://blackghost.live/play/totalp1-950.php?c=169&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="RECOMENDADOS",ESPN 2
+#EXTINF: -1 tvg-id = "ESPN2.mx" tvg-name = "ESPN 2" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" grupo -title = "RECOMENDADOS", ESPN 2
 https://blackghost.live/play/totalp1-950.php?c=168&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="RECOMENDADOS",Fox Sports
+#EXTINF: -1 tvg-id = "FOXSports (ConoNorteMexico) .mx" tvg-name = "Fox Sports" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1. png "group-title =" RECOMENDADOS ", Fox Sports
 https://blackghost.live/play/totalp1-950.php?c=170&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="RECOMENDADOS",Fox Sports 2
+#EXTINF: -1 tvg-id = "FoxSports2 (ConoNorte) .mx" tvg-name = "Fox Sports 2" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2 .png "group-title =" RECOMENDADOS ", Fox Sports 2
 https://blackghost.live/play/totalp1-950.php?c=172&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
+#EXTINF: -1 tvg-id = "TUDN.mx" tvg-name = "TUDN (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png "group-title =" RECOMENDADOS ", TUDN (HD)
 https://blackghost.live/play/totalp1-950.php?c=174&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
+#EXTINF: -1 tvg-id = "Afizzionados.mx" tvg-name = "Afizzionados" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group- title = "RECOMENDADOS", Afizzionados
 http://odenfull.co:2086/142536/142536/58029
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
+#EXTINF: -1 tvg-id = "ClaroSports.mx" tvg-name = "Claro Sports (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro. png "group-title =" RECOMENDADOS ", Claro Sports (HD)
 https://blackghost.live/play/totalp1-950.php?c=2564&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
+#EXTINF: -1 tvg-id = "TNT.mx" tvg-name = "TNT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" grupo- title = "RECOMENDADOS", TNT
 https://blackghost.live/play/totalp1-950.php?c=126&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="RECOMENDADOS",Cinemax
+#EXTINF: -1 tvg-id = "Cinemax.mx" tvg-name = "Cinemax" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group- title = "RECOMENDADOS", Cinemax
 https://blackghost.live/play/totalp1-950.php?c=158&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
+#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rapinet.may "group-title =" RECOMENDADOS ", Univisión
 http://208.88.246.11:4153/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
+#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rapinet.may "group-title =" RECOMENDADOS ", Univisión Pac
 http://208.88.246.11:4153/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
+#EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "RECOMENDADOS", UniMas
 http://qqtv.nl:8080/Bradley1/Bradley123/51873
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
+#EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title = "RECOMENDADOS", TUDN EE. UU.
 http://tvstarlife.com:25461/Yann/Yann/1313
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" tvg-name="Galavisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
+#EXTINF: -1 tvg-id = "GalavisionCableNetwork (español) .us" tvg-name = "Galavisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png "group-title =" RECOMENDADOS ", Galavisión
 http://qqtv.nl:8080/Bradley1/Bradley123/51872
-#EXTINF:-1 user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="RECOMENDADOS",CBS Sports Network
+#EXTINF: -1 user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title = "RECOMENDADOS", CBS Sports Network
 http://23.237.29.98:4153/transco9/9495CBSSN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Nacional.sv" group-title="RECOMENDADOS",Canal 4 TCS
+#EXTINF: -1 tvg-id = "Canal4Nacional.sv" group-title = "RECOMENDADOS", Canal 4 TCS
 http://odenfull.co:2086/142536/142536/31585
-#EXTINF:-1 tvg-id="ESPN.co" group-title="RECOMENDADOS",DEP SD: ESPN 1 (COL)
+#EXTINF: -1 tvg-id = "ESPN.co" group-title = "RECOMENDADOS", DEP SD: ESPN 1 (COL)
 http://odenfull.co:2086/142536/142536/135286
-#EXTINF:-1 tvg-id="ESPN.co" group-title="RECOMENDADOS",DEP HD: ESPN 1 (COL)
+#EXTINF: -1 tvg-id = "ESPN.co" group-title = "RECOMENDADOS", DEP HD: ESPN 1 (COL)
 http://odenfull.co:2086/142536/142536/135287
-#EXTINF:-1 tvg-id="ESPN2.co" group-title="RECOMENDADOS",DEP SD: ESPN 2 (COL) 
+#EXTINF: -1 tvg-id = "ESPN2.co" group-title = "RECOMENDADOS", DEP SD: ESPN 2 (COL) 
 http://odenfull.co:2086/142536/142536/135289
-#EXTINF:-1 tvg-id="ESPN2.co" group-title="RECOMENDADOS",DEP HD: ESPN 2 (COL) 
+#EXTINF: -1 tvg-id = "ESPN2.co" group-title = "RECOMENDADOS", DEP HD: ESPN 2 (COL) 
 http://odenfull.co:2086/142536/142536/135290
-#EXTINF:-1 tvg-id="ESPNTres(South).co" group-title="RECOMENDADOS",DEP SD: ESPN 3 (COL) 
+#EXTINF: -1 tvg-id = "ESPNTres (South) .co" group-title = "RECOMENDADOS", DEP SD: ESPN 3 (COL) 
 http://odenfull.co:2086/142536/142536/135291
-#EXTINF:-1 tvg-id="ESPNTres(South).co" group-title="RECOMENDADOS",DEP HD: ESPN 3 (COL) 
+#EXTINF: -1 tvg-id = "ESPNTres (South) .co" group-title = "RECOMENDADOS", DEP HD: ESPN 3 (COL) 
 http://odenfull.co:2086/142536/142536/135292
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 1
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 1
 http://tvstarlife.com:25461/Yann/Yann/26021
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 2
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 2
 http://tvstarlife.com:25461/Yann/Yann/26022
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 3
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 3
 http://tvstarlife.com:25461/Yann/Yann/26023
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 4
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 4
 http://tvstarlife.com:25461/Yann/Yann/26024
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 5
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 5
 http://tvstarlife.com:25461/Yann/Yann/26025
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 6
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 6
 http://tvstarlife.com:25461/Yann/Yann/26026
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 7
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 7
 http://tvstarlife.com:25461/Yann/Yann/26027
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 8
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 8
 http://tvstarlife.com:25461/Yann/Yann/26028
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 9
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 9
 http://tvstarlife.com:25461/Yann/Yann/26029
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 10
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 10
 http://tvstarlife.com:25461/Yann/Yann/26030
-#EXTINF:-1  group-title="RECOMENDADOS",TUDN XTRA 11
+#EXTINF: -1 título-grupo = "RECOMENDADOS", TUDN XTRA 11
 http://tvstarlife.com:25461/Yann/Yann/26031
 
 
-#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
+#EXTINF: -1 tvg-id = "XHDFAztecaUno.mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1. png "group-title =" LOCALES ", Azteca Uno (HD)
 https://blackghost.live/play/totalp1-950.php?c=7&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENCIÓN",Clic
+#EXTINF: -1 tvg-id = "Clic.mx" tvg-name = "Clic" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" grupo- title = "ENTRETENCIÓN", Clic
 https://blackghost.live/play/totalp1-950.php?c=11&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
+#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" grupo -title = "LOCALES", Las Estrellas
 https://blackghost.live/play/totalp1-950.php?c=17&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro TV
+#EXTINF: -1 tvg-id = "ForoTV.mx" tvg-name = "Foro TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" grupo -title = "LOCALES", Foro TV
 https://blackghost.live/play/totalp1-950.php?c=19&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
+#EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" grupo -title = "LOCALES", Canal 5
 https://blackghost.live/play/totalp1-950.php?c=20&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
+#EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" grupo -title = "LOCALES", Azteca 7
 https://blackghost.live/play/totalp1-950.php?c=21&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
+#EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group- title = "LOCALES", NU9VE
 https://blackghost.live/play/totalp1-950.php?c=24&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
+#EXTINF: -1 tvg-id = "XEIPNTDT.mx" tvg-name = "Canal Once" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" grupo -title = "LOCALES", Canal Once
 https://blackghost.live/play/totalp1-950.php?c=25&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno
+#EXTINF: -1 tvg-id = "XHDFAztecaUno.mx" tvg-name = "Azteca Uno" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" grupo -title = "LOCALES", Azteca Uno
 https://blackghost.live/play/totalp1-950.php?c=27&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="INFORMACIÓN",Teleformula
+#EXTINF: -1 tvg-id = "Teleformula.mx" tvg-name = "Teleformula" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" grupo- title = "INFORMACIÓN", Teleformula
 https://blackghost.live/play/totalp1-950.php?c=32&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES PÚBLICOS",Mexiquense Televisión
+#EXTINF: -1 tvg-id = "XHGEMTDT.mx" tvg-name = "Mexiquense Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" grupo -title = "REGIONALES PÚBLICOS", Mexiquense Televisión
 https://blackghost.live/play/totalp1-950.php?c=44&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="LOCALES",ADN 40
+#EXTINF: -1 tvg-id = "adn40.mx" tvg-name = "ADN 40" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" grupo -title = "LOCALES", ADN 40
 https://blackghost.live/play/totalp1-950.php?c=40&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="ENTRETENCIÓN",Corazón
+#EXTINF: -1 tvg-id = "Corazon.mx" tvg-name = "Corazón" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group- title = "ENTRETENCIÓN", Corazón
 https://blackghost.live/play/totalp1-950.php?c=70&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="ENTRETENCIÓN",Mundo
+#EXTINF: -1 tvg-id = "Mundo.mx" tvg-name = "Mundo" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" grupo- title = "ENTRETENCIÓN", Mundo
 https://blackghost.live/play/totalp1-950.php?c=84&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7 (HD)
+#EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7 (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7. jpg "group-title =" LOCALES ", Azteca 7 (HD)
 https://blackghost.live/play/totalp1-950.php?c=317&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHSFJTDT.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
+#EXTINF: -1 tvg-id = "XHSFJTDT.mx" tvg-name = "Azteca 7" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" grupo -title = "LOCALES", Azteca 7
 https://blackghost.live/play/totalp1-950.php?c=322&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Televisión
+#EXTINF: -1 tvg-id = "ImagenTV.mx" tvg-name = "Imagen Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" grupo -title = "LOCALES", Imagen Televisión
 https://blackghost.live/play/totalp1-950.php?c=2298&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHCTRMTDT4.mx" tvg-name="Imagen Multicast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" group-title="LOCALES",Imagen Multicast
+#EXTINF: -1 tvg-id = "XHCTRMTDT4.mx" tvg-name = "Imagen Multicast" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" grupo -title = "LOCALES", Imagen multidifusión
 https://blackghost.live/play/totalp1-950.php?c=1449&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
+#EXTINF: -1 tvg-id = "MULTIMEDIOSPLUS.mx" tvg-name = "Canal 6 CDMX" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title = "LOCALES", Canal 6 CDMX
 https://blackghost.live/play/totalp1-950.php?c=1253&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 Monterrey (XHAW-TDT)
+#EXTINF: -1 tvg-id = "XHAWDT.mx" tvg-name = "Canal 6 Monterrey (XHAW-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png "group-title =" REGIONALES ", Canal 6 Monterrey (XHAW-TDT)
 https://blackghost.live/play/totalp1-950.php?c=2305&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="LOCALES",Ingenio TV
+#EXTINF: -1 tvg-id = "IngenioTV.mx" tvg-name = "Ingenio TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" grupo -title = "LOCALES", Ingenio TV
 https://blackghost.live/play/totalp1-950.php?c=401&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="CVShopping.mx" tvg-name="CV Shopping (6.3/12.3 MT-SA)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cv.png" group-title="LOCALES",CV Shopping (6.3/12.3 MT-SA)
+#EXTINF: -1 tvg-id = "CVShopping.mx" tvg-name = "CV Shopping (6.3 / 12.3 MT-SA)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main /Emblems/cv.png "group-title =" LOCALES ", CV Shopping (6.3 / 12.3 MT-SA)
 https://blackghost.live/play/totalp1-950.php?c=1943&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
+#EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group- title = "LOCALES", NU9VE
 https://blackghost.live/play/totalp1-950.php?c=1783&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas (HD)
+#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew. png "group-title =" LOCALES ", Las Estrellas (HD)
 https://blackghost.live/play/totalp1-950.php?c=1784&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro TV (HD)
+#EXTINF: -1 tvg-id = "ForoTV.mx" tvg-name = "Foro TV (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv. png "group-title =" LOCALES ", Foro TV (HD)
 https://blackghost.live/play/totalp1-950.php?c=4&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5 (HD)
+#EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5 (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc. png "group-title =" LOCALES ", Canal 5 (HD)
 https://blackghost.live/play/totalp1-950.php?c=1785&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="LOCALES",ADN 40 (HD)
+#EXTINF: -1 tvg-id = "adn40.mx" tvg-name = "ADN 40 (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn. jpg "título-grupo =" LOCALES ", ADN 40 (HD)
 https://blackghost.live/play/totalp1-950.php?c=184&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XEIPN.mx" tvg-name="Canal Once (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once (HD)
+#EXTINF: -1 tvg-id = "XEIPN.mx" tvg-name = "Canal Once (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn. png "group-title =" LOCALES ", Canal Once (HD)
 https://blackghost.live/play/totalp1-950.php?c=1942&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV (XHSAW-TDT4)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENCIÓN",MVS TV (XHSAW-TDT4)
+#EXTINF: -1 tvg-id = "MVSTV.mx" tvg-name = "MVS TV (XHSAW-TDT4)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ xhtdmx4.png "group-title =" ENTRETENCIÓN ", MVS TV (XHSAW-TDT4)
 https://blackghost.live/play/totalp1-950.php?c=2149&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="ENTRETENCIÓN",TVC
+#EXTINF: -1 tvg-id = "MeganoticiasMX.mx" tvg-name = "Meganoticias MX" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" grupo -title = "ENTRETENCIÓN", TVC
 https://blackghost.live/play/totalp1-950.php?c=2156&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV Cuatro
+#EXTINF: -1 tvg-id = "XHLEGTDT.mx" tvg-name = "TV Cuatro" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" grupo -title = "REGIONALES PÚBLICOS", TV Cuatro
 https://blackghost.live/play/totalp1-950.php?c=2274&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHCNLTDT.mx" tvg-name="Canal 8 Monterrey (XHCNL-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhcnl.png" group-title="REGIONALES",Canal 8 Monterrey (XHCNL-TDT)
+#EXTINF: -1 tvg-id = "XHCNLTDT.mx" tvg-name = "Canal 8 Monterrey (XHCNL-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhcnl.png "group-title =" REGIONALES ", Canal 8 Monterrey (XHCNL-TDT)
 https://blackghost.live/play/totalp1-950.php?c=2307&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHPTDT.mx" tvg-name="Canal 4 Puebla" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="REGIONALES",Canal 4 Puebla
+#EXTINF: -1 tvg-id = "XHPTDT.mx" tvg-name = "Canal 4 Puebla" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title = "REGIONALES", Canal 4 Puebla
 https://blackghost.live/play/totalp1-950.php?c=2312&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+ (XHFN-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="REGIONALES",A+ (XHFN-TDT2)
+#EXTINF: -1 tvg-id = "(Programación local ficticia)" tvg-name = "A + (XHFN-TDT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhfn2.png "título-grupo =" REGIONALES ", A + (XHFN-TDT2)
 https://blackghost.live/play/totalp1-950.php?c=2316&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="TV Más 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="REGIONALES PÚBLICOS",TV Más 26.1
+#EXTINF: -1 tvg-id = "XHGVTDT.mx" tvg-name = "TV Más 26.1" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title = "REGIONALES PÚBLICOS", TV Más 26.1
 https://blackghost.live/play/totalp1-950.php?c=2324&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal del Congreso" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="INFORMACIÓN",Canal del Congreso
+#EXTINF: -1 tvg-id = "CongresoNacionalTV.mx" tvg-name = "Canal del Congreso" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title = "INFORMACIÓN", Canal del Congreso
 https://blackghost.live/play/totalp1-950.php?c=2331&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHLGGTDT.mx" tvg-name="Canal 6 Bajío (XHLGG-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 Bajío (XHLGG-TDT)
+#EXTINF: -1 tvg-id = "XHLGGTDT.mx" tvg-name = "Canal 6 Bajío (XHLGG-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png "group-title =" REGIONALES ", Canal 6 Bajío (XHLGG-TDT)
 https://blackghost.live/play/totalp1-950.php?c=2352&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Televisión (HD)
+#EXTINF: -1 tvg-id = "ImagenTV.mx" tvg-name = "Imagen Televisión (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx. png "group-title =" LOCALES ", Imagen Televisión (HD)
 https://blackghost.live/play/totalp1-950.php?c=2606&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS.mx" tvg-name="Canal 6 CDMX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX (HD)
+#EXTINF: -1 tvg-id = "MULTIMEDIOSPLUS.mx" tvg-name = "Canal 6 CDMX (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw .png "group-title =" LOCALES ", Canal 6 CDMX (HD)
 https://blackghost.live/play/totalp1-950.php?c=2882&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="KIDS",Tooncast
+#EXTINF: -1 tvg-id = "Tooncast.mx" tvg-name = "Tooncast" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" grupo- title = "NIÑOS", Tooncast
 https://blackghost.live/play/totalp1-950.php?c=108&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="KIDS",Discovery Kids
+#EXTINF: -1 tvg-id = "DiscoveryKids.mx" tvg-name = "Discovery Kids" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" grupo -title = "NIÑOS", Discovery Kids
 https://blackghost.live/play/totalp1-950.php?c=109&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="KIDS",Nick (CAÍDO)
+#EXTINF: -1 tvg-id = "Nick.mx" tvg-name = "Nick (CAÍDO)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png "group-title =" NIÑOS ", Nick (CAÍDO)
 https://blackghost.live/play/totalp1-950.php?c=110&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="KIDS",Disney XD
+#EXTINF: -1 tvg-id = "DisneyXD.mx" tvg-name = "Disney XD" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" grupo -title = "NIÑOS", Disney XD
 https://blackghost.live/play/totalp1-950.php?c=111&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="KIDS",Cartoon Network
 https://blackghost.live/play/totalp1-950.php?c=112&p=3&k=black&f=.m3u8
@@ -847,20 +855,29 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealExtreme.us" tvg-name="RealExtreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/realx.png" group-title="SOLO PARA ROKOOS +18",RealExtreme
 http://23.237.29.98:4153/491REALX/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BraZZersTVPlus.us" tvg-name="Brazzers TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/braz.png" group-title="SOLO PARA ROKOOS +18",Brazzers TV
 http://23.237.29.98:4153/493BRAZZ/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TenXX5.us" tvg-name="TEN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ten.png" group-title="SOLO PARA ROKOOS +18",TEN
 http://23.237.29.98:4153/494TEN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="RK" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rk.png" group-title="SOLO PARA ROKOOS +18",RK
 http://23.237.29.98:4153/495RKTV/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hustler.us" tvg-name="Hustler TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hus.png" group-title="SOLO PARA ROKOOS +18",Hustler TV
 http://23.237.29.98:4153/496HUSLR/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XtsyNewFrontier(English).mx" tvg-name="XTSY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xtsy.png" group-title="SOLO PARA ROKOOS +18",XTSY
 http://23.237.29.98:4153/498XTSY/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Playboy.mx" tvg-name="Playboy TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/plby.png" group-title="SOLO PARA ROKOOS +18",Playboy TV
 http://23.237.29.98:4153/484Playboy/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Venus.mx" tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vens.png" group-title="SOLO PARA ROKOOS +18",Venus
 http://23.237.29.98:4153/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="Sextreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sextr.jpg" group-title="SOLO PARA ROKOOS +18",Sextreme
 http://23.237.29.98:4153/490Sextreme/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+
 
