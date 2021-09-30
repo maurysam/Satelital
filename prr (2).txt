@@ -1,17 +1,17 @@
 # EXTM3U
 
 
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHOl0K8ABx0xTPPzsnNdTsN9JvhpJ9P_bdQ&usqp=CAU "group-title =" LOCALES ", Univisión
+#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png "group-title =" LOCALES ", Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
 
 
-#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /azteca1.png "group-title =" LOCALES ", Azteca Uno (HD) 
+#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png "group-title =" LOCALES ", Azteca Uno (HD) 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=0007&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGQjOpgbU51_z4tkaQZomieCuPf1igxdxLw&usqp=CAU "group-title ="LOCALES", Azteca Uno - 2 hora 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=2195&format=HLSAD&f=.m3u8
 
-#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew. png "group-title =" LOCALES ", Las Estrellas (HD)
+#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png "group-title =" LOCALES ", Las Estrellas (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=2656&format=HLSAD&f=.m3u8
 
 #EXTINF: -1 tvg-id = "XHFITDT.mx" tvg-name = "XHFITDT (XHFI-TDT)" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREVuOu5myWI7Mun4lXpfY68OaHBdrwRtS69Q&usqp=CAU "group-title =" LOCALES ", Las Estrellas - 1 hora
@@ -48,7 +48,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&l
 #EXTINF: -1 tvg-id = "Cinemax.mx" tvg-name = "Cinemax" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group- title = "RECOMENDADOS", Cinemax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=0007&format=HLSAD&f=.m3u8
 
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rapinet.may "group-title =" RECOMENDADOS ", Univisión Pac
+#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png "group-title =" RECOMENDADOS ", Univisión Pac
 http://208.88.246.11:4153/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "RECOMENDADOS", UniMas
 http://qqtv.nl:8080/Bradley1/Bradley123/51873
