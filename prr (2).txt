@@ -1,38 +1,38 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png "group-title =" ABIERTA ", Azteca Uno
+#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title=" ABIERTA", Azteca Uno
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0007&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png "group-title ="ABIERTA", Azteca Uno - 2 hora
+#EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="ABIERTA", Azteca Uno - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2195&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png "group-title =" ABIERTA ", Las Estrellas
+#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2656&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHFITDT.mx" tvg-name = "XHFITDT (XHFI-TDT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png "group-title =" ABIERTA ", Las Estrellas - 1 hora
+#EXTINF: -1 tvg-id = "XHFITDT.mx" tvg-name = "XHFITDT (XHFI-TDT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas - 1 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2671&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHUAATDT.mx" tvg-name = "XHUAATDT (XHUAAT-DT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png "group-title =" ABIERTA ", Las Estrellas - 2 hora
+#EXTINF: -1 tvg-id = "XHUAATDT.mx" tvg-name = "XHUAATDT (XHUAAT-DT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2662&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "ImagenTV.mx" tvg-name = "Imagen Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" grupo -title = " ABIERTA ", Imagen Televisión
+#EXTINF: -1 tvg-id = "ImagenTV.mx" tvg-name = "Imagen Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" grupo-title= " ABIERTA ", Imagen Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3013&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "ForoTV.mx" tvg-name = "Foro TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" grupo -title = "ABIERTA", Foro TV
+#EXTINF: -1 tvg-id = "ForoTV.mx" tvg-name = "Foro TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" grupo-title= "ABIERTA", Foro TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0004&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHLEGTDT.mx" tvg-name = "TV Cuatro" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" grupo -title = "ABIERTA", TV Cuatro
+#EXTINF: -1 tvg-id = "XHLEGTDT.mx" tvg-name = "TV Cuatro" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" grupo-title= "ABIERTA", TV Cuatro
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2274&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHPTDT.mx" tvg-name = "Canal 4 Puebla" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title = "ABIERTA", Canal 4 Puebla
+#EXTINF: -1 tvg-id = "XHPTDT.mx" tvg-name = "Canal 4 Puebla" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title= "ABIERTA", Canal 4 Puebla
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2312&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png "group-title =" ABIERTA ", Canal 5 
+#EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png " group-title=" ABIERTA ", Canal 5 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2364&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "MULTIMEDIOSPLUS.mx" tvg-name = "Canal 6 CDMX (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw .png "group-title =" ABIERTA ", Canal 6 CDMX (HD)
+#EXTINF: -1 tvg-id = "MULTIMEDIOSPLUS.mx" tvg-name = "Canal 6 CDMX (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw .png " group-title=" ABIERTA ", Canal 6 CDMX (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2882&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHLGGTDT.mx" tvg-name = "Canal 6 Bajío (XHLGG-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png "group-title =" ABIERTA ", Canal 6 Bajío (XHLGG-TDT)
+#EXTINF: -1 tvg-id = "XHLGGTDT.mx" tvg-name = "Canal 6 Bajío (XHLGG-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" ABIERTA ", Canal 6 Bajío (XHLGG-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2352&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "XHAWDT.mx" tvg-name = "Canal 6 Monterrey (XHAW-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png "group-title =" ABIERTA ", Canal 6 Monterrey (XHAW-TDT)
+#EXTINF: -1 tvg-id = "XHAWDT.mx" tvg-name = "Canal 6 Monterrey (XHAW-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" ABIERTA ", Canal 6 Monterrey (XHAW-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2305&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png "group-title =" ABIERTA ", Azteca 7 
+#EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png " group-title=" ABIERTA ", Azteca 7 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2365&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHCNLTDT.mx" tvg-name = "Canal 8 Monterrey (XHCNL-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhcnl.png "group-title =" ABIERTA ", Canal 8 Monterrey (XHCNL-TDT)
+#EXTINF: -1 tvg-id = "XHCNLTDT.mx" tvg-name = "Canal 8 Monterrey (XHCNL-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhcnl.png " group-title=" ABIERTA ", Canal 8 Monterrey (XHCNL-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2307&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group- title = "ABIERTA", NU9VE
+#EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title= "ABIERTA", NU9VE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2366&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XEIPNTDT.mx" tvg-name = "Canal Once" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" grupo -title = "ABIERTA", Canal Once
+#EXTINF: -1 tvg-id = "XEIPNTDT.mx" tvg-name = "Canal Once" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" grupo-title= "ABIERTA", Canal Once
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2938&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="ABIERTA",Canal Catorce
 http://23.237.29.98:4153/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
@@ -44,19 +44,19 @@ http://23.237.29.98:4153/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://23.237.29.98:4153/304Canal222/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="ABIERTA",Canal Del Congreso
 http://23.237.29.98:4153/145congreso/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF: -1 tvg-id = "XHGVTDT.mx" tvg-name = "TV Más 26.1" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title = "ABIERTA", TV Más 26.1
+#EXTINF: -1 tvg-id = "XHGVTDT.mx" tvg-name = "TV Más 26.1" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title= "ABIERTA", TV Más 26.1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2324&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "XHGEMTDT.mx" tvg-name = "Mexiquense Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" grupo -title = "ABIERTA", Mexiquense Televisión
+#EXTINF: -1 tvg-id = "XHGEMTDT.mx" tvg-name = "Mexiquense Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" grupo-title= "ABIERTA", Mexiquense Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0044&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "adn40.mx" tvg-name = "ADN 40" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" grupo -title = "ABIERTA", ADN 40
+#EXTINF: -1 tvg-id = "adn40.mx" tvg-name = "ADN 40" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" grupo-title = "ABIERTA", ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2381&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Clic.mx" tvg-name = "Clic" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" grupo- title = "ABIERTA", Clic
+#EXTINF: -1 tvg-id = "Clic.mx" tvg-name = "Clic" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" grupo-title = "ABIERTA", Clic
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0011&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "(Programación local ficticia)" tvg-name = "A + (XHFN-TDT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhfn2.png "título-grupo =" ABIERTA ", A + (XHFN-TDT2)
+#EXTINF: -1 tvg-id = "(Programación local ficticia)" tvg-name = "A + (XHFN-TDT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhfn2.png " grupo-title=" ABIERTA ", A + (XHFN-TDT2)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2316&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "IngenioTV.mx" tvg-name = "Ingenio TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" grupo -title = "ABIERTA ", Ingenio TV
+#EXTINF: -1 tvg-id = "IngenioTV.mx" tvg-name = "Ingenio TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" grupo-title= "ABIERTA ", Ingenio TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0011&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "CVShopping.mx" tvg-name = "CV Shopping (6.3 / 12.3 MT-SA)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95679_dark_360w_270h.png "group-title =" ABIERTA ", CV Shopping (6.3 / 12.3 MT-SA)
+#EXTINF: -1 tvg-id = "CVShopping.mx" tvg-name = "CV Shopping (6.3 / 12.3 MT-SA)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95679_dark_360w_270h.png " group-title=" ABIERTA ", CV Shopping (6.3 / 12.3 MT-SA)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1943&format=HLS&f=.m3u8
 
  
@@ -114,9 +114,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
-#EXTINF: -1 tvg-id = "TNT.mx" tvg-name = "TNT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" grupo- title = "CINE", TNT
+#EXTINF: -1 tvg-id = "TNT.mx" tvg-name = "TNT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" grupo-title = "CINE", TNT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0126&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Cinemax.mx" tvg-name = "Cinemax" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group- title = "CINE", Cinemax
+#EXTINF: -1 tvg-id = "Cinemax.mx" tvg-name = "Cinemax" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title = "CINE", Cinemax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Atrescine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="CINE",A3 Cine
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3112&format=HLSAD&f=.m3u8
@@ -156,7 +156,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=328&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="CINE",Paramount Network
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1726&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE",Cinema
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE", Cinema
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1787&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE",Star Series
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=139&format=HLS&f=.m3u8
