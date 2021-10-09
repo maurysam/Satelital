@@ -1,38 +1,38 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title=" ABIERTA", Azteca Uno
+#EXTINF: -1 tvg-id="XHDF (AztecaUno) .mx" tvg-name="Azteca Uno (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title=" ABIERTA", Azteca Uno
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0007&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="ABIERTA", Azteca Uno - 2 hora
+#EXTINF: -1 tvg-id="XHTVMDT2.mx" tvg-name="XHTVMDT2 (XHTVM-DT2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="ABIERTA", Azteca Uno - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2195&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2656&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHFITDT.mx" tvg-name = "XHFITDT (XHFI-TDT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas - 1 hora
+#EXTINF: -1 tvg-id="XHFITDT.mx" tvg-name="XHFITDT (XHFI-TDT)" tvg-logo ="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas - 1 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2671&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHUAATDT.mx" tvg-name = "XHUAATDT (XHUAAT-DT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas - 2 hora
+#EXTINF: -1 tvg-id="XHUAATDT.mx" tvg-name="XHUAATDT (XHUAAT-DT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title=" ABIERTA ", Las Estrellas - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2662&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "ImagenTV.mx" tvg-name = "Imagen Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" grupo-title= " ABIERTA ", Imagen Televisión
+#EXTINF: -1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title=" ABIERTA ", Imagen Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3013&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "ForoTV.mx" tvg-name = "Foro TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" grupo-title= "ABIERTA", Foro TV
+#EXTINF: -1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title= "ABIERTA", Foro TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0004&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHLEGTDT.mx" tvg-name = "TV Cuatro" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" grupo-title= "ABIERTA", TV Cuatro
+#EXTINF: -1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="ABIERTA", TV Cuatro
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2274&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHPTDT.mx" tvg-name = "Canal 4 Puebla" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title= "ABIERTA", Canal 4 Puebla
+#EXTINF: -1 tvg-id="XHPTDT.mx" tvg-name="Canal 4 Puebla" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="ABIERTA", Canal 4 Puebla
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2312&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png " group-title=" ABIERTA ", Canal 5 
+#EXTINF: -1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png " group-title=" ABIERTA ", Canal 5 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2364&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "MULTIMEDIOSPLUS.mx" tvg-name = "Canal 6 CDMX (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw .png " group-title=" ABIERTA ", Canal 6 CDMX (HD)
+#EXTINF: -1 tvg-id="MULTIMEDIOSPLUS.mx" tvg-name="Canal 6 CDMX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw .png " group-title=" ABIERTA ", Canal 6 CDMX (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2882&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHLGGTDT.mx" tvg-name = "Canal 6 Bajío (XHLGG-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" ABIERTA ", Canal 6 Bajío (XHLGG-TDT)
+#EXTINF: -1 tvg-id="XHLGGTDT.mx" tvg-name="Canal 6 Bajío (XHLGG-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" ABIERTA ", Canal 6 Bajío (XHLGG-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2352&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "XHAWDT.mx" tvg-name = "Canal 6 Monterrey (XHAW-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" ABIERTA ", Canal 6 Monterrey (XHAW-TDT)
+#EXTINF: -1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" ABIERTA ", Canal 6 Monterrey (XHAW-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2305&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png " group-title=" ABIERTA ", Azteca 7 
+#EXTINF: -1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png " group-title=" ABIERTA ", Azteca 7 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2365&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHCNLTDT.mx" tvg-name = "Canal 8 Monterrey (XHCNL-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhcnl.png " group-title=" ABIERTA ", Canal 8 Monterrey (XHCNL-TDT)
+#EXTINF: -1 tvg-id="XHCNLTDT.mx" tvg-name="Canal 8 Monterrey (XHCNL-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhcnl.png " group-title=" ABIERTA ", Canal 8 Monterrey (XHCNL-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2307&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title= "ABIERTA", NU9VE
+#EXTINF: -1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="ABIERTA", NU9VE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2366&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XEIPNTDT.mx" tvg-name = "Canal Once" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" grupo-title= "ABIERTA", Canal Once
+#EXTINF: -1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="ABIERTA", Canal Once
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2938&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="ABIERTA",Canal Catorce
 http://23.237.29.98:4153/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
@@ -44,19 +44,19 @@ http://23.237.29.98:4153/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://23.237.29.98:4153/304Canal222/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="ABIERTA",Canal Del Congreso
 http://23.237.29.98:4153/145congreso/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF: -1 tvg-id = "XHGVTDT.mx" tvg-name = "TV Más 26.1" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title= "ABIERTA", TV Más 26.1
+#EXTINF: -1 tvg-id="XHGVTDT.mx" tvg-name="TV Más 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="ABIERTA", TV Más 26.1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2324&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "XHGEMTDT.mx" tvg-name = "Mexiquense Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" grupo-title= "ABIERTA", Mexiquense Televisión
+#EXTINF: -1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="ABIERTA", Mexiquense Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0044&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "adn40.mx" tvg-name = "ADN 40" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" grupo-title = "ABIERTA", ADN 40
+#EXTINF: -1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="ABIERTA", ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2381&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Clic.mx" tvg-name = "Clic" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" grupo-title = "ABIERTA", Clic
+#EXTINF: -1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ABIERTA", Clic
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0011&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "(Programación local ficticia)" tvg-name = "A + (XHFN-TDT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhfn2.png " grupo-title=" ABIERTA ", A + (XHFN-TDT2)
+#EXTINF: -1 tvg-id="(Programación local ficticia)" tvg-name="A + (XHFN-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhfn2.png " group-title=" ABIERTA ", A + (XHFN-TDT2)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2316&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "IngenioTV.mx" tvg-name = "Ingenio TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" grupo-title= "ABIERTA ", Ingenio TV
+#EXTINF: -1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="ABIERTA ", Ingenio TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0011&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "CVShopping.mx" tvg-name = "CV Shopping (6.3 / 12.3 MT-SA)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95679_dark_360w_270h.png " group-title=" ABIERTA ", CV Shopping (6.3 / 12.3 MT-SA)
+#EXTINF: -1 tvg-id="CVShopping.mx" tvg-name="CV Shopping (6.3 / 12.3 MT-SA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95679_dark_360w_270h.png " group-title=" ABIERTA ", CV Shopping (6.3 / 12.3 MT-SA)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1943&format=HLS&f=.m3u8
 
  
@@ -76,13 +76,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 
 
 
-#EXTINF: -1 tvg-id = "Tooncast.mx" tvg-name = "Tooncast" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" grupo- title = "INFANTILES", Tooncast
+#EXTINF: -1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="INFANTILES", Tooncast
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=108&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "DiscoveryKids.mx" tvg-name = "Discovery Kids" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" grupo -title = "INFANTILES", Discovery Kids
+#EXTINF: -1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="INFANTILES", Discovery Kids
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=109&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "Nick.mx" tvg-name = "Nick (CAÍDO)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png "group-title =" INFANTILES ", Nick 
+#EXTINF: -1 tvg-id="Nick.mx" tvg-name="Nick (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png " group-title=" INFANTILES ", Nick 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=331&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "DisneyXD.mx" tvg-name = "Disney XD" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" grupo -title = "INFANTILES", Disney XD
+#EXTINF: -1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="INFANTILES", Disney XD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=111&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="INFANTILES",Cartoon Network
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=112&format=HLS&f=.m3u8
@@ -114,9 +114,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
-#EXTINF: -1 tvg-id = "TNT.mx" tvg-name = "TNT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" grupo-title = "CINE", TNT
+#EXTINF: -1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="CINE", TNT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0126&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Cinemax.mx" tvg-name = "Cinemax" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title = "CINE", Cinemax
+#EXTINF: -1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE", Cinemax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Atrescine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="CINE",A3 Cine
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3112&format=HLSAD&f=.m3u8
@@ -158,6 +158,16 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1726&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE", Cinema
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1787&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MC.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mcinema.png" group-title="CINE",MC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/430/12?f=.m3u8
+#EXTINF:-1 tvg-id="Multipremier.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mpremier.png" group-title="CINE",Multipremier
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/429/12?f=.m3u8
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="CINE",De Película Plus
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/493/12?f=.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="CINE",Cine Latino
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/431/12?f=.m3u8
+#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="CINE",Cine Latino US
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97902/12?f=.m3u8
 #EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE",Star Series
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=139&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE",Star Hits
@@ -194,27 +204,27 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
 
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="ENTRETENIMIENTO",Galavisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 "group-title =" ENTRETENIMIENTO ", Univisión
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 " group-title=" ENTRETENIMIENTO ", Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 "group-title =" ENTRETENIMIENTO ", Univisión
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 " group-title=" ENTRETENIMIENTO", Univisión
 https://cdn87.theus6tv.tk/locals/Pheonix/ktvw-dt1.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rapinet.may "group-title =" RECOMENDADOS ", Univisión Pac
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rapinet.may " group-title=" ENTRETENIMIENTO ", Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rapinet.may "group-title =" RECOMENDADOS ", Univisión Pac
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rapinet.may " group-title=" ENTRETENIMIENTO ", Univisión Pac
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
-#EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "ENTRETENIMIENTO", UniMas
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="ENTRETENIMIENTO ", UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "ENTRETENIMIENTO", UniMas 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="ENTRETENIMIENTO", UniMas 
 https://cdn87.theus6tv.tk/locals/Pheonix/ktvw-dt2.m3u8
-#EXTINF:-1 tvg-id="UniMas(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"  tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "ENTRETENIMIENTO", UniMas Pac
+#EXTINF:-1 tvg-id="UniMas(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="ENTRETENIMIENTO", UniMas Pac
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
-#EXTINF: -1 tvg-id = "Corazon.mx" tvg-name = "Corazón" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group- title = "ENTRETENIMIENTO", Corazón
+#EXTINF: -1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="ENTRETENIMIENTO", Corazón
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2410&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Mundo.mx" tvg-name = "Mundo" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" grupo- title = "ENTRETENIMIENTO", Mundo
+#EXTINF: -1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="ENTRETENIMIENTO", Mundo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0084&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "MVSTV.mx" tvg-name = "MVS TV (XHSAW-TDT4)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15213_dark_360w_270h.png "group-title =" ENTRETENIMIENTO ", MVS TV (XHSAW-TDT4)
+#EXTINF: -1 tvg-id="MVSTV.mx" tvg-name="MVS TV (XHSAW-TDT4)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15213_dark_360w_270h.png " group-title=" ENTRETENIMIENTO ", MVS TV (XHSAW-TDT4)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2149&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "MeganoticiasMX.mx" tvg-name = "Meganoticias MX" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" grupo -title = "ENTRETENIMIENTO", TVC
+#EXTINF: -1 tvg-id="MeganoticiasMX.mx" tvg-name = "Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="ENTRETENIMIENTO", TVC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3322&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="ENTRETENIMIENTO",TBS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=81&format=HLS&f=.m3u8
@@ -287,7 +297,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 
 
 
-#EXTINF: -1 tvg-id = "Afizzionados.mx" tvg-name = "Afizzionados" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group- title = "DEPORTE TOTAL", Afizzionados
+#EXTINF: -1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="DEPORTE TOTAL", Afizzionados
 http://odenfull.co:2086/142536/142536/58029
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="DEPORTE TOTAL ",ESPN Extra
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=167&format=HLS&f=.m3u8
@@ -297,9 +307,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=168&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="DEPORTE TOTAL ",ESPN 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=345&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "FOXSports (ConoNorteMexico) .mx" tvg-name = "Fox Sports" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17754_dark_360w_270h.png "group-title =" DEPORTE TOTAL ", Fox Sports
+#EXTINF: -1 tvg-id="FOXSports (ConoNorteMexico) .mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17754_dark_360w_270h.png " group-title=" DEPORTE TOTAL ", Fox Sports
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=171&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "FoxSports2 (ConoNorte) .mx" tvg-name = "Fox Sports 2" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png "group-title =" DEPORTE TOTAL ", Fox Sports 2
+#EXTINF: -1 tvg-id="FoxSports2 (ConoNorte) .mx" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png " group-title=" DEPORTE TOTAL ", Fox Sports 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=172&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTE TOTAL ",Fox Sports 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=178&format=HLS&f=.m3u8
@@ -319,7 +329,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2148&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="TVCDEPORTE TOTAL .mx" tvg-name="TVC DEPORTE TOTAL " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcd.png" group-title="DEPORTE TOTAL ",TVC DEPORTE TOTAL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2157&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "ClaroSports.mx" tvg-name = "Claro Sports (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115713_dark_360w_270h.png "group-title =" DEPORTE TOTAL ", Claro Sports
+#EXTINF: -1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115713_dark_360w_270h.png " group-title=" DEPORTE TOTAL ", Claro Sports
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2564&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTE TOTAL ",Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
@@ -386,6 +396,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0218&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="MÚSICA",Telehit Música Plus
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0220&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="HTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/htv.png" group-title="MÚSICA",HTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/401/12?f=.m3u8
+#EXTINF:-1 tvg-id="EXATV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="MÚSICA",Exa TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/460/12?f=.m3u8
+#EXTINF:-1 tvg-id="LaMejorTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mejor977.png" group-title="MÚSICA",La Mejor TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/399/12?f=.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="MÚSICA",Bandamax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0221&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="VideoRola.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="MÚSICA",VideoRola
@@ -403,9 +419,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 
 
 
-#EXTINF: -1 tvg-id = "Teleformula.mx" tvg-name = "Teleformula" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" grupo- title = "NOTICIAS", Teleformula
+#EXTINF: -1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="NOTICIAS", Teleformula
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0032&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "CongresoNacionalTV.mx" tvg-name = "Canal del Congreso" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title = "NOTICIAS", Canal del Congreso
+#EXTINF: -1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal del Congreso" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="NOTICIAS", Canal del Congreso
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2331&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN International (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="NOTICIAS",CNN International (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=185&format=HLS&f=.m3u8
@@ -437,7 +453,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1250&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="NOTICIAS",Milenio Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1252&format=HLS&f=.m3u8
-#EXTINF: -1 tvg-id = "XHCTRMTDT4.mx" tvg-name = "Imagen Multicast" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" grupo -title = "ABIERTA", Imagen multidifusión
+#EXTINF: -1 tvg-id="XHCTRMTDT4.mx" tvg-name="Imagen Multicast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" group-title="ABIERTA", Imagen multidifusión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1449&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="El Financiero Bloomberg" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="NOTICIAS",El Financiero Bloomberg
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1649&format=HLSAD&f=.m3u8
@@ -776,39 +792,39 @@ http://23.237.29.98:4153/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 #EXTINF:-1 tvg-id="SeXtreme.mx" tvg-name="Sextreme" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sextr.jpg" group-title="ADULTOS",Sextreme
 http://23.237.29.98:4153/490Sextreme/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "XHDF (AztecaUno) .mx" tvg-name = "Azteca Uno (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png "group-title =" SD ", Azteca Uno
+#EXTINF: -1 tvg-id="XHDF (AztecaUno) .mx" tvg-name="Azteca Uno (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png " group-title=" SD ", Azteca Uno
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0007&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHTVMDT2.mx" tvg-name = "XHTVMDT2 (XHTVM-DT2)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png "group-title ="SD", Azteca Uno - 2 hora
+#EXTINF: -1 tvg-id="XHTVMDT2.mx" tvg-name="XHTVMDT2 (XHTVM-DT2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png " group-title="SD", Azteca Uno - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2195&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "LasEstrellas.mx" tvg-name = "Las Estrellas (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png "group-title =" SD ", Las Estrellas
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png " group-title=" SD ", Las Estrellas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2656&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHFITDT.mx" tvg-name = "XHFITDT (XHFI-TDT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png "group-title =" SD ", Las Estrellas - 1 hora
+#EXTINF: -1 tvg-id="XHFITDT.mx" tvg-name="XHFITDT (XHFI-TDT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png " group-title=" SD ", Las Estrellas - 1 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2671&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHUAATDT.mx" tvg-name = "XHUAATDT (XHUAAT-DT)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png "group-title =" SD ", Las Estrellas - 2 hora
+#EXTINF: -1 tvg-id="XHUAATDT.mx" tvg-name="XHUAATDT (XHUAAT-DT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png " group-title=" SD ", Las Estrellas - 2 hora
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2662&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "ImagenTV.mx" tvg-name = "Imagen Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" grupo -title = " SD ", Imagen Televisión
+#EXTINF: -1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title=" SD ", Imagen Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3013&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "ForoTV.mx" tvg-name = "Foro TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" grupo -title = "SD", Foro TV
+#EXTINF: -1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="SD", Foro TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0004&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHLEGTDT.mx" tvg-name = "TV Cuatro" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" grupo -title = "SD", TV Cuatro
+#EXTINF: -1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="SD", TV Cuatro
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2274&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHPTDT.mx" tvg-name = "Canal 4 Puebla" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title = "SD", Canal 4 Puebla
+#EXTINF: -1 tvg-id="XHPTDT.mx" tvg-name="Canal 4 Puebla" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="SD", Canal 4 Puebla
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2312&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Canal5.mx" tvg-name = "Canal 5 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png "group-title =" SD ", Canal 5 
+#EXTINF: -1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png " group-title=" SD ", Canal 5 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2364&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "MULTIMEDIOSPLUS.mx" tvg-name = "Canal 6 CDMX (HD)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw .png "group-title =" SD ", Canal 6 CDMX (HD)
+#EXTINF: -1 tvg-id="MULTIMEDIOSPLUS.mx" tvg-name="Canal 6 CDMX (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw .png " group-title=" SD ", Canal 6 CDMX (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2882&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHLGGTDT.mx" tvg-name = "Canal 6 Bajío (XHLGG-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png "group-title =" SD ", Canal 6 Bajío (XHLGG-TDT)
+#EXTINF: -1 tvg-id="XHLGGTDT.mx" tvg-name="Canal 6 Bajío (XHLGG-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" SD ", Canal 6 Bajío (XHLGG-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2352&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHAWDT.mx" tvg-name = "Canal 6 Monterrey (XHAW-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png "group-title =" SD ", Canal 6 Monterrey (XHAW-TDT)
+#EXTINF: -1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhaw.png " group-title=" SD ", Canal 6 Monterrey (XHAW-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2305&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Azteca7.mx" tvg-name = "Azteca 7 (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png "group-title =" SD ", Azteca 7 
+#EXTINF: -1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png " group-title=" SD ", Azteca 7 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2365&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHCNLTDT.mx" tvg-name = "Canal 8 Monterrey (XHCNL-TDT)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhcnl.png "group-title =" SD ", Canal 8 Monterrey (XHCNL-TDT)
+#EXTINF: -1 tvg-id="XHCNLTDT.mx" tvg-name="Canal 8 Monterrey (XHCNL-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhcnl.png " group-title=" SD ", Canal 8 Monterrey (XHCNL-TDT)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2307&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Nu9ve.mx" tvg-name = "NU9VE" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group- title = "SD", NU9VE
+#EXTINF: -1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="SD", NU9VE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2366&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XEIPNTDT.mx" tvg-name = "Canal Once" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" grupo -title = "SD", Canal Once
+#EXTINF: -1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="SD", Canal Once
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2938&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="SD",Canal Catorce
 http://23.237.29.98:4153/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
@@ -820,27 +836,27 @@ http://23.237.29.98:4153/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://23.237.29.98:4153/304Canal222/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="SD",Canal Del Congreso
 http://23.237.29.98:4153/145congreso/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF: -1 tvg-id = "XHGVTDT.mx" tvg-name = "TV Más 26.1" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title = "SD", TV Más 26.1
+#EXTINF: -1 tvg-id="XHGVTDT.mx" tvg-name="TV Más 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="SD", TV Más 26.1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2324&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHGEMTDT.mx" tvg-name = "Mexiquense Televisión" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" grupo -title = "SD", Mexiquense Televisión
+#EXTINF: -1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="SD", Mexiquense Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0044&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "adn40.mx" tvg-name = "ADN 40" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" grupo -title = "SD", ADN 40
+#EXTINF: -1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="SD", ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2381&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Clic.mx" tvg-name = "Clic" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" grupo- title = "SD", Clic
+#EXTINF: -1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="SD", Clic
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0011&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "(Programación local ficticia)" tvg-name = "A + (XHFN-TDT2)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhfn2.png "título-grupo =" SD ", A + (XHFN-TDT2)
+#EXTINF: -1 tvg-id="(Programación local ficticia)" tvg-name="A + (XHFN-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems /xhfn2.png " group-title=" SD ", A + (XHFN-TDT2)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2316&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "IngenioTV.mx" tvg-name = "Ingenio TV" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" grupo -title = "SD ", Ingenio TV
+#EXTINF: -1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="SD ", Ingenio TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0011&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "CVShopping.mx" tvg-name = "CV Shopping (6.3 / 12.3 MT-SA)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95679_dark_360w_270h.png "group-title =" SD ", CV Shopping (6.3 / 12.3 MT-SA)
+#EXTINF: -1 tvg-id="CVShopping.mx" tvg-name="CV Shopping (6.3 / 12.3 MT-SA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95679_dark_360w_270h.png " group-title=" SD ", CV Shopping (6.3 / 12.3 MT-SA)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1943&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Tooncast.mx" tvg-name = "Tooncast" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" grupo- title = "SD", Tooncast
+#EXTINF: -1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="SD", Tooncast
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "DiscoveryKids.mx" tvg-name = "Discovery Kids" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" grupo -title = "SD", Discovery Kids
+#EXTINF: -1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="SD", Discovery Kids
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=109&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Nick.mx" tvg-name = "Nick (CAÍDO)" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png "group-title =" SD ", Nick 
+#EXTINF: -1 tvg-id="Nick.mx" tvg-name="Nick (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png " group-title=" SD ", Nick 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=331&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "DisneyXD.mx" tvg-name = "Disney XD" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" grupo -title = "SD", Disney XD
+#EXTINF: -1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="SD", Disney XD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=111&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="SD",Cartoon Network
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
@@ -864,11 +880,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2591&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Locomotion" tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="SD",Locomotion
 http://51.222.85.85:81/HLSAD/loco/index.m3u8
-#EXTINF: -1 tvg-id = "TNT.mx" tvg-name = "TNT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" grupo- title = "SD", TNT
+#EXTINF: -1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SD", TNT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0126&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "SDmax.mx" tvg-name = "SDmax" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group- title = "SD", SDmax
+#EXTINF: -1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="SD", Cinemax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0158&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-id="AtresSD(Spanish).us" tvg-name="A3 SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="SD",A3 SD
+#EXTINF:-1 tvg-id="AtresCine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="SD",A3 Cine
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="SD",De Película Plus
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=121&format=HLSAD&f=.m3u8
@@ -898,15 +914,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=138&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="Morbido TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/morbido.png" group-title="SD",Morbido TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=140&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-id="SDcanal.mx" tvg-name="SDcanal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="SD",SDcanal
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="SD",Cinecanal
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=149&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-id="SDmax.mx" tvg-name="SDmax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="SD",SDmax
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="SD",Cinemax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="SD",AMC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=328&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="SD",Paramount Network
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1726&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-id="SDma.mx" tvg-name="SDma" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/SDma.png" group-title="SD",SDma
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/SDma.png" group-title="SD",Cinema
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1787&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SD",Star Series
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=139&format=HLSAD&f=.m3u8
@@ -918,7 +934,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1725&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="STARFUN.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="SD",Star Fun
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1724&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-id="STARSDMA.mx" tvg-name="Star SDma" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starSDma.png" group-title="SD",Star SDma
+#EXTINF:-1 tvg-id="STARCINEMA.mx" tvg-name="Star Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starSDma.png" group-title="SD",Star Cinema
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1729&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="Star Classics" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="SD",Star Classics
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1732&format=HLSAD&f=.m3u8
@@ -938,27 +954,27 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/284/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
 #EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="SD",Galavisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 "group-title =" SD ", Univisión
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 " group-title=" SD ", Univisión
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 "group-title =" SD ", Univisión
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png9 " group-title=" SD ", Univisión
 https://cdn87.theus6tv.tk/locals/Pheonix/ktvw-dt1.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rapinet.may "group-title =" RECOMENDADOS ", Univisión Pac
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rapinet.may " group-title=" SD", Univisión Pac
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
-#EXTINF: -1 tvg-id = "UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rapinet.may "group-title =" RECOMENDADOS ", Univisión Pac
+#EXTINF: -1 tvg-id="UnivisionNetwork (español) .us" user-agent = "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rapinet.may " group-title=" SD ", Univisión Pac
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
-#EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "SD", UniMas
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title= "SD", UniMas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "SD", UniMas 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SD", UniMas 
 https://cdn87.theus6tv.tk/locals/Pheonix/ktvw-dt2.m3u8
-#EXTINF:-1 tvg-id="UniMas(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"  tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title = "SD", UniMas Pac
+#EXTINF:-1 tvg-id="UniMas(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SD", UniMas Pac
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
-#EXTINF: -1 tvg-id = "Corazon.mx" tvg-name = "Corazón" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group- title = "SD", Corazón
+#EXTINF: -1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="SD", Corazón
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2410&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Mundo.mx" tvg-name = "Mundo" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" grupo- title = "SD", Mundo
+#EXTINF: -1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="SD", Mundo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0084&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "MVSTV.mx" tvg-name = "MVS TV (XHSAW-TDT4)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15213_dark_360w_270h.png "group-title =" SD ", MVS TV (XHSAW-TDT4)
+#EXTINF: -1 tvg-id="MVSTV.mx" tvg-name="MVS TV (XHSAW-TDT4)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15213_dark_360w_270h.png " group-title=" SD ", MVS TV (XHSAW-TDT4)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2149&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "MegaSDMX.mx" tvg-name = "MegaSD MX" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" grupo -title = "SD", TVC
+#EXTINF: -1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="SD", TVC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=3322&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="SD",TBS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=81&format=HLSAD&f=.m3u8
@@ -1024,7 +1040,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=198&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="TVE Star HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/startve.png" group-title="SD",TVE Star HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2375&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Afizzionados.mx" tvg-name = "Afizzionados" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group- title = "SD", Afizzionados
+#EXTINF: -1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="SD", Afizzionados
 http://odenfull.co:2086/142536/142536/58029
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="SD ",ESPN Extra
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=167&format=HLSAD&f=.m3u8
@@ -1034,9 +1050,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=168&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="SD ",ESPN 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=345&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "FOXSports (ConoNorteMexico) .mx" tvg-name = "Fox Sports" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17754_dark_360w_270h.png "group-title =" SD ", Fox Sports
+#EXTINF: -1 tvg-id="FOXSports (ConoNorteMexico) .mx" tvg-name="Fox Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17754_dark_360w_270h.png " group-title=" SD ", Fox Sports
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=171&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "FoxSports2 (ConoNorte) .mx" tvg-name = "Fox Sports 2" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png "group-title =" SD ", Fox Sports 2
+#EXTINF: -1 tvg-id="FoxSports2 (ConoNorte) .mx" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png " group-title=" SD ", Fox Sports 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=172&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="SD ",Fox Sports 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=178&format=HLSAD&f=.m3u8
@@ -1056,7 +1072,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2148&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="TVCSD .mx" tvg-name="TVC SD " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcd.png" group-title="SD ",TVC SD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2157&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "ClaroSports.mx" tvg-name = "Claro Sports (HD)" tvg-logo = "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115713_dark_360w_270h.png "group-title =" SD ", Claro Sports
+#EXTINF: -1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115713_dark_360w_270h.png " group-title=" SD ", Claro Sports
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2564&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SD ",Bein Ñ
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
@@ -1120,9 +1136,9 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0223&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="SD",MTV 00s (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0334&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "Teleformula.mx" tvg-name = "Teleformula" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" grupo- title = "SD", Teleformula
+#EXTINF: -1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="SD", Teleformula
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0032&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "CongresoNacionalTV.mx" tvg-name = "Canal del Congreso" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title = "SD", Canal del Congreso
+#EXTINF: -1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal del Congreso" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="SD", Canal del Congreso
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2331&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN International (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="SD",CNN International (HD)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=185&format=HLSAD&f=.m3u8
@@ -1154,7 +1170,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1250&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="SD",Milenio Televisión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1252&format=HLSAD&f=.m3u8
-#EXTINF: -1 tvg-id = "XHCTRMTDT4.mx" tvg-name = "Imagen Multicast" tvg-logo = "https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" grupo -title = "SD", Imagen multidifusión
+#EXTINF: -1 tvg-id="XHCTRMTDT4.mx" tvg-name="Imagen Multicast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" group-title="SD", Imagen multidifusión
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1449&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="El Financiero Bloomberg" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="SD",El Financiero Bloomberg
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=1649&format=HLSAD&f=.m3u8
