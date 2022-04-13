@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, Telemundo
-https://netcoop.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTINF:-1, Telefe
 https://netcoop.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1, Comedy Central
