@@ -85,7 +85,7 @@ https://netcoop.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 #EXTINF:-1, HBO SIGNATURE
 https://netcoop.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 #EXTINF:-1, HBO XTREME 
-https://netcoop.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:-1, HBO MUNDO
 https://netcoop.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 #EXTINF:-1, HBO POP
