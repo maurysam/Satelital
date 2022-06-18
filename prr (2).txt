@@ -3,172 +3,104 @@
 #EXTINF:-1, Telemundo
 https://router.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTINF:-1, Telefe
-https://netcoop.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1, Comedy Central
-https://netcoop.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXTINF:-1, Lifetime 
-https://netcoop.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 #EXTINF:-1, MasChic
-https://netcoop.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 #EXTINF:-1, TruTV 
-https://netcoop.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 #EXTINF:-1, Cartoon Network 
-https://netcoop.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
 #EXTINF:-1, Disney Channel 
-https://netcoop.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 #EXTINF:-1, Disney XD 
-https://netcoop.cdn.rcs.net.ar/mnp/disneyxd_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/disneyxd_hls/playlist.m3u8
 #EXTINF:-1, Disney Junior 
-https://netcoop.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 #EXTINF:-1, Nick 
-https://netcoop.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 #EXTINF :-1, Nick Jr 
-https://netcoop.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
 #EXTINF:-1,Tooncast 
-https://netcoop.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 #EXTINF:-1, Baby TV 
-https://netcoop.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
 #EXTINF:-1, Cartoonito
-https://netcoop.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
 #EXTINF:-1, A&E
-https://netcoop.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 #EXTINF:-1, Cinemax
-https://netcoop.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1, Cinecanal 
-https://netcoop.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 #EXTINF:-1,TNT 
-https://netcoop.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 #EXTINF:-1,TNT Series 
-https://netcoop.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 #EXTINF:-1, AXN
-https://netcoop.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF:-1, AMC
-https://netcoop.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 #EXTINF:-1, SYFY 
-https://netcoop.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 #EXTINF:-1, FX
-https://netcoop.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1, FXM
-https://netcoop.cdn.rcs.net.ar/mnp/fxm_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/fxm_hls/playlist.m3u8
 #EXTINF :-1, Space
-https://netcoop.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 #EXTINF:-1, Paramount Network 
-https://netcoop.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 #EXTINF:-1, Sony 
-https://netcoop.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 #EXTINF:-1, Tbs
-https://netcoop.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 #EXTINF:-1, Universal 
-https://netcoop.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 #EXTINF:-1, Warner 
-https://netcoop.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 #EXTINF:-1, TCM
-https://netcoop.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 #EXTINF:-1, Cine Ar
-https://netcoop.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
 #EXTINF:-1, History 
-https://netcoop.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 #EXTINF:-1, History 2
-https://netcoop.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 #EXTINF:-1, Discovery 
-https://netcoop.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1, Isat
-https://netcoop.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
 #EXTINF:-1, HBO
-https://netcoop.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1, HBO2
-https://netcoop.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 #EXTINF:-1, HBO PLUS
-https://netcoop.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 #EXTINF:-1, HBO FAMILY 
-https://netcoop.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 #EXTINF:-1, HBO SIGNATURE
-https://netcoop.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 #EXTINF:-1, HBO XTREME 
 https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:-1, HBO MUNDO
-https://netcoop.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 #EXTINF:-1, HBO POP
-https://netcoop.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF:-1, HTV
-https://netcoop.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
 #EXTINF:-1, MTV 
-https://netcoop.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 #EXTINF:-1, TNT Sport
-https://netcoop.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1, Golf
-https://netcoop.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 #EXTINF:-1, El Gourmet 
-https://netcoop.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF:-1, CNN
-https://netcoop.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
 #EXTINF:-1, CM
-https://netcoop.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="HBOHD.mx" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="CINE PREMIUM",HBO HD
-http://208.88.246.11:2741/eventox6/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
-#EXTINF:-1 tvg-id="HBOW.mx" tvg-name="HBO (W)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="CINE PREMIUM",HBO 
-http://208.88.246.11:2741/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"
-
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="CINE PREMIUM",HBO 2
-http://208.88.246.11:2741/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"
-
-#EXTINF:-1 tvg-id="HBOPlusW.mx" tvg-name="HBO Plus (W)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="CINE PREMIUM",HBO Plus
-http://208.88.246.11:2741/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
-#EXTINF:-1 tvg-id="HBOFamilyE.mx" tvg-name="HBO Family (E)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="CINE PREMIUM",HBO Family
-http://23.237.29.98:2741/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
-#EXTINF:-1 tvg-id="MaxPrimeW.mx" tvg-name="Max Prime (W)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="CINE PREMIUM",HBO Xtreme
-http://208.88.246.11:2741/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-#EXTINF:-1 tvg-id="EXATV.mx" tvg-name="EXA TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="MÚSICA",Exa TV
-http://23.237.29.98:2741/252NU/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-
-#EXTINF:-1 tvg-id="LaMejorTV.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mejor977.png" group-title="MÚSICA",La Mejor TV
-http://23.237.29.98:2741/255exatv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-
-#EXTINF:-1 tvg-id="TelehitHD.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="MÚSICA",Telehit HD
-http://208.88.246.11:2741/live/DTURBO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF %C2%A0g7x ¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-
-#EXTINF:-1 tvg-id="HTV.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/htv.png" group-title="MÚSICA",HTV
-http://23.237.29.98:2741/260htv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="MÚSICA",Bandamax
-http://208.88.246.11:2741/encoder70/goltv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-
-#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="MÚSICA",VideoRola
-http://23.237.29.98:2741/258VROLA/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV
-http://208.88.246.11:2741/live/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV SD
-http://23.237.29.98:2741/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTVHits.es" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="MÚSICA",MTV Hits
-http://23.237.29.98:2741/mtvhitsts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name=" " tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s
-http://23.237.29.98:2741/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8|User-Agent=vsaClient/4.4.6 (Linux; Android 10; es-MX; STK-LX3 Build/STK-L03B 10.0.0.286(C605E2R1P2));BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-HKMFKDEUC-1208.2 ;;) WebKit;HbbTV / 1.2.1 (+ DRM; Samsung; SmartTV2016; T-KTMAKUC-1290.3, BT-S;;) WebKit
-
-
-#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv80.png" group-title="MÚSICA",MTV 80s
-https://blackghost.live/play/totalp1-950.php?c=214&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nickm.png" group-title="MÚSICA",Nickmusic
-https://blackghost.live/play/totalp1-950.php?c=1708&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name=" "
-tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MÚSICA",Teleritmo
-http://23.237.29.98:2741/276teleritmo/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-
-
+https://router.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
