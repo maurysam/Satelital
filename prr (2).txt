@@ -1,106 +1,108 @@
 #EXTM3U
 
 #EXTINF:-1, Telemundo
-https://router.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/Telemundo/output.mpd
 #EXTINF:-1, Telefe
-https://router.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1, Comedy Central
-https://router.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1, Lifetime 
-https://router.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1, MasChic
-https://router.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/maschic/output.mpd
 #EXTINF:-1, TruTV 
-https://router.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1, Cartoon Network 
-https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 #EXTINF:-1, Disney Channel 
-https://router.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1, Disney XD 
-https://router.cdn.rcs.net.ar/mnp/disneyxd_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
 #EXTINF:-1, Disney Junior 
-https://router.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1, Nick 
-https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 #EXTINF :-1, Nick Jr 
-https://router.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 #EXTINF:-1,Tooncast 
-https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1, Baby TV 
-https://router.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/babytv/output.mpd
 #EXTINF:-1, Cartoonito
-https://router.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1, A&E
-https://router.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1, Cinemax
-https://router.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1, Cinecanal 
-https://router.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1,TNT 
-https://router.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1,TNT Series 
-https://router.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1, AXN
-https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1, AMC
-https://router.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1, SYFY 
-https://router.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1, FX
-https://router.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1, FXM
-https://router.cdn.rcs.net.ar/mnp/fxm_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/fxm/output.mpd
 #EXTINF :-1, Space
-https://router.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1, Paramount Network 
-https://router.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1, Sony 
-https://router.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1, Tbs
-https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1, Universal 
-https://router.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1, Warner 
-https://router.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1, TCM
-https://router.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1, Cine Ar
-https://router.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1, History 
-https://router.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1, History 2
-https://router.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1, Discovery 
-https://router.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1, Isat
-https://router.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/isat/output.mpd
 #EXTINF:-1, HBO
-https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1, HBO2
-https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1, HBO PLUS
-https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1, HBO FAMILY 
-https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1, HBO SIGNATURE
-https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1, HBO XTREME 
-https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 #EXTINF:-1, HBO MUNDO
-https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1, HBO POP
-https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1, HTV
-https://router.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1, MTV 
-https://router.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/mtv/output.mpd
 #EXTINF:-1, TNT Sport
-https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1, Golf
-https://router.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1, El Gourmet 
-https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 #EXTINF:-1, CNN
-https://router.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/cnn/output.mpd
 #EXTINF:-1, CM
-https://router.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
+https://prismadig.cdn.rcs.net.ar/mnp/cm/output.mpd
+
+
