@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, Telemundo
+https://prismadig.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://prismadig.cdn.rcs.net.ar/mnp/Telemundo/output.mpd
 #EXTINF:-1, Telefe
 https://prismadig.cdn.rcs.net.ar/mnp/telefe/output.mpd
