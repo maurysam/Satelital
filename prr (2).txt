@@ -7,14 +7,14 @@
 #EXT-X-STREAM-INF:BANDWIDTH=636607,CODECS="avc1.42001e",AUDIO="audio" **track_1_500/playlist.m3u8** 
 #EXT-X-STREAM-INF:BANDWIDTH=2736607,CODECS="avc1.42001f",AUDIO="audio" **track_2_2500/playlist.m3u8** 
 #EXT-X-STREAM-INF:BANDWIDTH=6300000,CODECS="avc1.420028",AUDIO="audio" **track_3_6000/playlist.m3u8**
-https://prismadig.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+https://prismadig.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 https://prismadig.cdn.rcs.net.ar/mnp/Telemundo/output.mpd
 #EXTINF:-1, Telefe
 https://prismadig.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1, Comedy Central
-https://prismadig.cdn.rcs.net.ar/mnp/comedy/output.mpd
+https://prismadig.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (es)",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,**URI="audio_4/playlist.m3u8"** 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 1 (en)",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,**URI="audio_5/playlist.m3u8"** 
 #EXT-X-VERSION:5 #EXT-X-STREAM-INF:BANDWIDTH=1775892,CODECS="avc1.42001f",AUDIO="audio" **track_0_1500/playlist.m3u8** 
