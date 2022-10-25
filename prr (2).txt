@@ -15,6 +15,13 @@ https://prismadig.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 https://prismadig.cdn.rcs.net.ar/mnp/Telemundo/output.mpd
+
+#EXTINF:-1, Star Channel
+https://netcoop02.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
+
+
+
 #EXTINF:-1, Telefe
 https://prismadig.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1, Comedy Central
