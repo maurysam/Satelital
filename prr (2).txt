@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1, Star Channel
+https://netcoop02.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
 #EXTINF:-1, Telemundo
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (es)",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,**URI="audio_4/playlist.m3u8"** 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 1 (en)",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,**URI="audio_5/playlist.m3u8"** 
