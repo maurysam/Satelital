@@ -2,17 +2,22 @@
 
 #EXTINF:-1,TELEMUNDO44
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+
 #EXTINF:-1,TELEMUNDOLA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+
 #EXTINF:-1,TELEMUNDO48
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+
 #EXTINF:-1,TELEMUNDONEWYORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
 
 #EXTINF:-1,Canal De Las Estrellas
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+
 #EXTINF:-1,Canal 5
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+
 #EXTINF:-1,TELEMUNDO ARIZONA
 https://v-px.mybtv.net/live/39.m3u8?env=prd&uid=-1&x=1
 
