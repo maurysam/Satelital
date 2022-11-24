@@ -529,10 +529,10 @@ https://netcoop02.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_
 #EXT-X-STREAM-INF:BANDWIDTH=636607,CODECS="avc1.42001e",AUDIO="audio" **track_1_500/playlist.m3u8** 
 #EXT-X-STREAM-INF:BANDWIDTH=2736607,CODECS="avc1.42001f",AUDIO="audio" **track_2_2500/playlist.m3u8** 
 #EXT-X-STREAM-INF:BANDWIDTH=6300000,CODECS="avc1.420028",AUDIO="audio" **track_3_6000/playlist.m3u8**
-https://prismadig.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+https://netcoop02.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-https://prismadig.cdn.rcs.net.ar/mnp/Telemundo/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/Telemundo/output.mpd
 
 #EXTINF:-1, Star Channel
 https://netcoop02.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
@@ -541,9 +541,9 @@ https://netcoop02.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_
 
 
 #EXTINF:-1, Telefe
-https://prismadig.cdn.rcs.net.ar/mnp/telefe/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1, Comedy Central
-https://prismadig.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+https://netcoop02.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (es)",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,**URI="audio_4/playlist.m3u8"** 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 1 (en)",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,**URI="audio_5/playlist.m3u8"** 
 #EXT-X-VERSION:5 #EXT-X-STREAM-INF:BANDWIDTH=1775892,CODECS="avc1.42001f",AUDIO="audio" **track_0_1500/playlist.m3u8** 
@@ -551,102 +551,103 @@ https://prismadig.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2736607,CODECS="avc1.42001f",AUDIO="audio" **track_2_2500/playlist.m3u8** 
 #EXT-X-STREAM-INF:BANDWIDTH=6300000,CODECS="avc1.420028",AUDIO="audio" **track_3_6000/playlist.m3u8**
 #EXTINF:-1, Lifetime 
-https://prismadig.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1, MasChic
-https://prismadig.cdn.rcs.net.ar/mnp/maschic/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/maschic/output.mpd
 #EXTINF:-1, TruTV 
-https://prismadig.cdn.rcs.net.ar/mnp/trutv/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1, Cartoon Network 
-https://prismadig.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 #EXTINF:-1, Disney Channel 
-https://prismadig.cdn.rcs.net.ar/mnp/disney/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1, Disney XD 
-https://prismadig.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
 #EXTINF:-1, Disney Junior 
-https://prismadig.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1, Nick 
-https://prismadig.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 #EXTINF :-1, Nick Jr 
-https://prismadig.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 #EXTINF:-1,Tooncast 
-https://prismadig.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1, Baby TV 
-https://prismadig.cdn.rcs.net.ar/mnp/babytv/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/babytv/output.mpd
 #EXTINF:-1, Cartoonito
-https://prismadig.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1, A&E
-https://prismadig.cdn.rcs.net.ar/mnp/ae/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1, Cinemax
-https://prismadig.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1, Cinecanal 
-https://prismadig.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1,TNT 
-https://prismadig.cdn.rcs.net.ar/mnp/tnt/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1,TNT Series 
-https://prismadig.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1, AXN
-https://prismadig.cdn.rcs.net.ar/mnp/axn/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1, AMC
-https://prismadig.cdn.rcs.net.ar/mnp/amc/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1, SYFY 
-https://prismadig.cdn.rcs.net.ar/mnp/syfy/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1, FX
-https://prismadig.cdn.rcs.net.ar/mnp/fx/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1, FXM
-https://prismadig.cdn.rcs.net.ar/mnp/fxm/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/fxm/output.mpd
 #EXTINF :-1, Space
-https://prismadig.cdn.rcs.net.ar/mnp/space/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1, Paramount Network 
-https://prismadig.cdn.rcs.net.ar/mnp/paramount/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1, Sony 
-https://prismadig.cdn.rcs.net.ar/mnp/sony/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1, Tbs
-https://prismadig.cdn.rcs.net.ar/mnp/tbs/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1, Universal 
-https://prismadig.cdn.rcs.net.ar/mnp/universal/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1, Warner 
-https://prismadig.cdn.rcs.net.ar/mnp/warner/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1, TCM
-https://prismadig.cdn.rcs.net.ar/mnp/tcm/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1, Cine Ar
-https://prismadig.cdn.rcs.net.ar/mnp/cinear/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1, History 
-https://prismadig.cdn.rcs.net.ar/mnp/history/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1, History 2
-https://prismadig.cdn.rcs.net.ar/mnp/h2/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1, Discovery 
-https://prismadig.cdn.rcs.net.ar/mnp/discovery/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1, Isat
-https://prismadig.cdn.rcs.net.ar/mnp/isat/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/isat/output.mpd
 #EXTINF:-1, HBO
-https://prismadig.cdn.rcs.net.ar/mnp/hbo/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1, HBO2
-https://prismadig.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1, HBO PLUS
-https://prismadig.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1, HBO FAMILY 
-https://prismadig.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1, HBO SIGNATURE
-https://prismadig.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1, HBO XTREME 
-https://prismadig.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 #EXTINF:-1, HBO MUNDO
-https://prismadig.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1, HBO POP
-https://prismadig.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1, HTV
-https://prismadig.cdn.rcs.net.ar/mnp/htv/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1, MTV 
-https://prismadig.cdn.rcs.net.ar/mnp/mtv/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/mtv/output.mpd
 #EXTINF:-1, TNT Sport
-https://prismadig.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1, Golf
-https://prismadig.cdn.rcs.net.ar/mnp/golf/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1, El Gourmet 
-https://prismadig.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 #EXTINF:-1, CNN
-https://prismadig.cdn.rcs.net.ar/mnp/cnn/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/cnn/output.mpd
 #EXTINF:-1, CM
-https://prismadig.cdn.rcs.net.ar/mnp/cm/output.mpd
+https://netcoop02.cdn.rcs.net.ar/mnp/cm/output.mpd
+
 
 
