@@ -1,48 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png" group-title="Lista 27 solo OTT", BLACKGHOST 27
-http://bgapp.live/TV&f=&token=blaaaackhost&fi=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 27 solo OTT", http://paypal.me/blackghost
-http://bgapp.live/TV&f=&token=blaaaackhost&fi=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 27 solo OTT", BLACKGHOST 27
+http://bgapp.live/TV&f=&token=blaaackghost&fi=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 27 solo OTT",  http://paypal.me/blackghost
+http://bgapp.live/TV&f=&token=blaaackghost&fi=.m3u8
 
 
 
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"cRkGm5kBW0657kMAV3OZ4g" group-title="Lista 27 solo OTT ", "k":"uJgnzJcM142ogv_KNQTHdA"}]}
-#EXTVLCOPT:caché de red=1000
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"cRkGm5kBW0657kMAV3OZ4g" group-title="Lista 27 solo OTT", "k":"uJgnzJcM142ogv_KNQTHdA"}]}
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://1061-abc.dtvott.com/
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS
 https://1061-abc.dtvott.com/dash_live_1061/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"qwIKFxDWMBaN4haYN1pDnA" group-title="Lista 27 solo OTT ", "k":"I1iYzbELDNujXqLOlPux-w"}]}
-#EXTVLCOPT:caché de red=1000
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"qwIKFxDWMBaN4haYN1pDnA" group-title="Lista 27 solo OTT", "k":"I1iYzbELDNujXqLOlPux-w"}]}
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://1063-vos.dtvott.com
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS 2
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS 2
 https://1063-vos.dtvott.com/DASH/manifest.mpd
 
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS +
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS +
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 
@@ -53,48 +53,48 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"cM6OwL2iVmSzJVDh03ekgA" group-title="Lista 27 solo OTT ", "k":"K5Eke9RTZOtqtdTCxxyusA"}]}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN Sur
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"cM6OwL2iVmSzJVDh03ekgA" group-title="Lista 27 solo OTT", "k":"K5Eke9RTZOtqtdTCxxyusA"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN Sur
 https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"kz3o6RVTWuGMJVilp2MYyQ" group-title="Lista 27 solo OTT ", "k":"4fwe7U6ug-DcGzcFy2LKZA"}]}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN 2 Sur
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"kz3o6RVTWuGMJVilp2MYyQ" group-title="Lista 27 solo OTT", "k":"4fwe7U6ug-DcGzcFy2LKZA"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 2 Sur
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"v2i0CrnCWFmLcyBFCauGDQ" group-title="Lista 27 solo OTT ", "k":"8SpnwA1O8olVByrsMWom8A"}]}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN 3 Sur
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"v2i0CrnCWFmLcyBFCauGDQ" group-title="Lista 27 solo OTT", "k":"8SpnwA1O8olVByrsMWom8A"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 3 Sur 
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"G5mE3GayWf6K5ZfLT8H0ww" group-title="Lista 27 solo OTT ", "k":"_bv1o5EJNJ17apl-g_ueSw"}]}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TNT SPORTS CHILE
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"G5mE3GayWf6K5ZfLT8H0ww" group-title="Lista 27 solo OTT", "k":"_bv1o5EJNJ17apl-g_ueSw"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TNT SPORTS CHILE
 https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
 
 
@@ -106,41 +106,41 @@ https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
 
 
 #EXTINF:-1 group-title="Lista 27 solo OTT", LA LIGA PREMIER- PARAMOUNT+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TargeLon=0&device&TargeDNT=%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", LA SELECCION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&Lon=0&DTARGENTdevice=%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", FUTBOL PARA FANS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TargeDNT=0&device&device%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", MOTORVISIONTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TargeDNT=0&device&device%7BTARGELon=0&device&PTI%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", PELEAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&Lon=0&DTARGENTdevice=%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", FUEL TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTOTPTOdeviceLon=0%&7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", PARAMOUNT+ PRESENTA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTODNTTOdevice%DNTTO%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDTARGENT=PT%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", NICK CLASICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DGELon%PTI%7BDGENTdevice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", CINE CRIMEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceDGELon%PTI%Tardevice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EL SHOW DE ED SULLIVAN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TARGELon%PTI%7BDevice&TargeLon=0&device%TTARDEvice%=0&device =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Lista 27 solo OTT", THE ED SULLIVAN SHOW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", HECHIZADA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceDGETOd%PTI%DviceLon=0&device&TARGELon=0&device%TTARDEvice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EL TURNO DE NOCHE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTODEviceLon=0&device%DNTTODTARGEd=0%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Lista 27 solo OTT", THE NIGHT SHIFT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", EMPE\u00d1OS A LO BESTIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTODEviceLon=0&device%DNTTODTARGEd=0%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", BOB ESPONJA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTOTARGEd=0%&device%DNTTODeviceLon=0&device%DNTTO =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", GRAN HERMANO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&Dargent=0&deviceDTARGENT=PT%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA COCINA DEL INFIERNO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DEviceLon=0&device&TARGEDNTd%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Lista 27 solo OTT", HELL'S KITCHEN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", Daria
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DGELon%7BDGENTdevice%7BDGENTdevice%&device%7BDGENT=0&device%TTARdevice%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", ETC Chile
 https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 
@@ -154,187 +154,187 @@ https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN MLB NETWORK
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MLB NETWORK
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN MILAN TV
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MILAN TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ZONA DAZN
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ZONA DAZN
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN NFL NETWORK
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NFL NETWORK
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN EUROSPORTS 2
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN EUROSPORTS 1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN EVENTOS TV
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EVENTOS TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN LFCTV
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN LFCTV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN NBA TV
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NBA TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN REDBULL TV
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN REDBULL TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN MOTO GP
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MOTO GP
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DANZ LA LIGA
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DANZ LA LIGA
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN 2
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN 1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT", "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT ", "niño":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT", "tipo":"temporal" }
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DAZN F1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN F1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 #EXTINF:-1 group-title="Lista 27 solo OTT", LA LIGA PREMIER- PARAMOUNT+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TargeLon=0&device&TargeDNT=%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", LA SELECCION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&Lon=0&DTARGENTdevice=%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", FUTBOL PARA FANS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TargeDNT=0&device&device%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", MOTORVISIONTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TargeDNT=0&device&device%7BTARGELon=0&device&PTI%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", PELEAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&Lon=0&DTARGENTdevice=%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", FUEL TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTOTPTOdeviceLon=0%&7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", PARAMOUNT+ PRESENTA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTODNTTOdevice%DNTTO%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDTARGENT=PT%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", NICK CLASICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DGELon%PTI%7BDGENTdevice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", CINE CRIMEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceDGELon%PTI%Tardevice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EL SHOW DE ED SULLIVAN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TARGELon%PTI%7BDevice&TargeLon=0&device%TTARDEvice%=0&device =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Lista 27 solo OTT", THE ED SULLIVAN SHOW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", HECHIZADA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceDGETOd%PTI%DviceLon=0&device&TARGELon=0&device%TTARDEvice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EL TURNO DE NOCHE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTODEviceLon=0&device%DNTTODTARGEd=0%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Lista 27 solo OTT", THE NIGHT SHIFT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", EMPE\u00d1OS A LO BESTIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTODEviceLon=0&device%DNTTODTARGEd=0%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", BOB ESPONJA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTOTARGEd=0%&device%DNTTODeviceLon=0&device%DNTTO =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", GRAN HERMANO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&Dargent=0&deviceDTARGENT=PT%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA COCINA DEL INFIERNO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DEviceLon=0&device&TARGEDNTd%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Lista 27 solo OTT", HELL'S KITCHEN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", Daria
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DGELon%7BDGENTdevice%7BDGENTdevice%&device%7BDGENT=0&device%TTARdevice%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Lista 27 solo OTT", ETC Chile
 https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"aW3nqCJX3bUe0_3sBLbsiw" group-title="Lista 27 solo OTT ", "niño":"NNYrIu_GP2WerFuoIomILQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", GANAR DEPORTES
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"aW3nqCJX3bUe0_3sBLbsiw" group-title="Lista 27 solo OTT", "kid":"NNYrIu_GP2WerFuoIomILQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", WIN SPORTS 
 https://v1.solodeportes.xyz/streams/1250/manifest.mpd
 #EXTINF:-1 group-title="Lista 27 solo OTT", M F1 TV
 https://dkteam.darkiptv.com/darktv/lam.php?id=0205&format=HLSAD&f=.m3u8
@@ -352,983 +352,983 @@ http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Lista 27 solo OTT", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "clN8CnOSDFXsW3Zk011bqw" group-title="Lista 27 solo OTT ", "niño": "Zc0bP+CCSsKJntclRMgl3g"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", MTV
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "clN8CnOSDFXsW3Zk011bqw" group-title="Lista 27 solo OTT", "kid": "Zc0bP+CCSsKJntclRMgl3g"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", MTV
 https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "iG1hL7FqzrFy22j9MBanNw" group-title="Lista 27 solo OTT ", "niño": "ZtoxBw6sWPytuRGASRfqKA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN EXTRA
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "iG1hL7FqzrFy22j9MBanNw" group-title="Lista 27 solo OTT", "kid": "ZtoxBw6sWPytuRGASRfqKA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN EXTRA
 https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"WbJpuAvs0DYwemBdmTgWDw" group-title="Lista 27 solo OTT ", "niño":"UiK9jCiYWTmC_CVQ5JOqaQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN 4
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"WbJpuAvs0DYwemBdmTgWDw" group-title="Lista 27 solo OTT", "kid":"UiK9jCiYWTmC_CVQ5JOqaQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 4
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8SpnwA1O8olVByrsMWom8A" group-title="Lista 27 solo OTT ", "niño":"v2i0CrnCWFmLcyBFCauGDQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN 3
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8SpnwA1O8olVByrsMWom8A" group-title="Lista 27 solo OTT", "kid":"v2i0CrnCWFmLcyBFCauGDQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 3
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"nc7cS0VlTLirpI5BWVkGPw" group-title="Lista 27 solo OTT ", "niño":"ggJY42ThVwGxMzWc-GMDrw"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN 3 MX
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"nc7cS0VlTLirpI5BWVkGPw" group-title="Lista 27 solo OTT", "kid":"ggJY42ThVwGxMzWc-GMDrw"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 3 MX
 https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"4fwe7U6ug-DcGzcFy2LKZA" group-title="Lista 27 solo OTT", "niño":"kz3o6RVTWuGMJVilp2MYyQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN 2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"4fwe7U6ug-DcGzcFy2LKZA" group-title="Lista 27 solo OTT", "kid":"kz3o6RVTWuGMJVilp2MYyQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"3Msv8QTfC7xU3gazwnhvXA" group-title="Lista 27 solo OTT ", "niño":"BrOt-6mEXHySRwT9i43NZA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN 2 MX
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"3Msv8QTfC7xU3gazwnhvXA" group-title="Lista 27 solo OTT", "kid":"BrOt-6mEXHySRwT9i43NZA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 2 MX
 https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"UfxF9abxhLmRZjGsMflWUw" group-title="Lista 27 solo OTT ", "niño":"ZqYc8i5ZVsSbiey8VgSSSA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"UfxF9abxhLmRZjGsMflWUw" group-title="Lista 27 solo OTT", "kid":"ZqYc8i5ZVsSbiey8VgSSSA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ESPN
 https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"U5ge6mK2ptoaOklY3FdDbA" group-title="Lista 27 solo OTT ", "niño":"m24hGfo6VI2gvIp7IG9RdA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ENCUENTRO
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"U5ge6mK2ptoaOklY3FdDbA" group-title="Lista 27 solo OTT", "kid":"m24hGfo6VI2gvIp7IG9RdA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ENCUENTRO
 https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"lBC6rySf-PDNbc7QHs8vXQ" group-title="Lista 27 solo OTT", "niño":"QLfWxCj0U0mLuO_R6p9Lhw"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA NACION +
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"lBC6rySf-PDNbc7QHs8vXQ" group-title="Lista 27 solo OTT", "kid":"QLfWxCj0U0mLuO_R6p9Lhw"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", LA NACION +
 https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "jx8qlXYqMCWjC9FKU9dCyw" group-title="Lista 27 solo OTT ", "niño": "X2XE8MgjXFekYIXMeneUMg"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", REVISTA
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "jx8qlXYqMCWjC9FKU9dCyw" group-title="Lista 27 solo OTT", "kid": "X2XE8MgjXFekYIXMeneUMg"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", MAGAZINE
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"yeO18E3gkvoK4pE38OkuPA" group-title="Lista 27 solo OTT ", "niño":"gGjTKVLKVK6ql5DTE-PoTA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", NET TV
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"yeO18E3gkvoK4pE38OkuPA" group-title="Lista 27 solo OTT", "kid":"gGjTKVLKVK6ql5DTE-PoTA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", NET TV
 https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"9B3NW7ERtuvJVZdB2Yt7gQ" group-title="Lista 27 solo OTT ", "niño":"QKqKNGf8V5Cld5ohkItKdQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", AMÉRICA 24
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"9B3NW7ERtuvJVZdB2Yt7gQ" group-title="Lista 27 solo OTT", "kid":"QKqKNGf8V5Cld5ohkItKdQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", AMERICA 24
 https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "rcrQFSObMJn9QOYCDrV6GA" group-title="Lista 27 solo OTT ", "niño": "Q4TIUEa1Wvq9iQU3AtPTKA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TRUTV
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "rcrQFSObMJn9QOYCDrV6GA" group-title="Lista 27 solo OTT", "kid": "Q4TIUEa1Wvq9iQU3AtPTKA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TRUTV
 https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"izhVxj-FZ7nT9UZdwK1gVg" group-title="Lista 27 solo OTT", "niño":"WHCJgcHCWum1_r2hbsOcWw"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CRÓNICA TV
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"izhVxj-FZ7nT9UZdwK1gVg" group-title="Lista 27 solo OTT", "kid":"WHCJgcHCWum1_r2hbsOcWw"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CRONICA TV
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"j3xTv-At800lPrYefQGueQ" group-title="Lista 27 solo OTT", "niño":"s2PjWlB1WJmD_sTi90-QuQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TN
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"j3xTv-At800lPrYefQGueQ" group-title="Lista 27 solo OTT", "kid":"s2PjWlB1WJmD_sTi90-QuQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TN
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"b3ZjSxTiQ_G87hxfzYo5PA" group-title="Lista 27 solo OTT ", "niño":"0U_KVQrbW3W7NPDEKqKB3Q"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", AMÉRICA TV
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"b3ZjSxTiQ_G87hxfzYo5PA" group-title="Lista 27 solo OTT", "kid":"0U_KVQrbW3W7NPDEKqKB3Q"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", AMERICA TV
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"tvQCgM-FXYGYPIxFXzP7ew" group-title="Lista 27 solo OTT", "niño":"HczEmFsVX8ih5RfEK_c_3Q"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TC TV
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"tvQCgM-FXYGYPIxFXzP7ew" group-title="Lista 27 solo OTT", "kid":"HczEmFsVX8ih5RfEK_c_3Q"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TC TV
 https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"uBhxMKpaidnvgnWKhnU-7w" group-title="Lista 27 solo OTT", "niño":"Qhpb2wHuXmWdVtf5SI_-ww"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", OROMAR
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"uBhxMKpaidnvgnWKhnU-7w" group-title="Lista 27 solo OTT", "kid":"Qhpb2wHuXmWdVtf5SI_-ww"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", OROMAR
 https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"oINPuoWzaIKvqm63QrEhIg" group-title="Lista 27 solo OTT ", "niño":"pWcuQtw-UyCfMh8JPpjSEA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ECUAVISA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"oINPuoWzaIKvqm63QrEhIg" group-title="Lista 27 solo OTT", "kid":"pWcuQtw-UyCfMh8JPpjSEA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ECUAVISA
 https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"rFHj_VTIecdJJIeViY6-SA" group-title="Lista 27 solo OTT", "niño":"XtckypWNV6S5opQv6PqH1g"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", RTS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"rFHj_VTIecdJJIeViY6-SA" group-title="Lista 27 solo OTT", "kid":"XtckypWNV6S5opQv6PqH1g"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", RTS
 https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"SIe7fW2ynFYPfZZ3rm8naQ" group-title="Lista 27 solo OTT ", "niño":"r6Cl3cWkVjqy0uVGcn6DOg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", NTN24
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"SIe7fW2ynFYPfZZ3rm8naQ" group-title="Lista 27 solo OTT", "kid":"r6Cl3cWkVjqy0uVGcn6DOg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", NTN24
 https://dtvott-abc.akamaized.net/dash_live_1176/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Ok1h5oorxLGHm1JKKZTWVA" group-title="Lista 27 solo OTT ", "niño":"eM55icAMUHmcp9_ikbq9Wg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Ok1h5oorxLGHm1JKKZTWVA" group-title="Lista 27 solo OTT", "kid":"eM55icAMUHmcp9_ikbq9Wg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CARTOON NETWORK
 https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"_7jrzkPlYbBmKUz3MyUUhA" group-title="Lista 27 solo OTT ", "niño":"tVvvajktTbaScaSy-hA96Q"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINEMAX
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"_7jrzkPlYbBmKUz3MyUUhA" group-title="Lista 27 solo OTT", "kid":"tVvvajktTbaScaSy-hA96Q"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CINEMAX
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"9DM9-w5wjsmGW5pv8qjgaA" group-title="Lista 27 solo OTT", "niño":"fDjZMQ08W0ajejm77G3Wig"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CANAL ESTRELLA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"9DM9-w5wjsmGW5pv8qjgaA" group-title="Lista 27 solo OTT", "kid":"fDjZMQ08W0ajejm77G3Wig"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", STAR CHANNEL
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"morR3c_i0gxXhR-hIuAeOQ" group-title="Lista 27 solo OTT", "niño":"8ac_DN6lTXCcdNsy0qBiKQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESTUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"morR3c_i0gxXhR-hIuAeOQ" group-title="Lista 27 solo OTT", "kid":"8ac_DN6lTXCcdNsy0qBiKQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", STUDIO UNIVERSAL
 https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"E2qHYl23I3YAtr52E5mJpw" group-title="Lista 27 solo OTT ", "niño":"5Zwf5O23V9+KoxKEfCEEYQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TMC
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"E2qHYl23I3YAtr52E5mJpw" group-title="Lista 27 solo OTT", "kid":"5Zwf5O23V9+KoxKEfCEEYQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TMC
 https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"ZsxwcPS9Tq28Q5vX7i-QPg" group-title="Lista 27 solo OTT", "niño":"yws5Qc3GRYCv9YvrQzAXlQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TELEMUNDO
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"ZsxwcPS9Tq28Q5vX7i-QPg" group-title="Lista 27 solo OTT", "kid":"yws5Qc3GRYCv9YvrQzAXlQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TELEMUNDO
 https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"IVjc-L7gN6S-e-vVvi8-mg" grupo -title="Lista 27 solo OTT", "niño":"Y20CYfHnUIaHkeQmLIP0SA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISCOVERY TLC
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"IVjc-L7gN6S-e-vVvi8-mg" group-title="Lista 27 solo OTT", "kid":"Y20CYfHnUIaHkeQmLIP0SA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY TLC
 https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "p+vgzB2mncwwDxn3tKYoxw" group-title="Lista 27 solo OTT", "niño": "jMuK9Kh4Vw2IeJIbhKvuGQ"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", SERIE TNT
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "p+vgzB2mncwwDxn3tKYoxw" group-title="Lista 27 solo OTT", "kid": "jMuK9Kh4Vw2IeJIbhKvuGQ"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TNT SERIES
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"egfz401vp2mTkMaHuB5VNg" group-title="Lista 27 solo OTT ", "niño":"2MBRGPBjT6a3qMaZAhELvA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", UNIVERSAL TV
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"egfz401vp2mTkMaHuB5VNg" group-title="Lista 27 solo OTT", "kid":"2MBRGPBjT6a3qMaZAhELvA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL TV
 https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Yd/vgc7hHLQZphICcLlYew" group-title="Lista 27 solo OTT", "niño":"VqJHMsfFWKCyRNydX5EPhw"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", WARNER
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Yd/vgc7hHLQZphICcLlYew" group-title="Lista 27 solo OTT", "kid":"VqJHMsfFWKCyRNydX5EPhw"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", WARNER
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "ANe1w496nhlnaKxvRYPrRQ" group-title="Lista 27 solo OTT ", "niño": "7sYEZgdBVcCxJOESGJC64g"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", EUROPA EUROPA
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "ANe1w496nhlnaKxvRYPrRQ" group-title="Lista 27 solo OTT", "kid": "7sYEZgdBVcCxJOESGJC64g"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", EUROPA EUROPA
 https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8JNNLQGjqmYrDEw0VhenWg" group-title="Lista 27 solo OTT ", "niño":"Ej16s3MNU4Svt28xCbg_zQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", BABY TV
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8JNNLQGjqmYrDEw0VhenWg" group-title="Lista 27 solo OTT", "kid":"Ej16s3MNU4Svt28xCbg_zQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", BABY TV
 https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
 #EXTINF:-1 group-title="Lista 27 solo OTT", ESPN PREMIUM
 https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"zVnrcRyKxO4L8MZvPpZ6nA" group-title="Lista 27 solo OTT ", "niño":"CyMwJDj_Mk2rLurKXqn1VA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", VTV PLUS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"zVnrcRyKxO4L8MZvPpZ6nA" group-title="Lista 27 solo OTT", "kid":"CyMwJDj_Mk2rLurKXqn1VA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", VTV PLUS
 https://1246-vos.dtvott.com/DASH/manifest.mpd
-#EXTINF:-1 group-title="Lista 27 solo OTT", CANAL DE TENIS
+#EXTINF:-1 group-title="Lista 27 solo OTT", TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"aW3nqCJX3bUe0_3sBLbsiw" group-title="Lista 27 solo OTT ", "niño":"NNYrIu_GP2WerFuoIomILQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", WIN SPORTS PLUS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"aW3nqCJX3bUe0_3sBLbsiw" group-title="Lista 27 solo OTT", "kid":"NNYrIu_GP2WerFuoIomILQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", WIN SPORTS PLUS
 https://api1247.solodeportes.xyz/stream/manifest.mpd?id=1251
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"C2uGIpiRBPabLbkWMO0Orw" group-title="Lista 27 solo OTT ", "niño":"ZXXiy4SbWBSAqyYLcMz6tg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", EL CANAL DEL FUTBOL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"C2uGIpiRBPabLbkWMO0Orw" group-title="Lista 27 solo OTT", "kid":"ZXXiy4SbWBSAqyYLcMz6tg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", EL CANAL DEL FUTBOL
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Mgduj0idcq4IR-syVs6tHQ" group-title="Lista 27 solo OTT", "niño":"uUr354epW_C32Dj7NPJ4Qg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TNT SPORTS CL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Mgduj0idcq4IR-syVs6tHQ" group-title="Lista 27 solo OTT", "kid":"uUr354epW_C32Dj7NPJ4Qg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TNT SPORTS CL
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"pN7ndhUnnIWLGeW7aatnVQ" group-title="Lista 27 solo OTT ", "niño":"xGl79FjaUvi5azbM52HVcQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TNT SPORTS AR
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"pN7ndhUnnIWLGeW7aatnVQ" group-title="Lista 27 solo OTT", "kid":"xGl79FjaUvi5azbM52HVcQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TNT SPORTS AR
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"9EZ3Cx0QEyHyFJeG6C1Rfw" group-title="Lista 27 solo OTT ", "niño":"uoOI7Af7SBq29AcNBH0hPA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", FX
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"9EZ3Cx0QEyHyFJeG6C1Rfw" group-title="Lista 27 solo OTT", "kid":"uoOI7Af7SBq29AcNBH0hPA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", FX
 https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"nh0ICbXpZph96u1V_SYxrQ" group-title="Lista 27 solo OTT ", "niño":"KQHEHb_IWqaibbKcxWvCxg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"nh0ICbXpZph96u1V_SYxrQ" group-title="Lista 27 solo OTT", "kid":"KQHEHb_IWqaibbKcxWvCxg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS 3
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "6MVaVb+X450iOAVs82hXOw" group-title="Lista 27 solo OTT", "niño": "CMPmVA3PVrqZwShgZfwNFA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "6MVaVb+X450iOAVs82hXOw" group-title="Lista 27 solo OTT", "kid": "CMPmVA3PVrqZwShgZfwNFA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS 2
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"0atfJfl3wNwBeFtE2RzbnA" group-title="Lista 27 solo OTT ", "niño":"dWAy_XPtU2-TptGHp5VpmQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", RED ALIMENTARIA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"0atfJfl3wNwBeFtE2RzbnA" group-title="Lista 27 solo OTT", "kid":"dWAy_XPtU2-TptGHp5VpmQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", FOOD NETWORK
 https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "deC7ieb2nSrSZdsbSN+KzA" group-title="Lista 27 solo OTT", "niño": "s8FK4yCxQFe4PHBjbWf6/g"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE Y ARTES
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "deC7ieb2nSrSZdsbSN+KzA" group-title="Lista 27 solo OTT", "kid": "s8FK4yCxQFe4PHBjbWf6/g"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", FILM & ARTS
 https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"udXtIo5tcgamclZ1-fMoQw" group-title="Lista 27 solo OTT", "niño":"KrtqzGS5TL6FULSL4KKaPA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", QUIERO
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"udXtIo5tcgamclZ1-fMoQw" group-title="Lista 27 solo OTT", "kid":"KrtqzGS5TL6FULSL4KKaPA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", QUIERO
 https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "yfSIlXCWccnV9957OMUMOQ" group-title="Lista 27 solo OTT ", "niño": "oYF/cZSxRjGgvwfQmxcyyw"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", MUCHA MÚSICA
-https://anbalancer.express.com.ar/live/c1eds/Mucha_Musica/SA_DASH_cipix/Mucha_Musica.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "yfSIlXCWccnV9957OMUMOQ" group-title="Lista 27 solo OTT", "kid": "oYF/cZSxRjGgvwfQmxcyyw"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", MUCH MUSIC
+https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"jVgLSr0D1E17Fb3-f3Vf1A" group-title="Lista 27 solo OTT", "niño":"dNF6SSG5XQKVHBfRc9HFfA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", VOLVER
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"jVgLSr0D1E17Fb3-f3Vf1A" group-title="Lista 27 solo OTT", "kid":"dNF6SSG5XQKVHBfRc9HFfA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", VOLVER
 https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"CzeyY6Csp7CPEgFLK3uSSA" group-title="Lista 27 solo OTT ", "niño":"X3ieu7ZJVXi0Ime2UFdPYg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TV PUBLICA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"CzeyY6Csp7CPEgFLK3uSSA" group-title="Lista 27 solo OTT", "kid":"X3ieu7ZJVXi0Ime2UFdPYg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TV PUBLICA
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "sovcHEYJC4YKi83Bzclalw" group-title="Lista 27 solo OTT ", "niño": "Mmf9Mt4bUmCf9lBd1n0yCw"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DE POR VIDA
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "sovcHEYJC4YKi83Bzclalw" group-title="Lista 27 solo OTT", "kid": "Mmf9Mt4bUmCf9lBd1n0yCw"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", LIFETIME
 https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"uam-Ir5nun-Udg6qkax-cA" group-title ="Lista 27 solo OTT", "niño":"CJLr-snwToaV8wsMgctw0Q"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TBS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"uam-Ir5nun-Udg6qkax-cA" group-title="Lista 27 solo OTT", "kid":"CJLr-snwToaV8wsMgctw0Q"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TBS
 https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "mx5B6KVaGC9pAAvckwTjzA" group-title="Lista 27 solo OTT ", "niño": "P5Cq/Qq4XG2S6 TEU4niRew"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", SYFY
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "mx5B6KVaGC9pAAvckwTjzA" group-title="Lista 27 solo OTT", "kid": "P5Cq/Qq4XG2S6TEU4niRew"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", SYFY
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"JsNlBbKjRUIB3Mg3DeDuBw" group-title="Lista 27 solo OTT ", "kid":"Y7uQr-elXKuwH8rCBTU7JQ"}] group-title="Lista 27 solo OTT", "type":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", C5N
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"JsNlBbKjRUIB3Mg3DeDuBw" group-title="Lista 27 solo OTT", "kid":"Y7uQr-elXKuwH8rCBTU7JQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", C5N
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"LSbPvCBda-PIEAOYaPQa5g" group-title="Lista 27 solo OTT", "niño":"eKLAJInaXVqixSVNyDV2kA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CANAL 9
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"LSbPvCBda-PIEAOYaPQa5g" group-title="Lista 27 solo OTT", "kid":"eKLAJInaXVqixSVNyDV2kA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CANAL 9
 https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"svFjuTAopMMlwNj38bKeJQ" group-title="Lista 27 solo OTT ", "niño":"J5ZaXkdRXFKvlw3vgjAULA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CANAL 13
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"svFjuTAopMMlwNj38bKeJQ" group-title="Lista 27 solo OTT", "kid":"J5ZaXkdRXFKvlw3vgjAULA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CANAL 13
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"QSXkCACgi7xmzyd1alqygw" group-title="Lista 27 solo OTT ", "niño":"2D4uDLlzW-qfyfC5DOoeFA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TELEFE
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"QSXkCACgi7xmzyd1alqygw" group-title="Lista 27 solo OTT", "kid":"2D4uDLlzW-qfyfC5DOoeFA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TELEFE
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "UMWNVomRd30Lw//I9oA8kg" group-title="Lista 27 solo OTT", "niño": "NbE4MSDaWZmC26fVtFZfDg"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CNN
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "UMWNVomRd30Lw//I9oA8kg" group-title="Lista 27 solo OTT", "kid": "NbE4MSDaWZmC26fVtFZfDg"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CNN
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"GU1KWZniFiJ8NkLsyAQ4Qg" group-title="Lista 27 solo OTT ", "niño":"e8Ow1qNqTcmqi17hVMGITg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", TNT
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"GU1KWZniFiJ8NkLsyAQ4Qg" group-title="Lista 27 solo OTT", "kid":"e8Ow1qNqTcmqi17hVMGITg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TNT
 https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"GXXGvMlWam6UqyY9yPBLVw" group-title="Lista 27 solo OTT ", "niño":"EBC5n7EkVAqqR1pBJZdR6w"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", SONY
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"GXXGvMlWam6UqyY9yPBLVw" group-title="Lista 27 solo OTT", "kid":"EBC5n7EkVAqqR1pBJZdR6w"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", SONY
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"ZfRMlZEhsmw8n3nqugp4Pw" group-title="Lista 27 solo OTT ", "niño":"x9wnLot3QrGYyI_otW39_A"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", AXN
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"ZfRMlZEhsmw8n3nqugp4Pw" group-title="Lista 27 solo OTT", "kid":"x9wnLot3QrGYyI_otW39_A"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", AXN
 https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"E0-FEsdgUODVitWHiX6Xhw" group-title="Lista 27 solo OTT", "niño":"Qw4l82G4QU62OYgvnSZzSA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", A&E
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"E0-FEsdgUODVitWHiX6Xhw" group-title="Lista 27 solo OTT", "kid":"Qw4l82G4QU62OYgvnSZzSA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", A&E
 https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"JA7CGd1xZwdQ83r-g_6tFg" group-title="Lista 27 solo OTT", "niño":"z8rt9nV0W5yB5aVb3o9TCw"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"JA7CGd1xZwdQ83r-g_6tFg" group-title="Lista 27 solo OTT", "kid":"z8rt9nV0W5yB5aVb3o9TCw"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", NICKELODEON
 https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"7FQRgmHzhNytuA5B704-Ew" group-title="Lista 27 solo OTT", "niño":"VyuwXpwjQIW_DA7wRA3HFA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", AMC
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"7FQRgmHzhNytuA5B704-Ew" group-title="Lista 27 solo OTT", "kid":"VyuwXpwjQIW_DA7wRA3HFA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", AMC
 https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"7UNH9JX5stg61Ta1tebIhQ" group-title="Lista 27 solo OTT ", "niño":"r3fvc7qjSfuwQWZiBBirIQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPACIO
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"7UNH9JX5stg61Ta1tebIhQ" group-title="Lista 27 solo OTT", "kid":"r3fvc7qjSfuwQWZiBBirIQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", SPACE
 https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "jEbk4IkHgNeBbjiIt8c4xw" group-title="Lista 27 solo OTT ", "niño": "vfrEhtUlXSOWlFEC0dOITw"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", HGTV
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "jEbk4IkHgNeBbjiIt8c4xw" group-title="Lista 27 solo OTT", "kid": "vfrEhtUlXSOWlFEC0dOITw"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", HGTV
 https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"WKx5T26qRfvzGXhx9LM66g" group-title="Lista 27 solo OTT ", "niño":"jj7YgA-QWLWvdIMIHn9_VQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", NATGEO
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"WKx5T26qRfvzGXhx9LM66g" group-title="Lista 27 solo OTT", "kid":"jj7YgA-QWLWvdIMIHn9_VQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", NATGEO
 https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"1tUYlJz3NMPgMyjdpbRZZg" group-title="Lista 27 solo OTT ", "niño":"mL8dUQy0UUWULl1MHV8hHQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", H2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"1tUYlJz3NMPgMyjdpbRZZg" group-title="Lista 27 solo OTT", "kid":"mL8dUQy0UUWULl1MHV8hHQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", H2
 https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"7x0IlKk29zk-x7-jj_YYyw" group-title=" Lista 27 solo OTT", "kid":"DcZPmxmrUa6IlZr-yW52MQ"}] group-title="Lista 27 solo OTT", "type":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", HISTORIA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"7x0IlKk29zk-x7-jj_YYyw" group-title="Lista 27 solo OTT", "kid":"DcZPmxmrUa6IlZr-yW52MQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", HISTORY
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"YYt1LTPD5EQgIZtcGLD3SA" group-title="Lista 27 solo OTT ", "niño":"FJw3HfJ6VqGIBScgQTgVkg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", PLANETA ANIMAL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"YYt1LTPD5EQgIZtcGLD3SA" group-title="Lista 27 solo OTT", "kid":"FJw3HfJ6VqGIBScgQTgVkg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", ANIMAL PLANET
 https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"g_vIGYkn_cRp55aNdQPE9g" group-title="Lista 27 solo OTT ", "niño":"zvSOfP29VwGHo5v_PkM_BQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"g_vIGYkn_cRp55aNdQPE9g" group-title="Lista 27 solo OTT", "kid":"zvSOfP29VwGHo5v_PkM_BQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", COMEDY CENTRAL
 https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "bfMfDfVmEmzMrBF5iOEGHg" group-title="Lista 27 solo OTT ", "niño": "8YRcjZ9fTJinqEbbvJaTrQ"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINECANAL
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "bfMfDfVmEmzMrBF5iOEGHg" group-title="Lista 27 solo OTT", "kid": "8YRcjZ9fTJinqEbbvJaTrQ"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CINECANAL
 https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"1dXtQHiOB-rzsGFraryeHg" group-title="Lista 27 solo OTT", "niño":"fQxJd4vEUdK16kQ0bnKoXQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"1dXtQHiOB-rzsGFraryeHg" group-title="Lista 27 solo OTT", "kid":"fQxJd4vEUdK16kQ0bnKoXQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY CHANNEL
 https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Ef3YkA0euppslVUfQY2_Bw" group-title="Lista 27 solo OTT ", "niño":"oH2L_i-ZVvKMoRRmtPUg1Q"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISNEY JR
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Ef3YkA0euppslVUfQY2_Bw" group-title="Lista 27 solo OTT", "kid":"oH2L_i-ZVvKMoRRmtPUg1Q"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY JR
 https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"20D8kaXIA_N05pLDM58Kwg" group-title="Lista 27 solo OTT ", "niño":"RY9wA06JWpOlNM5Tf4rjFQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISNEY XD
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"20D8kaXIA_N05pLDM58Kwg" group-title="Lista 27 solo OTT", "kid":"RY9wA06JWpOlNM5Tf4rjFQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY XD
 https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"2VSYMMKdX_DFxwEDbrnLpA" group-title="Lista 27 solo OTT ", "kid":"y6GQdDeaWzyHXNGs4Btsvg"}] group-title="Lista 27 solo OTT", "type":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISCOVERY HOME & HEALT
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"2VSYMMKdX_DFxwEDbrnLpA" group-title="Lista 27 solo OTT", "kid":"y6GQdDeaWzyHXNGs4Btsvg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY HOME & HEALT
 https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"aU6xLGykAbRUvXQsN0pQwA" group-title="Lista 27 solo OTT ", "niño":"o7kfldyRUs6Po0p_7RA7cA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISCOVERY KIDS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"aU6xLGykAbRUvXQsN0pQwA" group-title="Lista 27 solo OTT", "kid":"o7kfldyRUs6Po0p_7RA7cA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY KIDS
 https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"5Cw3X4MEvgVjrqmzjtofdg" group-title="Lista 27 solo OTT ", "niño":"qra0_bLhW--O8Hw5ewV-YA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", INVESTIGACIÓN DESCUBRIMIENTO
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"5Cw3X4MEvgVjrqmzjtofdg" group-title="Lista 27 solo OTT", "kid":"qra0_bLhW--O8Hw5ewV-YA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", INVESTIGATION DISCOVERY
 https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"deZqTteIDHFlXSTlLK070w" group-title="Lista 27 solo OTT ", "niño":"0y2BXR9_UyW6c1YlNGYskg"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISCOVERY TURBO
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"deZqTteIDHFlXSTlLK070w" group-title="Lista 27 solo OTT", "kid":"0y2BXR9_UyW6c1YlNGYskg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY TURBO
 https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"j7wVAr7ShP8BnBf_nvj3jQ" group-title="Lista 27 solo OTT ", "niño":"9lvCjTwNQvGD0R5Wy6KF6A"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISCOVERY WORLD
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"j7wVAr7ShP8BnBf_nvj3jQ" group-title="Lista 27 solo OTT", "kid":"9lvCjTwNQvGD0R5Wy6KF6A"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY WORLD
 https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"1OsF8mC8Xc5l_w-HVA-wKQ" group-title=" Lista 27 solo OTT", "kid":"43K82z9RTqqSdGwMCgR6ew"}] group-title="Lista 27 solo OTT", "type":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISCOVERY SCIENCE
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"1OsF8mC8Xc5l_w-HVA-wKQ" group-title="Lista 27 solo OTT", "kid":"43K82z9RTqqSdGwMCgR6ew"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY SCIENCE
 https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"drE/2KKY0YisUlI4eyKGhw" group-title="Lista 27 solo OTT", "niño":"gveqrknlVsGYXaBGIzffQw"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"drE/2KKY0YisUlI4eyKGhw" group-title="Lista 27 solo OTT", "kid":"gveqrknlVsGYXaBGIzffQw"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY CHANNEL
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"hwYUadrZZ1cHhwSgPuPGfw" group-title="Lista 27 solo OTT ", "niño":"bYQiIvFxWlmtJGI8IXRTRA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", BOOMERANG
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"hwYUadrZZ1cHhwSgPuPGfw" group-title="Lista 27 solo OTT", "kid":"bYQiIvFxWlmtJGI8IXRTRA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", BOOMERANG
 https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "YQyVFzfLniIfB8mGtsZvfQ" group-title="Lista 27 solo OTT ", "niño": "aBiLO7eUU8q3sm7pKaJe1A"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", PARAMOUNT
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "YQyVFzfLniIfB8mGtsZvfQ" group-title="Lista 27 solo OTT", "kid": "aBiLO7eUU8q3sm7pKaJe1A"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", PARAMOUNT
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "BilcjWAJpH+Mg+XA0/b90A" group-title ="Lista 27 solo OTT", "niño": "Sdqzv7wlXaGyCFLRcrsvUw"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", SERIE A3
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "BilcjWAJpH+Mg+XA0/b90A" group-title="Lista 27 solo OTT", "kid": "Sdqzv7wlXaGyCFLRcrsvUw"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", A3 SERIES
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"yuv9HgePExX55m_5hUTBJQ" group-title="Lista 27 solo OTT ", "niño":"kP0CJSU6QsieNtS8WgB0mA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"yuv9HgePExX55m_5hUTBJQ" group-title="Lista 27 solo OTT", "kid":"kP0CJSU6QsieNtS8WgB0mA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS
 https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"gG8YHFRdzJsugpWGbX_LWA" group-title="Lista 27 solo OTT ", "niño":"7t4TEF53XPGOetIFeKtwHA"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", FOX SPORTS MX
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"gG8YHFRdzJsugpWGbX_LWA" group-title="Lista 27 solo OTT", "kid":"7t4TEF53XPGOetIFeKtwHA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS MX
 https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "4czKtAGp9MTUkm6xPU9TFQ" group-title="Lista 27 solo OTT ", "niño": "BTVZ0SK4XyuJJe6KYhIlAg"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", NBA TV
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "4czKtAGp9MTUkm6xPU9TFQ" group-title="Lista 27 solo OTT", "kid": "BTVZ0SK4XyuJJe6KYhIlAg"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", NBA TV
 https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"biVaMkTklvVpcX1VkzL8CA" group-title="Lista 27 solo OTT ", "niño":"fEDn8r5pWx2vomHmciad7Q"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", NATGEO KIDS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"biVaMkTklvVpcX1VkzL8CA" group-title="Lista 27 solo OTT", "kid":"fEDn8r5pWx2vomHmciad7Q"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", NATGEO KIDS
 https://dtvott-cbc.akamaized.net/dash_live_1167/manifest.mpd
 #EXTINF:-1 group-title="Lista 27 solo OTT", HBO MUNDI
 https://cdn.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "tKbS+M3TK+ZlN/GmL/pi1g" grupo -title="Lista 27 solo OTT", "niño": "cjSOB2JUUNOAY5cbhVsyJA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", FIRMA HBO
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "tKbS+M3TK+ZlN/GmL/pi1g" group-title="Lista 27 solo OTT", "kid": "cjSOB2JUUNOAY5cbhVsyJA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", HBO SIGNATURE
 https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "G9sxcikGatLXTEgUoTjhNg" group-title="Lista 27 solo OTT ", "niño": "Z5WjA6noUX+8o4N2wK8vdg"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", HBO PLUS
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "G9sxcikGatLXTEgUoTjhNg" group-title="Lista 27 solo OTT", "kid": "Z5WjA6noUX+8o4N2wK8vdg"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", HBO PLUS
 https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "kFrMVfNmMUMvJC4njxuwtQ" group-title="Lista 27 solo OTT ", "niño": "jLo/buFyURGgSSjYHFOAQA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", FAMILIA HBO
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "kFrMVfNmMUMvJC4njxuwtQ" group-title="Lista 27 solo OTT", "kid": "jLo/buFyURGgSSjYHFOAQA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", HBO FAMILY
 https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "usWBim4RNds8nyT7dS9pnw" group-title="Lista 27 solo OTT ", "niño": "KirtF9xgUPud7m5loGs5JQ"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", HBO 2
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "usWBim4RNds8nyT7dS9pnw" group-title="Lista 27 solo OTT", "kid": "KirtF9xgUPud7m5loGs5JQ"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", HBO 2
 https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "bCPjGk2DtWjoSuxgmmPryQ" group-title="Lista 27 solo OTT ", "niño": "me78Bo2zUJufDPWzQRQhnQ"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", HBO
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "bCPjGk2DtWjoSuxgmmPryQ" group-title="Lista 27 solo OTT", "kid": "me78Bo2zUJufDPWzQRQhnQ"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", HBO
 https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"q0Y_t45-F7Xg7k6ovKNeyQ" group-title="Lista 27 solo OTT", "niño":"wEAroH2tWwyyJ68kjqLF7g"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", REALIDAD UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"q0Y_t45-F7Xg7k6ovKNeyQ" group-title="Lista 27 solo OTT", "kid":"wEAroH2tWwyyJ68kjqLF7g"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL REALITY
 https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"q4GH1Q0xHTC8DX3G61aX0Q" group-title="Lista 27 solo OTT ", "niño":"0IC-KKD8WXC_HeiX-A1AvQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESTRENO UNIVERSAL (OESTE)
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"q4GH1Q0xHTC8DX3G61aX0Q" group-title="Lista 27 solo OTT", "kid":"0IC-KKD8WXC_HeiX-A1AvQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL PREMIERE (OESTE)
 https://dtvott-abc.akamaized.net/dash_live_1258/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"q4GH1Q0xHTC8DX3G61aX0Q" group-title="Lista 27 solo OTT ", "niño":"0IC-KKD8WXC_HeiX-A1AvQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESTRENO UNIVERSAL (ESTE)
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"q4GH1Q0xHTC8DX3G61aX0Q" group-title="Lista 27 solo OTT", "kid":"0IC-KKD8WXC_HeiX-A1AvQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL PREMIERE (ESTE)
 https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Mpk35dI2o1_-kdbNcSW-zA" group-title=" Lista 27 solo OTT", "kid":"4kAu43NsVrO9XVCs8jAJYQ"}] group-title="Lista 27 solo OTT", "type":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DELITO UNIVERSAL (OESTE)
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Mpk35dI2o1_-kdbNcSW-zA" group-title="Lista 27 solo OTT", "kid":"4kAu43NsVrO9XVCs8jAJYQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL CRIME (OESTE)
 https://dtvott-abc.akamaized.net/dash_live_1257/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Mpk35dI2o1_-kdbNcSW-zA" group-title=" Lista 27 solo OTT", "kid":"4kAu43NsVrO9XVCs8jAJYQ"}] group-title="Lista 27 solo OTT", "type":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DELITO UNIVERSAL (ESTE)
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Mpk35dI2o1_-kdbNcSW-zA" group-title="Lista 27 solo OTT", "kid":"4kAu43NsVrO9XVCs8jAJYQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL CRIME (ESTE)
 https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8gUfOGEvCnHN5xdKPGxFJg" group-title="Lista 27 solo OTT ", "niño":"JS3bbnndU1G7lerBEV1BkQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", COMEDIA UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8gUfOGEvCnHN5xdKPGxFJg" group-title="Lista 27 solo OTT", "kid":"JS3bbnndU1G7lerBEV1BkQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL COMEDY
 https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"4w3UkI5mdjc2nftlgvVNZA" group-title="Lista 27 solo OTT ", "niño":"zgp8iD4qVDC7qXo9aODa-A"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"4w3UkI5mdjc2nftlgvVNZA" group-title="Lista 27 solo OTT", "kid":"zgp8iD4qVDC7qXo9aODa-A"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL CINEMA
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8NIlT4W3Nxf0ws2BvacYiQ" group-title="Lista 27 solo OTT ", "niño":"NrLGt3NqWQG_QIkWpFSr-Q"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", LUCHA DEPORTIVA DE DIRECTV
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8NIlT4W3Nxf0ws2BvacYiQ" group-title="Lista 27 solo OTT", "kid":"NrLGt3NqWQG_QIkWpFSr-Q"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS FIGHT
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"5Pq_OdI81lV_pxtudU7x5w" group-title="Lista 27 solo OTT ", "kid":"8Zw6jGONUsKrd7lWa8splg"}] group-title="Lista 27 solo OTT", "type":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS PLUS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"5Pq_OdI81lV_pxtudU7x5w" group-title="Lista 27 solo OTT", "kid":"8Zw6jGONUsKrd7lWa8splg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS PLUS
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Jc5PbNPuVhOSL5x_b24HvQ" group-title="Lista 27 solo OTT ", "niño":"FBPKoD4EV0O2SWIysJ5o-g"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS 2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Jc5PbNPuVhOSL5x_b24HvQ" group-title="Lista 27 solo OTT", "kid":"FBPKoD4EV0O2SWIysJ5o-g"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS 2
 https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "v8Tp8+NVuC4R/F3f0xPD8g" group-title=" Lista 27 solo OTT", "niño": "X7ZNETVTOLO9+LGC0o66Hw"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS PE
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "v8Tp8+NVuC4R/F3f0xPD8g" group-title="Lista 27 solo OTT", "kid": "X7ZNETVTOLO9+LGC0o66Hw"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS PE
 https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "nloG4oA7AqYAbYwZ1HOKNQ" group-title="Lista 27 solo OTT ", "niño": "QJRZ3YklMqCumZR71GtOSA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS UY
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "nloG4oA7AqYAbYwZ1HOKNQ" group-title="Lista 27 solo OTT", "kid": "QJRZ3YklMqCumZR71GtOSA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS UY
 https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "gdW5XMkFfWsPhceObw5B5w" group-title="Lista 27 solo OTT ", "niño": "L6WUYxdvPcKWS5G0964dfA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS COS
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "gdW5XMkFfWsPhceObw5B5w" group-title="Lista 27 solo OTT", "kid": "L6WUYxdvPcKWS5G0964dfA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS COS
 https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "B8FzWtrBXeh33z+BtPxHMQ" group-title="Lista 27 solo OTT", "niño": "6bxqHGTgXDWqcuErFtNSRw"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS EC
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "B8FzWtrBXeh33z+BtPxHMQ" group-title="Lista 27 solo OTT", "kid": "6bxqHGTgXDWqcuErFtNSRw"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS EC
 https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "6nE40HAJ3/fr5uL+3Ov2YA" group-title=" Lista 27 solo OTT", "niño": "+oeWUQvwNX2fw5vYG7/KGA"}] group-title="Lista 27 solo OTT", "tipo": "temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS CL
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "6nE40HAJ3/fr5uL+3Ov2YA" group-title="Lista 27 solo OTT", "kid": "+oeWUQvwNX2fw5vYG7/KGA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS CL
 https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Jj9tsS1vmqcvLMmw7y4msg" group-title="Lista 27 solo OTT ", "niño":"p-Ccb0evV-mZt4nrVNMlXQ"}] group-title="Lista 27 solo OTT", "tipo":"temporal"}
-#EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-usuario-agente="FireFox"
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS AR
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Jj9tsS1vmqcvLMmw7y4msg" group-title="Lista 27 solo OTT", "kid":"p-Ccb0evV-mZt4nrVNMlXQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS AR
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 
 
