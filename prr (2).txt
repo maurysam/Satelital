@@ -15,11 +15,11 @@ http://bgapp.live/TV&f=&token=blaaaackhost&fi=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"cRkGm5kBW0657kMAV3OZ4g" group-title="Lista 27 solo OTT ", "k":"uJgnzJcM142ogv_KNQTHdA"}]}
 #EXTVLCOPT:caché de red=1000
-#EXTVLCOPT:http-referrer=https://1150-abc.dtvott.com/
+#EXTVLCOPT:http-referrer=https://1061-abc.dtvott.com/
 #EXTVLCOPT:http-usuario-agente="FireFox"
 #EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", HTV
-https://1150-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS
+https://1061-abc.dtvott.com/dash_live_1061/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptable
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -42,8 +42,8 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:caché de red=1000
 #EXTVLCOPT:http-usuario-agente="FireFox"
 #EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", BETME
-https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+#EXTINF:-1 group-title="Lista 27 solo OTT", DIRECTV SPORTS +
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 
 
@@ -60,8 +60,8 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #EXTVLCOPT:caché de red=1000
 #EXTVLCOPT:http-usuario-agente="FireFox"
 #EXTVLCOPT--http-reconectar=verdadero
-#EXTINF:-1 group-title="Lista 27 solo OTT", Animla
-https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
+#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN Sur
+https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptable
