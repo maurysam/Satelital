@@ -15,11 +15,10 @@ http://bgapp.live/TV&f=&token=blaaackghost&fi=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"cRkGm5kBW0657kMAV3OZ4g" group-title="Lista 27 solo OTT", "k":"uJgnzJcM142ogv_KNQTHdA"}]}
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://1150-abc.dtvott.com/
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HTV
-https://1150-vos.dtvott.com/DASH/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1150/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
