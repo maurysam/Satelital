@@ -1,35 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista 27 solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2022/03/canal5.png",Canal 50 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=773d4740b89bf59485e6f87eb02183b8:67634ae1be3bbaad54e082446b37d20c 
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd 
- 
-#EXTINF:-1 group-title="Lista 27 solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2022/03/canal5.png",Canal 5
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=773D4740B89BF59485E6F87EB02183B8:67634AE1BE3BBAAD54E082446B37D20C 
+#EXTINF:-1  group-title="Lista 27 solo OTT", HTV1
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+
+
 
 #EXTINF:-1 group-title="Lista 27 solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2022/03/canal5.png",Canal 59 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.default_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76 
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -52,29 +46,6 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Lista 27 solo OTT" , Canal 52
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-
-#EXTINF:-1 group-title="Lista 27 solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2022/03/canal5.png",Canal 53 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=773d4740b89bf59485e6f87eb02183b8:67634ae1be3bbaad54e082446b37d20c 
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd 
- 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=773d4740b89bf59485e6f87eb02183b8:67634ae1be3bbaad54e082446b37d20c 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1 group-title="Lista 27 solo OTT",Canal 54
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd 
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
