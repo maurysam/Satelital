@@ -1,23 +1,6 @@
 #EXTM3U
 
-
-
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Pasiones
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM=
-https://chromecast.cvattv.com.ar/live/live/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
-
-
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Animal Planet
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM
-https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
-
-#EXTINF:-1 group-title="IZZI GO",Mosaico 21
+#EXTINF:-1 group-title="IZZI GO", Mosaico 21
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -27,8 +10,17 @@ https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_dash_enc_2A/Anim
 #EXTVLCOPT--http-reconnect=true
 https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
 
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="Premium", Sony Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 
-#EXTINF:-1 group-title="IZZI GO",Cartoonito
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="Premium", Cartoonito
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -37,10 +29,6 @@ https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mo
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Interés General
 #KODIPROP:inputstreamaddon=inputstream.adaptive
