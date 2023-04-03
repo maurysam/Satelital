@@ -1,21 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista 27 solo OTT",mosaico
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="Premium",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZI GO",Mosaico 21
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
 
-#EXTINF:-1 group-title="IZZI GO",Sony Movies
+
+#EXTINF:-1 group-title="IZZI GO",Cartoonito
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
-https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 
 
 
@@ -110,12 +125,14 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
 
+
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
+
 
 
 
@@ -133,6 +150,7 @@ https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
+
 
 
 
