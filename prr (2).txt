@@ -1,17 +1,6 @@
 #EXTM3U
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
-#EXTVLCOPT:network-caching=500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="IZZI GO",Canal 5 rd
-https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
-
-
+#EXTINF:-1  group-title="Lista 27 solo OTT", mosaico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -19,21 +8,9 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", mosaico
 https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="XHTVMDT2.mx" tvg-name="XHTVMDT2 (XHTVM-DT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="Lista 27 solo OTT", música de los 80
-https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
-
-
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico 1
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Interés General
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -41,54 +18,79 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
 https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Entretenimiento
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d30wldjmree37l.cloudfront.net/out/v1/f63563de06f94d00acf786699de9cc28/mosaico2.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico hbo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Hbo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico información 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Noticias e Información
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico mundo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Mundo y Cultura
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://dcuoufxq35cz8.cloudfront.net/out/v1/a9d3147ac14440f8aa6af49a98e09e59/mundo.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico niños
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Niños
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d12bww9t7e6mtv.cloudfront.net/out/v1/ec80106d36e44980a295c5fc10c133c2/ninos.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico peliculas
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Peliculas
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d23krjoz8267fm.cloudfront.net/out/v1/2ea9d7594d1a4e6ea9fe18089bfc4cec/peliculas.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",mosaico fox
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Universal Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd
+
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",música 80
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
+https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-80/default.mpd
+
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Mosaico Deportes
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
+https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
+
+
+#EXTINF:-1 group-title="IZZI GO",Canal 5 rd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",música 80
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -106,25 +108,15 @@ https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/de
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Canal 5 rd
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Canal 5dh
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Canal 7 dh
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
-https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-7-HD/default.mpd
-
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",xtreme
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Cartoonito
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -133,11 +125,21 @@ https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO
+#EXTINF:-1 tvg-id="HBO.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="CINE",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+
+
+
+
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 
 
@@ -146,208 +148,457 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO SIGNATURE
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",FIRMA HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO +
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO FAMILY
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO MUNDI
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO Mundi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO POP
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO Pop
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO XTREME 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO Xtreme
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",GOLDEN PREMIERE 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO", Golden Premier
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",GOLDEN PREMIER -2hrs
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Golden Premier -2hrs
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",CINEMAX
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",UNIVERSAL PREMIERE 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Universal Premiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",UNIVERSAL CINEMA
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Universal Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",UNIVERSAL COMEDY
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Universal Comedy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",UNIVERSAL CRIME 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Universal Crime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",UNIVERSAL REALITY 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Universal Reality
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",STAR SERIES
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Canal 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Universal 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Universal Premiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
 
 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",HBO
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",Hbo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", HTV1
+
+
+
+
+
+
+CANALES PREMIUM
+
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD
+https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+ CANALES CINES
+
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/FX-MOVIES-HD/default.mpd
+
+https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/CINE-Y-ARTES-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
+
+https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
+ 
+INFANTIL
+
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/NAT-GEO-KIDS-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/DISNEY-XD-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
+
+
+
+
+CULTURA
+
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/ZEE-MUNDO-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd
+
+
+
+ENTRETENIMIENTO 
+
+https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/ISAT-SD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/FOX-LIFE-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
+
+
+
+
+
+ABIERTA
+https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-Uno-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Imagen-Television-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-7-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
 
 
 
-#EXTINF:-1 group-title="Lista 27 solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2022/03/canal5.png",Canal 59 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.default_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76 
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+NOTICIAS
+
+https://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Lista 27 solo OTT" , Canal 51
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+DEPORTES
+
+https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
+
+Música 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Lista 27 solo OTT" , Canal 52
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
+http://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
+pop hits 
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL133/O0U9MTY4MDAxNzI2ODtBPTE7Sz0wO1A9MDExMTA7Uz05MTFlNTE5YmE0MjFlZTU1MDJmMmUxYmVlZWJjNTJiNzkxMmE5NjAw/chunklist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", HTV1
-https://dtvott-abc.akamaized.net/dash_live_1150/manifest.mpd
+Alternativahttps://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL122/O0U9MTY4MDAxNzMzMTtBPTE7Sz0wO1A9MDExMTA7Uz0yNmNkYjY1NjcwZGIyMWNmZjI3NzkwZmM3MDI3MzFiYzQzMzk1NWZi/chunklist.m3u8
+
+
+mexicana
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL131/O0U9MTY4MDAxNzM1MztBPTE7Sz0wO1A9MDExMTA7Uz1jMTJhZTJmNzEzNzcwMDc2NzhlZDg0N2IxNjE3ZWI2NTRhZDUzZTE1/chunklist.m3u8
+
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL131/O0U9MTY4MDM5OTQ1MjtBPTE7Sz0wO1A9MDExMTA7Uz0wNmIzY2E4MDUyZjEzZTU0NTlkZjc5MGE4YjRkOGIwYmM5M2VhMDQ2/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_131&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+
+
+
+
+
+tropicales 
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL137/O0U9MTY4MDAxNzM2NTtBPTE7Sz0wO1A9MDExMTA7Uz1mZDI4ZDdiYTYyN2U3OWQ0ZWQ3YjUwMTcyZTliY2ExYjBkZDczYjA4/chunklist.m3u8
+urbana
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL128/O0U9MTY4MDAxNzM5ODtBPTE7Sz0wO1A9MDExMTA7Uz0yZWM5ZjAxYWFjYWU2MTlhMTBmNTcyOGUwNmQ4YzljOTg1ODk5ZTcz/chunklist.m3u8
+pop latino
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL123/O0U9MTY4MDAxNzQxNztBPTE7Sz0wO1A9MDExMTA7Uz03ZWQ2NzdlMGU2MGJlZDRlY2UxMDE3ZjgzNmUzMzZhNThlNDk3ZGE1/chunklist.m3u8
+country hits
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1115/O0U9MTY4MDAxNzQ0MjtBPTE7Sz0wO1A9MDExMTA7Uz1mZmUzNGJmMWIwNGIxMjI0ZWU1ZGJhZDEzNWQ0OGJjZjFiNThhNmYz/chunklist.m3u8
+todas country
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTY4MDAxNzQ2MjtBPTE7Sz0wO1A9MDExMTA7Uz00ZmQwMTNmMWJmZGY3MTNhNGJjOGJhMTI1YjRjMzAyYjU5ZTFjZTMz/chunklist.m3u8
+hits list
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL100/O0U9MTY4MDAxNzUwNztBPTE7Sz0wO1A9MDExMTA7Uz00Zjg5ODU2OGU0YjJjM2ViNTNjMmU4M2Q1NDFhNDdhYTM1MDI2NTgy/chunklist.m3u8
+pop country
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VedeoChannels/ROTFL132/O0U9MTY4MDAxNzQ4OTtBPTE7Sz0wO1A9MDExMTA7Uz04NjgzMTA5ZmMzOTM5M2IyMGU2ZjVjMzlmODhkZmZmYjc5OGIwYmZm/chunklist.m3u8
+teen beats
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL118/O0U9MTY4MDAxNzU0NjtBPTE7Sz0wO1A9MDExMTA7Uz1kYzU3ZWQ2OWNiNzA3YjMyOTBlMDRmZTgxZWMxYTdiYWMzN2M0ZWQ1/chunklist.m3u8
+MC max
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL1104/O0U9MTY4MDAxNzU2NDtBPTE7Sz0wO1A9MDExMTA7Uz1hNmJlMTY4NDEzY2U0Zjg3NThkOTE1YWE0ODNkZWM3MzU4Y2ZkYzlj/chunklist.m3u8
+dance
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL127/O0U9MTY4MDAxNzYwMztBPTE7Sz0wO1A9MDExMTA7Uz02NmFiM2QyYzY4YjBmYzk0ZDFmMTBiYmM4N2NmZmZhMjFhNjQ0MjBm/chunklist.m3u8
+y2k
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL145/O0U9MTY4MDAxNzYyNjtBPTE7Sz0wO1A9MDExMTA7Uz0yZGIyMDU1ZDM4ZjhkZjIwN2I5MDFiMzUzYTUxYjUyNzk1NzY1ZTcy/chunklist.m3u8
+90
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL140/O0U9MTY4MDAxNzY2MDtBPTE7Sz0wO1A9MDExMTA7Uz0xNDFlYThjZDY5MWY1OTdjNDk0NzMyNGMxMDJmNDk4ZWZjZGE1ZmU2/chunklist.m3u8
+80
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1113/O0U9MTY4MDAxNzcwNDtBPTE7Sz0wO1A9MDExMTA7Uz0yMTEwMmY0ZjcwY2M0MWJhMjczZTY0OThjZjQyZGRiOGEwYWFmZGFk/chunklist.m3u8
+softrock
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1118/O0U9MTY4MDAxNzcxNDtBPTE7Sz0wO1A9MDExMTA7Uz1hZDM0MGE1MDYyMDBjNzZlOWRhNDg1Yzc0NTc3Y2I0MDQyNDhjNWY2/chunklist.m3u8
+hiphop
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL106/O0U9MTY4MDAxNzc0NTtBPTE7Sz0wO1A9MDExMTA7Uz1hYjkzMmU4Mzc4Mjg1MDY2NDY1YTE3MGMzOTE0OTRiNzc1ZWQwMWI0/chunklist.m3u8
+rnbsoul
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL124/O0U9MTY4MDAxNzcxODtBPTE7Sz0wO1A9MDExMTA7Uz03Y2VhNDRjMDViZTBmNzM4N2E2ZDk4ODRjNGI2NTM2OWE4MTNkOWIw/chunklist.m3u8
+rap
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL125/O0U9MTY4MDAxNzc5NTtBPTE7Sz0wO1A9MDExMTA7Uz1iNjNhZGQ1MjUyNDIzNWQ3ZTNkZWUyZjFlMjA5ZjA2ZDk5YTZlMzQ3/chunklist.m3u8
+rock
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL138/O0U9MTY4MDAxNzgxNztBPTE7Sz0wO1A9MDExMTA7Uz00MTg5Yjg5OWEzZjEyMDE0N2RkODVhZmViZjViODAzYjUzYjRiMDE2/chunklist.m3u8
+rap 2k
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL141/O0U9MTY4MDAxNzgzODtBPTE7Sz0wO1A9MDExMTA7Uz05N2NlYzYwNDJjMDIwNzEwNmI3MTNjOWE5YTAxNTk0N2JhMmM3N2Y0/chunklist.m3u8
+throwback
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL142/O0U9MTY4MDAxNzg2NztBPTE7Sz0wO1A9MDExMTA7Uz0wYWNjYjg3OTVkODgwZGU5OWU3OTJkMGUyYjc3OTlmOTIwMTYxNjE1/chunklist.m3u8
+kids only
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL130/O0U9MTY4MDAxNzkxMztBPTE7Sz0wO1A9MDExMTA7Uz00MmYyYjgyMjA0MTI1NWE5NDFkNTIzZWNjYWRhN2Y0ZTMyZTVkOWZk/chunklist.m3u8
+kids bop
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL1105/O0U9MTY4MDAxNzk0MztBPTE7Sz0wO1A9MDExMTA7Uz00ZTU0NzFkMWJlZTBiYmJmYmFjYjAwYTJjYmU0ZjRlODc1MDZlODYy/chunklist.m3u8
+learnplay
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL176/O0U9MTY4MDAxNzk3NDtBPTE7Sz0wO1A9MDExMTA7Uz1iMjg4NDExYzU4MzVlM2YwNGNjZDZjOWM0Y2JiZWMwOTMwMDdkOGI1/chunklist.m3u8
+family hits
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1110/O0U9MTY4MDAxNzk5OTtBPTE7Sz0wO1A9MDExMTA7Uz1jNGJiZDBmNGNhOThhYmU4ODcxZDRiZGU1ZTkzYTI0NWVlZGI1MTNm/chunklist.m3u8
+toddler tunes
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL144/O0U9MTY4MDAxODA0MDtBPTE7Sz0wO1A9MDExMTA7Uz0yNzYzYWViMGZlN2Y5OTgxOWFiMzY2ZjAxMWE2MTI1MWI1YWFkNjhj/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
+https://cdncentury-playboyhd.zolechamedia.net/playlist.m3u8
+
+https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
+
+
+
+
+
+
+
