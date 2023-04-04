@@ -898,6 +898,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
+
 http://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 
