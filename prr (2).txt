@@ -72,62 +72,6 @@ https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Imagen-Television-HD/default.mpd
 
 
-https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
-https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-7-HD/default.mpd
-https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
-https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
-https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
-https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
-https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
-https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
-https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
-https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
-https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
-https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
-https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
