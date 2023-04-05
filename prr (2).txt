@@ -1,5 +1,108 @@
 #EXTM3U
 
+#EXTINF:-1, Telefe
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1, Comedy Central
+https://cotesma02.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+#EXTINF:-1, Lifetime 
+https://cotesma02.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+#EXTINF:-1, MasChic
+https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd
+#EXTINF:-1, TruTV 
+https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1, Cartoon Network 
+https://cotesma02.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+#EXTINF:-1, Disney Channel 
+https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1, Disney XD 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
+#EXTINF:-1, Disney Junior 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1, Nick 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF :-1, Nick Jr 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1,Tooncast 
+https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1, Baby TV 
+https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1, Cartoonito
+https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1, A&E
+https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1, Cinemax
+https://cotesma02.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1, Cinecanal 
+https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1,TNT 
+https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1,TNT Series 
+https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:-1, AXN
+https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1, AMC
+https://cotesma02.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:-1, SYFY 
+https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1, FX
+https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1, FXM
+https://cotesma02.cdn.rcs.net.ar/mnp/fxm/output.mpd
+#EXTINF :-1, Space
+https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1, Paramount Network 
+https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1, Sony 
+https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1, Tbs
+https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1, Universal 
+https://cotesma02.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1, Warner 
+https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1, TCM
+https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1, Cine Ar
+https://cotesma02.cdn.rcs.net.ar/mnp/cinear/output.mpd
+#EXTINF:-1, History 
+https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1, History 2
+https://cotesma02.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:-1, Discovery 
+https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1, Isat
+https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1, HBO
+https://cotesma02.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1, HBO2
+https://cotesma02.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1, HBO PLUS
+https://cotesma02.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1, HBO FAMILY 
+https://cotesma02.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+#EXTINF:-1, HBO SIGNATURE
+https://cotesma02.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+#EXTINF:-1, HBO XTREME 
+https://cotesma02.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+#EXTINF:-1, HBO MUNDO
+https://cotesma02.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1, HBO POP
+https://cotesma02.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1, HTV
+https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1, MTV 
+https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1, TNT Sport
+https://cotesma02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:-1, Golf
+https://cotesma02.cdn.rcs.net.ar/mnp/golf/output.mpd
+#EXTINF:-1, El Gourmet 
+https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1, CNN
+https://cotesma02.cdn.rcs.net.ar/mnp/cnn/output.mpd
+#EXTINF:-1, CM
+https://https://cetl02.cdn.rcs.net.ar/mnp/cm/output.mpd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="Premium",Mosaico Interés General
 #KODIPROP:inputstreamaddon=inputstream.adaptive
