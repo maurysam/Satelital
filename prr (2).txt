@@ -1,6 +1,12 @@
 #EXTM3U
 
-https://gowv.teleparallevar.tv:8063?deviceId=NDM5MjQ5NjMtMWM2OS0zMGE3LTk5MGYtMTY4NWZiNmQ2OTc2
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Premium",Azteca dis (HD )
+#KODIPROP:inputstreamaddon=inputstream.adaptable
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM
+https://chromecast.cvattv.com.ar/live/c2live/E_Entertainment_Television/SA_Live_dash_enc_2A/E_Entertainment_Television.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Premium",Azteca yuw(HD)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
