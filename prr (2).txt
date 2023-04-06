@@ -11,7 +11,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd
 #EXTINF:-1, TruTV 
 https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1, Cartoon Network 
-https://cotesma02.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+https://cotesma02.cdn.rcs.net.ar/mnp/cartoon/playlist.mpd
 #EXTINF:-1, Disney Channel 
 https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1, Disney XD 
