@@ -260,8 +260,22 @@ https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 #EXTINF:-1 tvg-id="233" tvg-logo="https://logo.iptveditor.com/teleformula.png"  group-title="IZZI GO",TELEFORMULA SD
 https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="233" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLROTOkObeLoZBOMrN05nQlXK5jTM9zVe63A&usqp=CAU"  group-title="IZZI GO",EXCELSIOR HD
 https://live1-ott.izzigo.tv/out/u/dash/EXCELSIOR-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="233" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySx1o6SO1ZRY9i1GrL3UzojWZwKpdTKvfTA&usqp=CAU"  group-title="IZZI GO",AMX NOTICIAS SD
 https://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -273,6 +287,13 @@ https://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd
 #EXTINF:-1 tvg-id="66" tvg-logo="https://logo.iptveditor.com/elfinanciero.png"  group-title="IZZI GO",EL FINANCIERO HD
 https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxVMvDAtfpt4E3wwurlsOYniyeTLYUH61kQ&usqp=CAU"  group-title="IZZI GO",CNBC HD
 https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -374,9 +395,22 @@ https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #EXTINF:-1 tvg-id="112" tvg-logo="https://logo.iptveditor.com/tvjustica.png"  group-title="IZZI GO",JUSTICIA TV
 https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="112" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkuhJHqGe7-Ddg_URHVbHjFEnKWn3dRB2zeA&usqp=CAU"  group-title="IZZI GO",CANAL DEL CONGRESO
 https://live3-ott.izzigo.tv/out/u/dash/CONGRESO-SD/default.mpd
 
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="112" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqkn7jsk_T0K3duSsg6mvKCESSSjdV1LnTw&usqp=CAU"  group-title="IZZI GO",HERALDO TV
 https://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd
 
 
@@ -392,6 +426,13 @@ entretenimiento
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d30wldjmree37l.cloudfront.net/out/v1/f63563de06f94d00acf786699de9cc28/mosaico2.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="248" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8pVSP6dXd3a_iL0RRN3klHfVPQdG0gE9oPA&usqp=CAU"  group-title="IZZI GO",INNOVA SD
 https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -520,6 +561,13 @@ https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
 #EXTINF:-1 tvg-id="51" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealth.png"  group-title="IZZI GO",DISCOVERY HOME AND HEALTH HD
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="51" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3s4Dxn9rPcVIYqEDJCfz-8wfy9Wht1uL6ug&usqp=CAU"  group-title="IZZI GO",TLC HD
 https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -636,7 +684,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="250" tvg-logo="https://logo.iptveditor.com/vh1classic.png"  group-title="IZZI GO",MTV 80S
+#EXTINF:-1 tvg-id="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"  group-title="IZZI GO",MTV 80S
 https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -645,7 +693,7 @@ https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="251" tvg-logo="https://logo.iptveditor.com/vh1.png"  group-title="IZZI GO",MTV 00S
+#EXTINF:-1 tvg-id="251" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"  group-title="IZZI GO",MTV 00S
 https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 
 
@@ -655,7 +703,7 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="144" tvg-logo="https://logo.iptveditor.com/mtvdance.png"  group-title="IZZI GO",CLUB MTV
+#EXTINF:-1 tvg-id="144" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/x/7/b/club-mtv.jpg"  group-title="IZZI GO",CLUB MTV
 https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -664,7 +712,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="147" tvg-logo="https://logo.iptveditor.com/mtv.png"  group-title="IZZI GO",MTV LIVE HD
+#EXTINF:-1 tvg-id="147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png"  group-title="IZZI GO",MTV LIVE HD
 https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -673,7 +721,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="147" tvg-logo="https://logo.iptveditor.com/mtv.png"  group-title="IZZI GO",TELE RITMO HD
+#EXTINF:-1 tvg-id="147" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png"  group-title="IZZI GO",TELE RITMO HD
 https://live1-ott.izzigo.tv/out/u/dash/TELE-RITMO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -682,7 +730,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TELE-RITMO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="147" tvg-logo="https://logo.iptveditor.com/mtv.png"  group-title="IZZI GO",BANDAMAX HD
+#EXTINF:-1 tvg-id="147" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqGToqNal1JTyRLWyDv8xGbmkS9MDW5lPSg&usqp=CAU"  group-title="IZZI GO",BANDAMAX HD
 http://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -694,6 +742,13 @@ http://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 #EXTINF:-1 tvg-id="148" tvg-logo="https://logo.iptveditor.com/ca048muchmusic.png"  group-title="IZZI GO",MUCH MUSIC
 https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="148" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoHRlApwIS6G0DvyivBstlOnO_Y4Upz_AMg&usqp=CAU"  group-title="IZZI GO",A3 SERIES HD
 https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
 
 
@@ -715,6 +770,13 @@ https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
 #EXTINF:-1 tvg-id="116" tvg-logo="https://logo.iptveditor.com/lifetime.png"  group-title="IZZI GO",LIFETIME HD
 https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="116" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWv7WPPO31V0YadS0irddmt6n_ul4Sl0Cg_A&usqp=CAU"  group-title="IZZI GO",STAR HD
 https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -826,6 +888,13 @@ https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
 #EXTINF:-1 tvg-id="245" tvg-logo="https://logo.iptveditor.com/tv5.png"  group-title="IZZI GO",TV5
 https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="245" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPv12ZBUkARWfFHqnTmzBRUnrLK8cW3uNLMg&usqp=CAU"  group-title="IZZI GO",TV GALICIA
 https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
 
 
