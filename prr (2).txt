@@ -32,7 +32,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-Uno-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="22" tvg-logo="https://logo.iptveditor.com/azteca1.png"  group-title="IZZI GO",AZTECA 1 2HS
+#EXTINF:-1 tvg-id="22" tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-aztecauno-2.png"  group-title="IZZI GO",AZTECA 1 2HS
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -41,7 +41,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="38" tvg-logo="https://logo.iptveditor.com/ziggotv.png"  group-title="IZZI GO",CANAL IZZI SD
+#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG9vVXzvTxc8RYCFD4hzbsqszeQhwOGCk2Q&usqp=CAU"  group-title="IZZI GO",CANAL IZZI SD
 https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -50,7 +50,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="31" tvg-logo="https://logo.iptveditor.com/canal2.png"  group-title="IZZI GO",CANAL 2 HD
+#EXTINF:-1 tvg-id="31" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title="IZZI GO",CANAL 2 HD
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -77,7 +77,7 @@ https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="114" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title="IZZI GO",LAS ESTRELLAS 2HS
+#EXTINF:-1 tvg-id="114" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU"  group-title="IZZI GO",LAS ESTRELLAS 2HS
 https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -158,7 +158,7 @@ https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="36" tvg-logo="https://logo.iptveditor.com/9canal.png"  group-title="IZZI GO",CANAL 9 SD
+#EXTINF:-1 tvg-id="36" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMX_J1ia4s_diQz-Fq-efamYvEj-nEbiflwA&usqp=CAU"  group-title="IZZI GO",CANAL 9 SD
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -203,7 +203,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="32" tvg-logo="http://manualdeimagen.canal22.org.mx/img/bn.png"  group-title="IZZI GO",CANAL 22
+#EXTINF:-1 tvg-id="32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJUQMXyGXrAb0i0qpmiJZGDK-VNXdVDoaWg&usqp=CAU"  group-title="IZZI GO",CANAL 22
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -212,7 +212,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="33" tvg-logo="https://logo.iptveditor.com/channel.png"  group-title="IZZI GO",CANAL 22 SD
+#EXTINF:-1 tvg-id="33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7t8SrcfT3pqFaGswl0v-jz0EFohegA5gKQw&usqp=CAU"  group-title="IZZI GO",CANAL 22 SD
 https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -392,7 +392,7 @@ https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="112" tvg-logo="https://logo.iptveditor.com/tvjustica.png"  group-title="IZZI GO",JUSTICIA TV
+#EXTINF:-1 tvg-id="112" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI02eLbpkeJb-8fYDOV8Kkjjoe0I0nPY0sng&usqp=CAU"  group-title="IZZI GO",JUSTICIA TV
 https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -468,7 +468,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="80" tvg-logo="https://logo.iptveditor.com/fox.png"  group-title="IZZI GO",STAR CHANNEL
+#EXTINF:-1 tvg-id="80" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROf0JPvauD275WDofIVoqtjaqcg3UuvKyw1A&usqp=CAU"  group-title="IZZI GO",STAR CHANNEL
 https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -531,7 +531,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="238" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9140038718913.576c159a2de69.png” group-title="IZZI GO",SPACE HD
+#EXTINF:-1 tvg-id="238" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKZUC9MedjyXQyQwGOrttf5QkVTuuC8zfYA&usqp=CAU” group-title="IZZI GO",SPACE HD
 https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -576,7 +576,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="13" tvg-logo="https://cdn.dribbble.com/users/1474214/screenshots/4259943/ae-logo.png"  group-title="IZZI GO",AANDE HD
+#EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1w1Kc68TQHidc1qjnyGzXdj6kruUN5fGbfA&usqp=CAU"  group-title="IZZI GO",A&E HD
 https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
