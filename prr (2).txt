@@ -68,7 +68,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Las-Estrellas-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="113" tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title="IZZI GO",LAS ESTRELLAS 1HS
+#EXTINF:-1 tvg-id="113" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"  group-title="IZZI GO",LAS ESTRELLAS 1HS
 https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -122,7 +122,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="149" tvg-logo="https://logo.iptveditor.com/multimediosplus.png"  group-title="IZZI GO",CANAL 6+
+#EXTINF:-1 tvg-id="149" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99620_dark_360w_270h.png"  group-title="IZZI GO",CANAL 6+
 https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -194,7 +194,7 @@ https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="10" tvg-logo="https://logo.iptveditor.com/a+.png"  group-title="IZZI GO",A+
+#EXTINF:-1 tvg-id="10" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png"  group-title="IZZI GO",A+
 https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -203,7 +203,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJUQMXyGXrAb0i0qpmiJZGDK-VNXdVDoaWg&usqp=CAU"  group-title="IZZI GO",CANAL 22
+#EXTINF:-1 tvg-id="32" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101361_dark_360w_270h.png"  group-title="IZZI GO",MX NUESTRO CINE
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -266,7 +266,7 @@ https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="233" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLROTOkObeLoZBOMrN05nQlXK5jTM9zVe63A&usqp=CAU"  group-title="IZZI GO",EXCELSIOR HD
+#EXTINF:-1 tvg-id="233" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82353_dark_360w_270h.png"  group-title="IZZI GO",EXCELSIOR HD
 https://live1-ott.izzigo.tv/out/u/dash/EXCELSIOR-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -284,7 +284,7 @@ https://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="66" tvg-logo="https://logo.iptveditor.com/elfinanciero.png"  group-title="IZZI GO",EL FINANCIERO HD
+#EXTINF:-1 tvg-id="66" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png"  group-title="IZZI GO",EL FINANCIERO HD
 https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -293,7 +293,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxVMvDAtfpt4E3wwurlsOYniyeTLYUH61kQ&usqp=CAU"  group-title="IZZI GO",CNBC HD
+#EXTINF:-1 tvg-id="66" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58780_dark_360w_270h.png"  group-title="IZZI GO",CNBC HD
 https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -329,7 +329,7 @@ https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="106" tvg-logo="https://logo.iptveditor.com/hln.png"  group-title="IZZI GO",HLN
+#EXTINF:-1 tvg-id="106" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113876_dark_360w_270h.png"  group-title="IZZI GO",HLN
 https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -356,7 +356,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="215" tvg-logo="https://logo.iptveditor.com/rt.png"  group-title="IZZI GO",RT HD
+#EXTINF:-1 tvg-id="215" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98986_dark_360w_270h.png"  group-title="IZZI GO",RT HD
 https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -365,7 +365,7 @@ https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="28" tvg-logo="https://logo.iptveditor.com/bbcworldnews.png"  group-title="IZZI GO",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="28" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png"  group-title="IZZI GO",BBC WORLD NEWS
 https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -392,7 +392,7 @@ https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="112" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI02eLbpkeJb-8fYDOV8Kkjjoe0I0nPY0sng&usqp=CAU"  group-title="IZZI GO",JUSTICIA TV
+#EXTINF:-1 tvg-id="112" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50577_dark_360w_270h.png"  group-title="IZZI GO",JUSTICIA TV
 https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -401,7 +401,7 @@ https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="112" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkuhJHqGe7-Ddg_URHVbHjFEnKWn3dRB2zeA&usqp=CAU"  group-title="IZZI GO",CANAL DEL CONGRESO
+#EXTINF:-1 tvg-id="112" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20548_dark_360w_270h.png"  group-title="IZZI GO",CANAL DEL CONGRESO
 https://live3-ott.izzigo.tv/out/u/dash/CONGRESO-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -410,7 +410,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CONGRESO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="112" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqkn7jsk_T0K3duSsg6mvKCESSSjdV1LnTw&usqp=CAU"  group-title="IZZI GO",HERALDO TV
+#EXTINF:-1 tvg-id="112" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111249_dark_360w_270h.png"  group-title="IZZI GO",HERALDO TV
 https://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd
 
 
@@ -432,7 +432,7 @@ https://d30wldjmree37l.cloudfront.net/out/v1/f63563de06f94d00acf786699de9cc28/mo
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="248" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8pVSP6dXd3a_iL0RRN3klHfVPQdG0gE9oPA&usqp=CAU"  group-title="IZZI GO",INNOVA SD
+#EXTINF:-1 tvg-id="248" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59287_dark_360w_270h.png"  group-title="IZZI GO",INNOVA SD
 https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -468,7 +468,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="80" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROf0JPvauD275WDofIVoqtjaqcg3UuvKyw1A&usqp=CAU"  group-title="IZZI GO",STAR CHANNEL
+#EXTINF:-1 tvg-id="80" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png"  group-title="IZZI GO",STAR CHANNEL
 https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -495,7 +495,7 @@ https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="218" tvg-logo="https://logo.iptveditor.com/sony.png"  group-title="IZZI GO",SONY HD
+#EXTINF:-1 tvg-id="218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png"  group-title="IZZI GO",SONY HD
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -531,7 +531,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="238" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKZUC9MedjyXQyQwGOrttf5QkVTuuC8zfYA&usqp=CAU” group-title="IZZI GO",SPACE HD
+#EXTINF:-1 tvg-id="238" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="IZZI GO",SPACE HD
 https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -567,7 +567,7 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="51" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3s4Dxn9rPcVIYqEDJCfz-8wfy9Wht1uL6ug&usqp=CAU"  group-title="IZZI GO",TLC HD
+#EXTINF:-1 tvg-id="51" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png"  group-title="IZZI GO",TLC HD
 https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -576,7 +576,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1w1Kc68TQHidc1qjnyGzXdj6kruUN5fGbfA&usqp=CAU"  group-title="IZZI GO",A&E HD
+#EXTINF:-1 tvg-id="13" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png"  group-title="IZZI GO",A&E HD
 https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -585,7 +585,7 @@ https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="118" tvg-logo="https://logo.iptveditor.com/maschic.png"  group-title="IZZI GO",MASCHIC HD
+#EXTINF:-1 tvg-id="118" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17457_dark_360w_270h.png"  group-title="IZZI GO",MASCHIC HD
 https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -666,7 +666,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="234" tvg-logo="https://logo.iptveditor.com/telehit.png"  group-title="IZZI GO",TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-id="234" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png"  group-title="IZZI GO",TELEHIT MUSICA PLUS
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -703,7 +703,7 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="144" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/x/7/b/club-mtv.jpg"  group-title="IZZI GO",CLUB MTV
+#EXTINF:-1 tvg-id="144" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89006_dark_360w_270h.png"  group-title="IZZI GO",CLUB MTV
 https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -730,7 +730,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TELE-RITMO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="147" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqGToqNal1JTyRLWyDv8xGbmkS9MDW5lPSg&usqp=CAU"  group-title="IZZI GO",BANDAMAX HD
+#EXTINF:-1 tvg-id="147" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png"  group-title="IZZI GO",BANDAMAX HD
 http://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -739,7 +739,7 @@ http://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="148" tvg-logo="https://logo.iptveditor.com/ca048muchmusic.png"  group-title="IZZI GO",MUCH MUSIC
+#EXTINF:-1 tvg-id="148" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16262_dark_360w_270h.png"  group-title="IZZI GO",MUCH MUSIC
 https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -748,7 +748,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="148" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoHRlApwIS6G0DvyivBstlOnO_Y4Upz_AMg&usqp=CAU"  group-title="IZZI GO",A3 SERIES HD
+#EXTINF:-1 tvg-id="148" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png"  group-title="IZZI GO",A3 SERIES HD
 https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
 
 
@@ -776,7 +776,7 @@ https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="116" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWv7WPPO31V0YadS0irddmt6n_ul4Sl0Cg_A&usqp=CAU"  group-title="IZZI GO",STAR HD
+#EXTINF:-1 tvg-id="116" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png"  group-title="IZZI GO",STAR HD
 https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -894,7 +894,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="245" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPv12ZBUkARWfFHqnTmzBRUnrLK8cW3uNLMg&usqp=CAU"  group-title="IZZI GO",TV GALICIA
+#EXTINF:-1 tvg-id="245" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17672_dark_360w_270h.png"  group-title="IZZI GO",TV GALICIA
 https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
 
 
@@ -1015,7 +1015,7 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="30" tvg-logo="https://logo.iptveditor.com/boomerang.png"  group-title="IZZI GO",CARTOONITO
+#EXTINF:-1 tvg-id="30" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"  group-title="IZZI GO",CARTOONITO
 https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1070,7 +1070,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="211" tvg-logo="https://logo.iptveditor.com/canalonceninos.png"  group-title="IZZI GO",ONCE NINAS Y NINOS
+#EXTINF:-1 tvg-id="211" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116170_dark_360w_270h.png"  group-title="IZZI GO",ONCE NINAS Y NINOS
 https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1088,7 +1088,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="208" tvg-logo="https://logo.iptveditor.com/nicktoons.png"  group-title="IZZI GO",NICKMUSIC
+#EXTINF:-1 tvg-id="208" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png"  group-title="IZZI GO",NICKMUSIC
 https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1097,7 +1097,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="205" tvg-logo="https://logo.iptveditor.com/nick2.png"  group-title="IZZI GO",TEENNICK
+#EXTINF:-1 tvg-id="205" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png"  group-title="IZZI GO",TEENNICK
 https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1133,7 +1133,7 @@ https://dcuoufxq35cz8.cloudfront.net/out/v1/a9d3147ac14440f8aa6af49a98e09e59/mun
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="49" tvg-logo="https://logo.iptveditor.com/discoverychannel.png"  group-title="IZZI GO",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="49" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png"  group-title="IZZI GO",DISCOVERY CHANNEL HD
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1151,7 +1151,7 @@ https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="200" tvg-logo="https://logo.iptveditor.com/natgeo.png"  group-title="IZZI GO",NAT GEO HD
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png"  group-title="IZZI GO",NAT GEO HD
 https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1160,7 +1160,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="200" tvg-logo="https://logo.iptveditor.com/natgeo.png"  group-title="IZZI GO",NAT GEO HD
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="IZZI GO",NAT GEO WILD HD
 https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1169,7 +1169,7 @@ https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="200" tvg-logo="https://logo.iptveditor.com/natgeo.png"  group-title="IZZI GO",CURIOSITY STREAM
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110951_dark_360w_270h.png"  group-title="IZZI GO",CURIOSITY STREAM
 https://live2-ott.izzigo.tv/out/u/dash/CURIOSITY-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1196,7 +1196,7 @@ https://live2-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="54" tvg-logo="https://logo.iptveditor.com/discoveryscience.png"  group-title="IZZI GO",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="54" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png"  group-title="IZZI GO",DISCOVERY SCIENCE HD
 https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1335,7 +1335,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="16" tvg-logo="https://mecambioya.com/wp-content/uploads/2021/03/afizzionados-3.png"  group-title="IZZI GO",AFFIZIONADOS HD
+#EXTINF:-1 tvg-id="16" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108506_dark_360w_270h.png"  group-title="IZZI GO",AFFIZIONADOS HD
 https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1344,7 +1344,7 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="214" tvg-logo="https://logo.iptveditor.com/realmadridtvenglish.png"  group-title="IZZI GO",REAL MADRID HD
+#EXTINF:-1 tvg-id="214" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109784_dark_360w_270h.png"  group-title="IZZI GO",REAL MADRID HD
 https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1409,7 +1409,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="72" tvg-logo="https://logo.iptveditor.com/espn+.png"  group-title="IZZI GO",ESPN EXTRA HD
+#EXTINF:-1 tvg-id="72" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png"  group-title="IZZI GO",ESPN EXTRA HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1418,7 +1418,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="15" tvg-logo="https://logo.iptveditor.com/adrenalina.png"  group-title="IZZI GO",ADRENALINA HD
+#EXTINF:-1 tvg-id="15" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83162_dark_360w_270h.png"  group-title="IZZI GO",ADRENALINA HD
 https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 
 
@@ -1428,7 +1428,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="203" tvg-logo="https://logo.iptveditor.com/nfl.png"  group-title="IZZI GO",NFL HD
+#EXTINF:-1 tvg-id="203" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png"  group-title="IZZI GO",NFL HD
 https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1446,7 +1446,7 @@ https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="94" tvg-logo="https://logo.iptveditor.com/golfchannel.png"  group-title="IZZI GO",PX SPORTS
+#EXTINF:-1 tvg-id="94" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72625_dark_360w_270h.png"  group-title="IZZI GO",PX SPORTS
 https://live4-ott.izzigo.tv/out/u/dash/PX-SPORTS-HD/default.mpd
 
 
@@ -1485,7 +1485,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="48" tvg-logo="https://logo.iptveditor.com/pelicula.png"  group-title="IZZI GO",DE PELICULA HD
+#EXTINF:-1 tvg-id="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png"  group-title="IZZI GO",DE PELICULA HD
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1503,7 +1503,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="90" tvg-logo="https://logo.iptveditor.com/goldenedge.png"  group-title="IZZI GO",GOLDEN EDGE
+#EXTINF:-1 tvg-id="90" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png"  group-title="IZZI GO",GOLDEN EDGE
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1512,7 +1512,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="91" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title="IZZI GO",GOLDEN PLUS
+#EXTINF:-1 tvg-id="91" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png"  group-title="IZZI GO",GOLDEN PLUS
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1521,7 +1521,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="91" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title="IZZI GO",GOLDEN PLUS
+#EXTINF:-1 tvg-id="91" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png"  group-title="IZZI GO",GOLDEN PLUS
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1557,7 +1557,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="18" tvg-logo="https://img1.wikia.nocookie.net/__cb20110408022156/logopedia/images/8/84/AMC_HD.png"  group-title="IZZI GO",AMC HD
+#EXTINF:-1 tvg-id="18" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png"  group-title="IZZI GO",AMC HD
 https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1566,7 +1566,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="18" tvg-logo="https://img1.wikia.nocookie.net/__cb20110408022156/logopedia/images/8/84/AMC_HD.png"  group-title="IZZI GO",AMC HD
+#EXTINF:-1 tvg-id="18" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"  group-title="IZZI GO",AMC HD
 https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1621,7 +1621,7 @@ https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="74" tvg-logo="https://logo.iptveditor.com/europa7.png"  group-title="IZZI GO",EUROPA HD
+#EXTINF:-1 tvg-id="74" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png"  group-title="IZZI GO",EUROPA HD
 https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1630,7 +1630,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tumundo.cl/multimedia/2020/04/sundance-channel-cambio-a-a3cine-2.png"  group-title="IZZI GO",A3 CINE HD
+#EXTINF:-1 tvg-id="11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png"  group-title="IZZI GO",A3 CINE HD
 https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1741,7 +1741,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="97" tvg-logo="https://logo.iptveditor.com/hbofamily.png"  group-title="IZZI GO",HBO FAMILY HD
+#EXTINF:-1 tvg-id="97" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png"  group-title="IZZI GO",HBO FAMILY HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1777,7 +1777,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="101" tvg-logo="https://logo.iptveditor.com/hbosignature.png"  group-title="IZZI GO",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="101" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png"  group-title="IZZI GO",HBO SIGNATURE HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1795,7 +1795,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="103" tvg-logo="https://logo.iptveditor.com/hboplus.png"  group-title="IZZI GO",HBO+ HD
+#EXTINF:-1 tvg-id="103" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png"  group-title="IZZI GO",HBO+ HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 
 
@@ -1815,7 +1815,7 @@ https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mf
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="4" tvg-logo="https://www.izzigo.tv/images/repository/11753188-LOGO-m.png"  group-title="IZZI GO",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png"  group-title="IZZI GO",UNIVERSAL REALITY
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1824,7 +1824,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="5" tvg-logo="https://www.izzigo.tv/images/repository/11753187-LOGO-m.png"  group-title="IZZI GO",UNIVERSAL CRIME
+#EXTINF:-1 tvg-id="5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png"  group-title="IZZI GO",UNIVERSAL CRIME
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1833,7 +1833,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.izzigo.tv/images/repository/11753186-LOGO-m.png"  group-title="IZZI GO",UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png"  group-title="IZZI GO",UNIVERSAL COMEDY
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1842,7 +1842,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.izzigo.tv/images/repository/11753184-LOGO-m.png"  group-title="IZZI GO",UNIVERSAL PREMIER
+#EXTINF:-1 tvg-id="7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png"  group-title="IZZI GO",UNIVERSAL PREMIER
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1851,18 +1851,8 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png"  group-title="IZZI GO",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="8" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png"  group-title="IZZI GO",UNIVERSAL CINEMA
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",OPERA PLUS
-http://live2-ott.izzigo.tv/out/u/dash/OPERA-PLUS-HD/default.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1907,7 +1897,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BIG-BAND/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="154" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC BLUES
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-BLUES/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1934,7 +1924,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-CANCIONES-AMOR/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC CLASSIC DANCE
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1943,7 +1933,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-DANCE/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="158" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC CLASSIC INDIE
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1952,7 +1942,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-CLASICOS-INDIE/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="159" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC CLASSIC MAESTROS
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-MAESTROS-CLASICO/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1988,7 +1978,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-COCKTAIL-LOUNGE/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="163" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC DANCEHALL
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-SESIONES-DANCEHALL/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2006,7 +1996,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-EL-SALON-CHILL/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC ESTANDAR
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2015,7 +2005,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ESTANDARES/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC EURO HITS
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2024,7 +2014,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EURO-HITS/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="167" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC EXITOS AMERICA
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-AMERICAS/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2051,7 +2041,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-RECIENTES/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC EXITSO ITALIA
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-EXITOS-ITALIA/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2105,7 +2095,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-JAZZ-LATINO/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC LATINO LOUNGUE
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-LATIN-LOUNGE/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2123,7 +2113,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-LATINO-TROPICAL/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC LIGERA
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-LIGERA/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2150,7 +2140,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-MARIACHI-PARA-SIEMPRE/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="181" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC MUNDO
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-DEL-MUNDO/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2177,7 +2167,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-OPERA-PLUS/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="184" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC POP ADULTO
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2186,7 +2176,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-ADULTO/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="185" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC POP LATINO
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2196,26 +2186,26 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="186" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC POPCORN
 https://live2-ott.izzigo.tv/out/u/dash/MUSIC-POPCORN/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC POPULAR CLASSIC
-https://live3-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live5-ott.izzigo.tv/out/u/dash/POPULAR-CLASSICAL/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC REGGAETON
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 #EXTVLCOPT:http-referrer=https://bgtv.site:
@@ -2223,8 +2213,8 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-REGGAETON/default.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="189" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC ROCK ALTERNATIVO
 https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ROCK-ALTERNATIVO/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 #EXTVLCOPT:http-referrer=https://bgtv.site:
@@ -2249,9 +2239,9 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-R0CK-ESPANOL/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="192" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC ROMANCE LATINO
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-ROMANCE-LATINO/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 #EXTVLCOPT:http-referrer=https://bgtv.site:
@@ -2267,7 +2257,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-ROMPEPISTAS/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC SALSA MERENGUE
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2277,8 +2267,8 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SALSA-MERENGUE/default.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC SAMBA
 https://live3-ott.izzigo.tv/out/u/dash/MUSIC-SAMBA-PAGODE/default.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 #EXTVLCOPT:http-referrer=https://bgtv.site:
@@ -2294,7 +2284,7 @@ https://live2-ott.izzigo.tv/out/u/dash/MUSIC-SOLO-PEQUES/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="197" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC TANGO
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2303,7 +2293,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUSIC-TANGO/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png"  group-title="IZZI GO",MUSIC VIEJOTAS BUENAS
-https://live3-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/MUSIC-VIEJOTAS-BUENISIMAS/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
