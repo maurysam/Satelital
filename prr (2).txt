@@ -41,7 +41,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Azteca-Uno-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="22" tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-aztecauno-2.png"  group-title="IZZI GO",AZTECA 1 2HS
+#EXTINF:-1 tvg-id="22" tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-aztecauno-2.png"  group-title="IZZI GO",AZTECA UNO 2HRS
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -68,7 +68,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Las-Estrellas-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="113" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"  group-title="IZZI GO",LAS ESTRELLAS 1HS
+#EXTINF:-1 tvg-id="113" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png"  group-title="IZZI GO",LAS ESTRELLAS 1HRS
 https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -77,7 +77,7 @@ https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="114" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU"  group-title="IZZI GO",LAS ESTRELLAS 2HS
+#EXTINF:-1 tvg-id="114" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU"  group-title="IZZI GO",LAS ESTRELLAS 2HRS
 https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
