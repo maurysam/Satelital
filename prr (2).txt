@@ -1566,7 +1566,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="18" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"  group-title="IZZI GO",AMC HD
+#EXTINF:-1 tvg-id="18" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"  group-title="IZZI GO",STUDIO UNIVERSAL HD
 https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
