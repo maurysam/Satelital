@@ -510,6 +510,25 @@ https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 #EXTINF:-1 tvg-id="46" tvg-logo="https://logo.iptveditor.com/comedycentral.png"  group-title="IZZI GO",COMEDY CENTRAL HD
 https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="46" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_lZTHcd-GTAoeCMi-7hIfTBvv-ckNEgQIg&usqp=CAU"  group-title="IZZI GO",TNT NOVELAS HD
+https://live1-ott.izzigo.tv/out/u/dash/TNT-NOVELAS-HD/default.mpd
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
