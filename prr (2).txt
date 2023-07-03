@@ -17,7 +17,7 @@ https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mo
 #EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG9vVXzvTxc8RYCFD4hzbsqszeQhwOGCk2Q&usqp=CAU"  group-title="IZZI GO",CANAL IZZI SD
 https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 
-#EXTINF:-0 tvg-id="33" tvg-logo="https://es.wikipedia.org/wiki/Galavisi%C3%B3n#/media/Archivo:Galavision_Logo_2013.svg"  group-title="IZZI GO",GALAVISION 
+#EXTINF:-0 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png"  group-title="IZZI GO",GALAVISION 
 http://23.237.108.234/hls/HDGALAVISION.m3u8|User-Agent=Roku/DVP(10.10.10)
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -744,7 +744,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="IZZI GO" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/Htv_logo.svg_-e1632251950359.png",HTV
+#EXTINF:-1 group-title="IZZI GO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png",HTV
 https://1150-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1345,10 +1345,10 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
 DEPORTES
 
 
-#EXTINF:-1 tvg-id="33" tvg-logo="https://es.wikipedia.org/wiki/WWE_Network#/media/Archivo:WWE_Network_logo.svg"  group-title="IZZI GO",WWE
+#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE
 http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
 
-#EXTINF:-1 tvg-id="33" tvg-logo="https://es.wikipedia.org/wiki/WWE_Network#/media/Archivo:WWE_Network_logo.svg"  group-title="IZZI GO",WWE 1
+#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE 1
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="IZZI GO",Mosaico Deportes
