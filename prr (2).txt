@@ -1356,7 +1356,7 @@ https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/de
 #EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE
 http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
 
-#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE 1
+#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1375,7 +1375,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="IZZI GO" tvg-logo="https://i.imgur.com/R9FWr9u.png" ,TUDN USA 1
+#EXTINF:-1 group-title="IZZI GO" tvg-logo="https://i.imgur.com/R9FWr9u.png" ,TUDN USA HD
 https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
