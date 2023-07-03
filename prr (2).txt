@@ -1367,6 +1367,12 @@ https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/de
 #EXTINF:-1 tvg-id="242" tvg-logo="https://logo.iptveditor.com/tudn.png"  group-title="IZZI GO",TUDN HD
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZI GO" tvg-logo="https://i.imgur.com/R9FWr9u.png" ,TUDN USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
+https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
