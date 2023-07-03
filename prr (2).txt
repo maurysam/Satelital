@@ -1345,11 +1345,6 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
 DEPORTES
 
 
-#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE
-http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
-
-#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE 1
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="IZZI GO",Mosaico Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1357,6 +1352,12 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
 https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
+
+#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE
+http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
+
+#EXTINF:-1 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png"  group-title="IZZI GO",WWE 1
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1367,11 +1368,15 @@ https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/de
 #EXTINF:-1 tvg-id="242" tvg-logo="https://logo.iptveditor.com/tudn.png"  group-title="IZZI GO",TUDN HD
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
-#EXTINF:-1 group-title="IZZI GO" tvg-logo="https://i.imgur.com/R9FWr9u.png" ,TUDN USA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="IZZI GO" tvg-logo="https://i.imgur.com/R9FWr9u.png" ,TUDN USA 1
 https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
