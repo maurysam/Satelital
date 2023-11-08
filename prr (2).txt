@@ -20,7 +20,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #EXTINF:-0 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png"  group-title="IZZI GO",GALAVISION 
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/174.ts
 
-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png"  group-title="IZZI GO",GALAVISION
+logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png"  group-title="IZZI GO",GALAVISION MIAMI 
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/21319
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
