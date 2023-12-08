@@ -21,7 +21,7 @@ https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mo
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MDAwOGQ4NTMtMWE4ZC0zODE1LTllNjEtNDA4Zjg5OGI1YzMw
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MGY4MmY4NGUtMzFhM
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -32,12 +32,9 @@ https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 #EXTINF:-0 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png"  group-title="IZZI GO",GALAVISION 
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/174.ts
 
-#EXTINF:-0 tvg-id="33" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png"  group-title="IZZI GO",GALAVISION USA
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/21319
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MDAwOGQ4NTMtMWE4ZC0zODE1LTllNjEtNDA4Zjg5OGI1YzMw
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -47,7 +44,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://177.236.142.250:8063/?deviceid=440a2ca74bee4daf93d82a2756dc8467
 #EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
@@ -56,7 +53,7 @@ https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-UNO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId==440a2ca74bee4daf93d82a2756dc8467
 #EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
@@ -65,7 +62,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceid=440a2ca7-4bee-4daf-93d8-2a2756dc8467&region=METRO
 #EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
