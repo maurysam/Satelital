@@ -5,12 +5,17 @@
 #EXTINF:-1 group-title="Lista 34", LAS ESTRELLAS 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title="Lista 34", LAS ESTRELLAS 
+#EXTINF:-1 group-title="Lista 34", LAS ESTRELLAS HD
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Lista 34",LAS ESTRELLAS 1HRS
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", LAS ESTRELLAS 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LASESTRELLASHD)/index.m3u8
+#EXTINF:-1 group-title="Lista 34",LAS ESTRELLAS 2HRS
+415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34",CANAL 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Lista 34", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
@@ -30,465 +35,69 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 
+#EXTINF:-1 group-title="Lista 34", UNICABLE
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34", TLNOVELAS
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34", DISTRITO COMEDIA
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34", BIT ME
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34", NICK
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ce75&deviceDNT=0&deviceModel=0&profilesFromStream=true
+
+#EXTINF:-1 group-title="Lista 34", CARTOON NETWORK 
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Lista 34", CARTOONITO 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34", DISCOVERY KIDS 
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+
 #EXTINF:-1 group-title="Lista 34", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
+#EXTINF:-1 group-title="Lista 34",DE PELICULA 
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Lista 34",DE PELICULA PLUS 
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", GLITZ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GLITZ)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34",GOLDEN
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", DW ESPAÑOL https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34",GOLDEN MULTIPLEX 1HRS
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", DW TV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34",GOLDEN MULTIPLEX 
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", RAI https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RAI)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34",GOLDEN PLUS 
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", EWTN https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EWTN)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34", GOLDEN PREMIER
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", TCM https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TCM)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34", TELEHIT
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", DW AMERIKA https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34", TELEHIT MUSICA
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", ENLACE https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENLACE)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34", TELEHIT MUSICA PLUS 
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", TELEHIT https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHIT)/index.m3u8|user-agent=Chrome/61.0.3163.100
+#EXTINF:-1 group-title="Lista 34", TUDN
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 34", EXATV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-
-#EXTINF:-1 group-title="Lista 34", MTV HD
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", MTV LIVE
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", HTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", FXHD
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-
-#EXTINF:-1 group-title="Lista 34", DISTRITO COMEDIA
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISTRITOCOMEDIA)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", EL GOURMET HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ELGOURMETHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", A&E HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AEHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", COMEDY CENTRAL HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COMEDYCENTRALHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", UNIVERSAL HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", SONY HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SONYHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", TNT HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", AXN HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AXNHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", SPACE HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SPACEHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", DISCOVERY TURBO HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTURBOHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", TNT SERIES
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTSERIESHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", LIFETIME
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LIFETIME)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", FOOD NETWORK 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOODNETWORKHD)/index.m3u8
-
-EXTINF:-1 group-title="Lista 34", TL NOVELAS https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TLNOVELAS)/index.m3u8|user-agent=Chrome/61.0.3163.
-
-
-#EXTINF:-1 group-title="Lista 34", TOONCAST https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TOONCAST)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-
-#EXTINF:-1 group-title="Lista 34", BITME
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BITME)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", BABY TV
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BABYTV)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", CARTOONITO 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARTOONITO)/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Lista 34", CARTOON NETWORK 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARTOONNETWORKHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", DISCOVERY KIDS 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYKIDSHD)/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Lista 34", DISNEY CHANNEL 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYCHANNELHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", DISNEY JRS 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYJUNIORHD)/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Lista 34", NICK JR
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NICKJR)/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Lista 34", DISCOVERY CHANNEL 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYCHANNELHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", ANIMAL PLANET 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANIMALPLANETHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", NATIONAL GEOGRAPHIC
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NATIONALGEOGRAPHICHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", HISTORY 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HISTORYHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", HISTORY 2
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(H2)/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Lista 34", DISCOVERY SCIENCE 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
-
-
-Deportes
-
-
-#EXTINF:-1 group-title="Lista 34", ESPN HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPNHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", ESPN2 HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN2HD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", ESPN 3 HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN3HD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", ESPN 4 HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", ESPN PLUS HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPNEXTRAHD)/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Lista 34", MULTIPREMIER https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MULTIPREMIER)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CINELATINO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINELATINO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-
-#EXTINF:-1 group-title="Lista 34", CINEMAX
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINEMAX)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", PARAMOUNT 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PARAMOUNTHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", TNT 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", DE PELICULA 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DEPELICULA)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", DE PELICULA PLUS
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DEPELICULAPLUSHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", GOLDEN PLUS
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENPLUSHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", GOLDEN EDGE
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENEDGE)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", AMC
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AMCHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", STUDIO UNIVERSAL 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(STUDIOUNIVERSAL)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", TCM
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TCM)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", GOLDEN PREMIER 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENPREMIERHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", HBO
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", HBO 2
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBO2HD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", HBO PLUS
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPLUSHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", HBO FAMILY 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOFAMILYHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", HBO MUNDI
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOMUNDIHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", HBO POP
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPOPHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", HBO SIGNATURE 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOSIGNATUREHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", HBO XTREME
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOEXTREMEHD)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34", UNIVERSAL CINEMA 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCINEMAHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", UNIVERSAL CRIME 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCRIMEHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", UNIVERSAL COMEDY 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCOMEDYHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", UNIVERSAL REALITY 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALREALITYHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", UNIVERSAL PREMIERE 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALPREMIERHD)/index.m3u8
-
-
-#EXTINF:-1 group-title="Lista 34", VENUS
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", PLAYBOY 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
-#EXTINF:-1 group-title="Lista 34", PENTHOUSE 
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PENTHOUSE)/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Lista 34", FOX NEWS https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOXNEWS)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CANAL 4 RD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CATORCETVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CINEVISIÓN https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINEVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", LA VOZ DE MARÍA https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LAVOZDEMARIA)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELEUNIVERSO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEUNIVERSOHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CDN https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CDNHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", COLOR VISIÓN https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COLORVISIONHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELERADIO AMÉRICA https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELERADIOAMERICAHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELEUNIÓN https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEUNIONHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CDN DEPORTES https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CDNDEPORTESHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELEVIDA https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEVIDA)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CANAL 25 DO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CANAL25HD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ACENTOTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ACENTOTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", AGUILASTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AGUILASTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ALIENTOVISION https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ALIENTOVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", AME47 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AME47)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", BAJOTECHO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BAJOTECHO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", BOREAL https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BOREAL)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", BIZTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(BIZTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CANALDELSOL https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CANALDELSOL)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CANALLUZHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CANALLUZHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CARIVISION https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARIVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CGTN-EHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CGTN-EHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CIELOTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CIELOTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", COLIMDO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COLIMDO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", COMUNIONTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COMUNIONTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CORAL39 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CORAL39)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CTN https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CTN)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CTTTELEDUARTEHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CTTTELEDUARTEHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CUBAVISION https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CUBAVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CVVISION https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CVVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", CINEVISION https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINEVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", DIGITAL15 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DIGITAL15)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", DIGITALVISION https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DIGITALVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENTELEVISIONHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENTELEVISIONHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ESCOGIDOTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESCOGIDOTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", FOPPREDOMTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOPPREDOMTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", GDMESTUDIOTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GDMESTUDIOTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", GENTEIMPORTANTE https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GENTEIMPORTANTE)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", GETTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GETTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", GLOBALTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GLOBALTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", GIGANTESTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GIGANTESTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", HIGUEYTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HIGUEYTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", HILANDOFINO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HILANDOFINO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", LICEYTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LICEYTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", LUNATV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LUNATV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", MANGOTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MANGOTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", MEGAVISIONHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MEGAVISIONHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", MITV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MITV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", MIATV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MIATV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", MIAVISIONHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MIAVISIONHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", NEXXO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NEXXO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", NOTICIAS16 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NOTICIAS16)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", RADIOVISIONEDUCATIVA https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RADIOVISIONEDUCATIVA)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", RNN https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RNN)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", RNN2 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RNN2)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ROMANATV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ROMANATV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", RTVD17HD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RTVD17HD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", RUTA66 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RUTA66)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", RVIDA https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RVIDA)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SANTIAGOTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SANTIAGOTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SANTODOMINGOTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SANTODOMINGOTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SENALDEVIDAHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SENALDEVIDAHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SENALESTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SENALESTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SITV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SITV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SPORTVISION https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SPORTVISION)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SUMUNDOTVHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SUMUNDOTVHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SUPERCANAL https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SUPERCANAL)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", SUPERTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SUPERTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TARIMAHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TARIMAHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELEIMPACTO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEIMPACTO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELESISTEMAHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELESISTEMAHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELEANTILLAS https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEANTILLAS)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELECENTRO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELECENTRO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELECONTACTO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELECONTACTO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELEFUTURO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEFUTURO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TELEMICROHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEMICROHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TRA2 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TRA2)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TV43 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TV43)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TVFAMILIAHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TVFAMILIAHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TVEDUCATIVAHD https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TVEDUCATIVAHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", TVO https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TVO)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", VEGATEVE https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VEGATEVE)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", VOZZTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VOZZTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", VTV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VTV)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", XTREMOCHANNEL https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(XTREMOCHANNEL)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 2 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_2)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 6 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_6)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 3 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_3)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 8 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_8)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 1 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_1)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 4 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_4)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 5 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_5)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 7 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_7)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 9 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_9)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
-#EXTINF:-1 group-title="Lista 34", ENGLISH PREMIER LEAGUE 10 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENGLISH_PREMIER_LEAGUE_10)/index.m3u8|user-agent=Chrome/61.0.3163.100
-
+#EXTINF:-1 group-title="Lista 34", AFFIZIONADOS 
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
 
 
