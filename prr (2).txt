@@ -9,10 +9,10 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Lista 34",LAS ESTRELLAS 1HRS
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+http://dashtv.tech:8080/live/DanPrada846/Prada46/159148.ts
 
 #EXTINF:-1 group-title="Lista 34",LAS ESTRELLAS 2HRS
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+http://dashtv.tech:8080/live/DanPrada846/Prada46/159149.ts
 
 #EXTINF:-1 group-title="Lista 34",CANAL 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
