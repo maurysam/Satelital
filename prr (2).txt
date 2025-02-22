@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2022/03/canal5.png",Canal 5
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg",ADULT SWIM HD 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -10,19 +10,11 @@
 #KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a 
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2022/03/canal5.png",Canal 5
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d7eff2e4dc61d48489555068b0db46a:694fa2e355b31ac2c52d0a56d3d8da59 
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/default.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.licens#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"4cccb1a1e21a3dbc42bd4a3989a61de0","kid":"18273dd094587276de662812a2994055"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"18273dd094587276de662812a2994055","kid":"4cccb1a1e21a3dbc42bd4a3989a61de0"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM", Canal 2
@@ -35,7 +27,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4cccb1a1e21a3dbc42bd4a3989a61de0:18273dd094587276de662812a2994055
+#KODIPROP:inputstream.adaptive.license_key=18273dd094587276de662812a2994055:4cccb1a1e21a3dbc42bd4a3989a61de0
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 
 
