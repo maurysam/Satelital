@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
 
+https://spinoff.link/live/mpd.php?url=https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd&id=0fefd5d94a8cb5b40c057ab182f7dc27&k=5548c4823ff7f1ea61bafb7cbc19e005
+
+https://spinoff.link/live/mpd.php?url=https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd&id=23986dae03fa883ed8e489cbf70f9ec3&k=6a42c42732a9dd1da1205971b2c5c535
+
+https://spinoff.link/live/mpd.php?url=https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd&id=2722647f77b44824c432a3c4555830a2&k=1734befb82f4b438bd84195f6c212e7b
+
+https://spinoff.link/live/mpd.php?url=https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd&id=bb43112b7b72e9c287da0ecdec8606a7&k=29e3d2678107f0ab0b35b6537c734f2a
+https://spinoff.link/live/mpd.php?url=https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd&id=ae99daa35220336fe9460b9060fa65a9&k=ac284e8e24296f30496d1f39a7138205
+https://spinoff.link/live/mpd.php?url=https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd&id=430f38110162f19a042b4dcdc2005140&k=50541179fbd5750aea8767cb6e6b3a7b
+
+https://spinoff.link/live/m3u8.php?url=https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg",ADULT SWIM HD 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
