@@ -28,7 +28,8 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(E
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=706240e6eab2a1137262a0c2b8c4be6a:e5a2e8bbe1b4b9cbdb12a2b586aa9b1d  https://dish.akamaized.net/Content/DASH/Live/channel(lamejortv)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=706240e6eab2a1137262a0c2b8c4be6a:e5a2e8bbe1b4b9cbdb12a2b586aa9b1d
+https://dish.akamaized.net/Content/DASH/Live/channel(lamejortv)/manifest.mpd
 
 
 
