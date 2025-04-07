@@ -2,27 +2,113 @@
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg", estresllaa
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CLARO SPORTS LATAM HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=421bf41e7de0f9869aa13aa34200bb75:4b3dfb3e7fb2b65f607ee4290ab74283 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115 
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg", estresllaa
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CLARO SPORTS MX HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3dfb3e7fb2b65f607ee4290ab74283:421bf41e7de0f9869aa13aa34200bb75 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=bee829eb9c7a6c479353f30b56f73edc:27f2b5d3dfc7854391bce30c5a9c3663 
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_MX_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CLARO CINEMA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f91539ec0553eb3a87b6d85d0c396712:58ab6ec5569e433806fdf9a3868f8df0 
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_CINEMA)/manifest.mpd
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CONCERT CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68aa8810573e1dc11fb2d82a51d55402:d92e36380b02f531f70dadba49e95f27 
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd
+
+
+FOX SPORTS HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXSP1MXHD)/manifest.mpd
+--key 511243e23bbf4fc42e8be38eb06fd4bd:44f5d779781fb67dc0a9bdadb821436c
+
+FOX SPORTS 2 HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXSP2MXHD)/manifest.mpd
+--key b5cc8b545c2c167f04a1d98494e12c21:adfc9cd03c1bbafce166805e8da8401c
+
+FOX SPORTS 3 HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXSP3MXHD)/manifest.mpd
+--key 8e35b104fc991055ec682c4653e9a188:9d763dc1c922fbe7182f4ac3190d7cba
+
+HBO HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
+--key 24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
+
+HBO 2 HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd
+--key 2d23487b5b881e44ba0fab9759fd85a3:029c7f128993034adfe4bc4e95140424
+
+HBO FAMILY HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
+--key 1d7ed3815cbae3785cebfe6b42f3c655:e127011108b6b5b9646a0deb3a5d71bd
+
+HBO PLUS HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD_MX)/manifest.mpd
+--key 8c6e933f315578b5111e2292faf99f70:3446f35947957d3701c49fd1729f216f
+
+HBO SIGNATURE HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_SIGNATURE_HD)/manifest.mpd
+--key e790d2fdd1cbfc31ec07c9e6de1c57f8:9d2ed3badd97607e4ae0f87c078cda27
+
+HBO MUNDI HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_MUNDI_HD_MX)/manifest.mpd
+--key cd8fa23065ddbf1347d05a878e38fd92:f9005dcd2dfa946f619a674f05d2ca78
+
+HBO POP HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_POP_HD_MX)/manifest.mpd
+--key 394335099a6f0e6f43904d8d2dc5a23f:b14ce2f638444b14e1ef80da70a1b7be
+
+HBO XTREME HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_XTREME_HD_MX)/manifest.mpd
+--key 3dd59c1c936581818262914ac4d5a228:7db7545c6191b3db77d79c4d85465e48
+
+ANTENA 3 INTERNACIONAL HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ANTENA3HD_ARG)/manifest.mpd
+--key 62cbef28bf6834880e0f8f8f380b0d5e:22a1f857c75a4fee7edd98d23ef2857e
+
+HOLA TV HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HOLA_TV_HD)/manifest.mpd
+--key 215ebce90f83476a26126496852faa50:c6731f6056616fe920554ce406ad9bac
+
+A3SERIES HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(A3SERIESHD)/manifest.mpd
+--key 842c048746a377c8bbfe73a5379457cc:c18b4b542ec42d1434141518c62d5966
+
+A3CINE HD
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(A3CINE)/manifest.mpd
+--key 215ec734d77903496b6b7e90acffce96:5d35ea9bc423d889a1d75f6feb1e1cfe
+
+
+
+
+
 
 
 
