@@ -1,6 +1,26 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
 
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", TLNOVELAS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=361d47939a32a35422d13728b7089728:1d26ccbbc3a3b1f3e3f7e4850a54c6f2 
+https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", TLNOVELAS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00 
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CLARO SPORTS LATAM HD
 #EXTVLCOPT:network-caching=1000
