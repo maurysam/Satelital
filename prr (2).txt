@@ -17,6 +17,16 @@ https://netcoop.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #KODIPROP:inputstream.adaptive.license_key=361d47939a32a35422d13728b7089728:1d26ccbbc3a3b1f3e3f7e4850a54c6f2 
 https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", TUDN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b 
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+
 
 
 208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
@@ -155,14 +165,14 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(A
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg", hbo
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e_ymvuE3E91b9xQmBE7FwwdkIQmXLQ3uzQ&s", HBO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1b13889f71a96902c28582302163a5c:24c2a4df8e8ddd176661ca6e0d61b26b 
+#KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c 
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
 
 
