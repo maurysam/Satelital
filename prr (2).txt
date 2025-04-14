@@ -1,6 +1,18 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
 
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELmZ+b54cXAGv6Npl+SjDUVI49yVmwY=
+#EXTVLCOPT:http-referrer=https://www.mvshub.com.mx
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL", MEXIQUENSE
+https://dish.akamaized.net/Content/DASH/Live/channel(mexiquensetvhd)/variant.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #EXTINF:-1 group-title="Lista 34",DE 
 https://netcoop.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
