@@ -10,7 +10,7 @@
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",La Mejor
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Azteca uno
 https://livedashmx.cdn.startv.tv/bpk-tv/la_mejor/vmx/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22,7 +22,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/la_mejor/vmx/index.mpd
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Ultra Clasico
-https://livedashmx.cdn.startv.tv/bpk-tv/ultra_claaico/vmx/index.mpd
+https://livedashmx.cdn.startv.tv/bpk-tv/ultra_clasico/vmx/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -35,7 +35,16 @@ https://livedashmx.cdn.startv.tv/bpk-tv/ultra_claaico/vmx/index.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Ultra Clasico
 https://livedashmx.cdn.startv.tv/bpk-tv/ultra_banda/vmx/index.mpd
 
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
+#EXTVLCOPT:caché de rojo=1000
+#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Azteca uno
+https://livedashmx.cdn.startv.tv/bpk-tv/zu_cinco/vmx/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -45,7 +54,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/ultra_banda/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Las estrellas 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Azteca uno
 https://livedashmx.cdn.startv.tv/bpk-tv/zu_las_estrellas/vmx/index.mpd
 
 
