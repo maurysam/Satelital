@@ -21,7 +21,7 @@ https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sentry.repl.it/api/10/security/?sentry_key
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv:8063?
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",AZTECA UNO 
@@ -30,20 +30,26 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 
-
-type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
+#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8939/?
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",P
 https://livedashmx.cdn.startv.tv/bpk-tv/las_estrellas_delay/vmx/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
+#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8939/?
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/web/startv/
+#EXTVLCOPT:caché de rojo=1000
+#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",P
+https://livedashmx.cdn.startv.tv/bpk-tv/las_estrellas_delay/vmx/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -53,7 +59,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/las_estrellas_delay/vmx/index.mpd
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",VENUS
-https://livedashmx.cdn.startv.tv/bpk-tv//vmx/index.mpd
+https://livedashmx.cdn.startv.tv/bpk-tv/bandamax/vmx/index.mpd
 
 
 
@@ -62,13 +68,12 @@ https://livedashmx.cdn.startv.tv/bpk-tv//vmx/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/web/startv:8969?
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Hbo Family
 https://livedashmx.cdn.startv.tv/bpk-tv/hbo_family/vmx/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
