@@ -1230,35 +1230,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(D
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",History
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db 
-https://edge-live16-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history_2.png",History 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33290edc4117d612218fdc6b1b7c1aac:3325d43bf783d0f92297f5705b4b3ffb 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(H2_HD)/manifest.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history_2.png",History 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Natgeo.png",NatGeo
@@ -1271,15 +1243,6 @@ https://edge-live16-hr.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/Histo
 #KODIPROP:inputstream.adaptive.license_key=b9c20dac5bbea5e375a14f826bf2c685:d84d90193b192a3604f41cf4c213dad7 
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NATGEO_HD)/manifest.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Natgeo.png",NatGeo
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16 
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/HGTV.png",HGTV
 #EXTVLCOPT:network-caching=1000
@@ -1301,15 +1264,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=2445ceb12e87da12462822eee159642c:c7c08f459ffb91e744ed85653f943240 
 https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Glitz.png",Glitz
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f812ef81d6ce425a8db4012a1ef8b0c1:5c2b9791b1074727eb349588e32bdc0a 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc/Glitz.mpd
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/universaltv.png",Universal TV
 #EXTVLCOPT:network-caching=1000
@@ -1321,15 +1276,6 @@ https://edge-live16-hr.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc/Glitz.mpd
 #KODIPROP:inputstream.adaptive.license_key=840bcd9ffdd5721c40b0ade4d9b68246:d19d330de1f428d1902bc1629a65c0bf 
 https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/universaltv.png",Universal TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png",Universal Cinema
 #EXTVLCOPT:network-caching=1000
@@ -1395,15 +1341,7 @@ https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=3c768a448428f7e87aaf69da2a0662b0:7f98805ed862b863d51e93f884161b74 
 https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Star_Channel.png",Star Channel
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f 
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Space.png",Space
 #EXTVLCOPT:network-caching=1000
@@ -1427,15 +1365,6 @@ https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070 
 https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Warner_TV.png",Warner TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775 
-https://edge-live16-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/FX.png",FX
 #EXTVLCOPT:network-caching=1000
@@ -1457,15 +1386,7 @@ https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=90cc957ead3f42e98b46d14e8c4b08de:3ab7cff1e63b9efc40aa962023b4b6b8 
 https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Paramount_Network.png",Paramount Network
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7 
-https://edge-live16-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/descarga-7-e1632252338500.png",Studio Universal
 #EXTVLCOPT:network-caching=1000
@@ -1487,7 +1408,21 @@ https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327 
 https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/golden-1-e1632252290978.jpg",Golden
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatgSP0veuk79gBD-Ff0eIIX3ToEOuRUIbh-Rw6THJravC40O5zHO5qRM6&s=10",Golden
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=247351382fcd721f2872c4bda15c5245:bc0e4c7dfb10d483357572000180cca5 
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+
+
+247351382fcd721f2872c4bda15c5245&id=bc0e4c7dfb10d483357572000180cca5
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboccZ149JUF1i93WrNR4HW4Rd3ZdDJ7sBYWl5jEKGLVE29tko7Celc8k&s=10",Golden Multiplex
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1497,17 +1432,12 @@ https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0 
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/golden-1-e1632252290978.jpg",Golden
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0 
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png",Golden Plus
+
+
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es",Golden Plus
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1517,15 +1447,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=ea0a062b63b4b0a58b35e10c02bf0ab9:4cc4d32453d2d29831b0a733d2763f69 
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png",Golden Plus
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea0a062b63b4b0a58b35e10c02bf0ab9:4cc4d32453d2d29831b0a733d2763f69 
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://landing.qlobbi.com/wp-content/uploads/2020/11/golden-edge-1.jpg",Golden Edge
 #EXTVLCOPT:network-caching=1000
@@ -1537,15 +1459,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e 
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://landing.qlobbi.com/wp-content/uploads/2020/11/golden-edge-1.jpg",Golden Edge
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e 
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",Golden Premier
 #EXTVLCOPT:network-caching=1000
@@ -1557,25 +1471,19 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35 
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",Golden Premier
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpGsIbE8XS0j9HW9sPiXQlSiVLiii3qJX5YnkE1ZtylNHY87P4aWwCFw&s=10",Golden Premier -2 hrs
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35 
-https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=aacbecfb7f1da441a420a582400102da:717324c2c4e6694baddacfd5fbd3a20f 
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Sony_Channel.png",Sony
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812 
-https://edge-live16-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
+&k=aacbecfb7f1da441a420a582400102da&id=717324c2c4e6694baddacfd5fbd3a20f
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1585,10 +1493,10 @@ https://edge-live16-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyH
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO",SONY HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-group="MEXICO",SONY HD
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/sony_movies.png",SONY MOVIES
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBYtcJpqndm0V0iuyv55Nen7Q3cZzdp7tJw&s",SONY MOVIES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1607,7 +1515,7 @@ https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO", HBO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0b42-MG2p35LSbKsAHb6FhYYLPIwOcl8FdhtrfQpjs6gpswzP4MdRalL&s=10" tvg-group="MEXICO", HBO HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1621,42 +1529,42 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O9+U+fwYiFKfjSfQcNOFZg","kid":"hhq5iQiYkdhK0NopaVRDfA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" tvg-group="PREMIUM",HBO PLUS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-group="PREMIUM",HBO PLUS HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"EUmDrdJpEbWJWV2TG1BcpQ","kid":"OxsVyG5kNE6IArBrgGlXxQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM", HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" tvg-group="PREMIUM", HBO FAMILY HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uz5L+hgh0r3CXJoJcOTjuA","kid":"ukBSyl62+P9rmNR9CYst7A"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" tvg-group="PREMIUM",HBO MUNDI HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/HBO_Mundi_2020.svg/revision/latest/scale-to-width-down/200?cb=20230215144540&path-prefix=es" tvg-group="PREMIUM",HBO MUNDI HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b/Kfsta32CXrBgBGUKCk6g","kid":"vPNvQS+j1zXOoE90Q/v3fA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" tvg-group="PREMIUM",HBO POP HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" tvg-group="PREMIUM",HBO POP HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ENi7bZ+YUnRymEh6s8Svow","kid":"V4IVYpDwNe8ormbMolLu3Q"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" tvg-group="PREMIUM",HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" tvg-group="PREMIUM",HBO SIGNATURE HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"in6AHbwnXj9OH0PLpkiQag","kid":"vI1Dafz/htt2XbgjVrR5fA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" tvg-group="PREMIUM",HBO XTREME HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGa7Mr5yOgvWR1QHMDMD4BTXPj0QVwxp-H0Q&s" tvg-group="PREMIUM",HBO XTREME HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 
 
@@ -1665,7 +1573,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WcHzw4S9CiXoF1OdX+biSw","kid":"l8/to1wvQtbCvnKeopRbEg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" tvg-group="PREMIUM", AMC HD
 https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1715,12 +1623,6 @@ https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM", COMEDY CENTRAL HD
 https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JVJt5chfhK/2sLswD0tuyA","kid":"rPu0oIImyAjdg7mbHwso+w"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM", TL NOVELAS HD
-https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
 
 
 
@@ -1730,25 +1632,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/12/cinemaplus.png",Cinema+
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f7f2148d85b7e8866c2d6eab3423ead:26acdad69ede55914b93c1d825a5ae6b 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINEMAPLUS)/manifest.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/12/cinemaplus.png",Cinema+
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f7f2148d85b7e8866c2d6eab3423ead:26acdad69ede55914b93c1d825a5ae6b 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINEMAPLUS)/manifest.mpd
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large_DC.jpeg.50be5f3567205206737ba0449f27fde0.jpeg",Distrito Comedia
 #EXTVLCOPT:network-caching=1000
@@ -1790,6 +1674,23 @@ https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=6561801b75ab25819fc7ede365375df7:3555b344c54204d5f02a753d354d2f8c 
 https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/lifetime-e1632252438462.png",Lifetime
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -1797,97 +1698,8 @@ https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Food_Network.png",Food Network
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d20604249990e46f47a40de7b948fb3b:527529d6ba5c81c9c5f578fdf99a7cac 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOODHD)/manifest.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Food_Network.png",Food Network
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/El_Gourmet.png",El Gourmet
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed 
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Venus.png",Venus (18+)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Playboy_TV.png",Playboy TV (18+)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg",Sextreme (18+)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434 
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
-
-
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg" group-title="INTERNACIONAL",TV USULUTECA
-http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="INTERNACIONAL",CANAL 12
-http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="IZZI GO",Mosaico Interés General
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceid=440a2ca74bee4daf93d82a2756dc8467-region=METRO
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="IZZI GO",Mosaico Interés General
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv/?deviceId=MjZjMjBlM2YtN2MzMy0zODFiLWIyYmMtNmIzODE1YzA0OTk1
-https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
+#KODIPROP:inputstream.adaptive.license_key=4b7f4a68da5d4be38dcac8e27194a63d:7e549b1a6cf1a9d6434f34e783c7ed22
+https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
