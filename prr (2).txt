@@ -26,7 +26,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/venus/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/web/startv/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",universal
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Universal Premier
 https://livedashmx.cdn.startv.tv/bpk-tv/universal_premier/vmx/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -36,7 +36,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/universal_premier/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",cinema
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Universal Cinema
 https://livedashmx.cdn.startv.tv/bpk-tv/universal_cinema/vmx/index.mpd
 
 
@@ -48,7 +48,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/universal_cinema/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Ultra luna
+#EXTINF:-1 tvg-id="1" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Ultra_luna_1567021129869.png" group-title="HBO",Ultra luna
 https://livedashmx.cdn.startv.tv/bpk-tv/ultra_luna/vmx/index.mpd
 
 
@@ -62,7 +62,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/ultra_luna/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Ultra Clasico
+#EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Ultra_Cl%C3%A1sico_2012.svg/revision/latest/scale-to-width-down/300?cb=20220727222942&path-prefix=es" group-title="HBO",Ultra Clasico
 https://livedashmx.cdn.startv.tv/bpk-tv/ultra_clasico/vmx/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -73,7 +73,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/ultra_clasico/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Ultra banda
+#EXTINF:-1 tvg-id="1" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo.png" group-title="HBO",Ultra Banda
 https://livedashmx.cdn.startv.tv/bpk-tv/ultra_banda/vmx/index.mpd
 
 
@@ -86,24 +86,12 @@ https://livedashmx.cdn.startv.tv/bpk-tv/ultra_banda/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",Azteca uno
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/a3e7d9d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F10%2F57%2Fee810ae644028eb1793e34aeeb1f%2Flogo-uno.png" group-title="HBO",Azteca Uno
 https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhiaoEc.png", Azteca 7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es", Azteca 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -124,24 +112,24 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/o
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://i.ibb.co/q7frGQz/fs3-mx.png" group-title="DEPORTES", FOX SPORTS 3
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaQeqWIFsoRTSBTCeJ2MRW-P0mnbAAIBFW88cGFjF3sWyX17cj36puRBQ&s=10" group-title="DEPORTES", FOX SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="tsn3.ca" tvg-logo="https://www-elfinanciero-com-mx.cdn.ampproject.org/i/s/www.elfinanciero.com.mx/resizer/RoVI3SEBN2NdAUuOxWUszlW_RUM=/800x450/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/26RXT5RI5BC4ZGT7JCPKVJTPKY.jpeg",Fox Sports Premium
+#EXTINF:-1 group-title="DEPORTES" tvg-id="tsn3.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigwegoOes0jV6kF6UhhwKz9MxH2dbaYaA8wO8rOT1M1B1E5tOH7Uae5c&s=10",Fox Sports Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ae26845bd33038a9c0774a0981007294":"63ac662dde310cfb4cc6f9b43b34196d"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 1 GB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d1708b185c6c4d7b37600520c7cc93c":"1aace05f58d8edef9697fd52cb09f441"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 2 GB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
@@ -205,7 +193,7 @@ https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
 
-#EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png", History Channel 2
+#EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es", History Channel 2
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1" group-title="DEPORTES" ch-number="70" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1
@@ -224,7 +212,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CLARO SPORTS LATAM HD
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkIM6dUk1HYPFT6JXjGcADOt-2r7WFqCue4Wtm6QtsfnfxWfNXHLOJAnfe&s=10", CLARO SPORTS LATAM HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -236,7 +224,7 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(C
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CLARO SPORTS MX HD
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkIM6dUk1HYPFT6JXjGcADOt-2r7WFqCue4Wtm6QtsfnfxWfNXHLOJAnfe&s=10", CLARO SPORTS MX HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -246,7 +234,7 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(C
 #KODIPROP:inputstream.adaptive.license_key=bee829eb9c7a6c479353f30b56f73edc:27f2b5d3dfc7854391bce30c5a9c3663 
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_MX_HD)/manifest.mpd
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CLARO CINEMA HD
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://cdn.storage.foromedios.com/gallery/category_7/small.gallery_5692_7_22692.png.caa9e0068fd21967099403c072554cd6.png", CLARO CINEMA HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -255,29 +243,6 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(C
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f91539ec0553eb3a87b6d85d0c396712:58ab6ec5569e433806fdf9a3868f8df0 
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_CINEMA)/manifest.mpd
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CONCERT CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68aa8810573e1dc11fb2d82a51d55402:d92e36380b02f531f70dadba49e95f27 
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd
-
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg", CONCERT CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d92e36380b02f531f70dadba49e95f27:68aa8810573e1dc11fb2d82a51d55402 
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd
-
-
 
 
 FOX SPORTS HD
@@ -292,13 +257,43 @@ FOX SPORTS 3 HD
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXSP3MXHD)/manifest.mpd
 --key 8e35b104fc991055ec682c4653e9a188:9d763dc1c922fbe7182f4ac3190d7cba
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e_ymvuE3E91b9xQmBE7FwwdkIQmXLQ3uzQ&s", HBO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c 
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
+
 HBO HD
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
 --key 24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e_ymvuE3E91b9xQmBE7FwwdkIQmXLQ3uzQ&s", HBO 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d23487b5b881e44ba0fab9759fd85a3:029c7f128993034adfe4bc4e95140424 
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd
+
 HBO 2 HD
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd
 --key 2d23487b5b881e44ba0fab9759fd85a3:029c7f128993034adfe4bc4e95140424
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e_ymvuE3E91b9xQmBE7FwwdkIQmXLQ3uzQ&s", HBO 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7ed3815cbae3785cebfe6b42f3c655:e127011108b6b5b9646a0deb3a5d71bd 
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
 
 HBO FAMILY HD
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
@@ -374,7 +369,7 @@ https://spinoff.link/live/mpd.php?url=https://dish.akamaized.net/Content/DASH/Li
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg", exatv
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",Exa TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -389,7 +384,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg",htv
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpmKqHLaruI5_v5s4SBxtyRIutYXDgPm22GDU0ZSJ5fjkGxkvLgcv6t8&s=10",HTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -402,7 +397,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(htv)/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg",dogtv
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/DOGTV_2021.svg/revision/latest/scale-to-width-down/250?cb=20220503163054",Dog TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -419,7 +414,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://final-space.fandom.com/wiki/Adult_Swim?file=Adult-swim1.jpg",ADULT SWIM HD 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQerjahxSbv88MbJ6je8KSRxhCZ8GTlvhXDBVhbt2dhKff2U67TJ8qIocX7&s=10",ADULT SWIM HD 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -429,27 +424,11 @@ https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a 
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/default.mpd
 
-
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Telemundo.png",Telemundo
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e927df6004bceb9359bcb7ef96e3d9ce:aa46b96203cfadf26067db3537499a49
-https://live3-ott.izzigo.tv/out/u/dash/SKY-DEPORTES-1-HD/default.mpd
-
-
-
 #EXTINF:-1 group-title="Lista 34", LAS ESTRELLAS 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Lista 34", FORO TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Lista 34" tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXupUzqh-wovJ6aRqdHUNzrWMwAgn_8b_lBNaQ-5nzcGOnu95FClG34NU&s=10", FORO TV
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 
 #EXTINF:-1 group-title="Lista 34", AZTECA UNO HD
