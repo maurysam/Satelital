@@ -1,12 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",HBO Extreme
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",TUDN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
-2722647f77b44824c432a3c4555830a2&k=1734befb82f4b438bd84195f6c212e7b
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",LAS ESTRELLAS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/CANAL-2-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",LAS ESTRELLAS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f80b04b3e2bf3d8543956882da9dd00:62cc24eaedef1ab322a4d52fd6bf29ad
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/CANAL-2-HD/default.mpd
+:
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",HBO Extreme
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -17,7 +30,7 @@ https://aka-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="DEPORTES", tudn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/ Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1734befb82f4b438bd84195f6c212e7b:2722647f77b44824c432a3c4555830a2
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
 
