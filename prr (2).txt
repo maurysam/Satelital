@@ -13,12 +13,20 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/CANAL-2-HD/default.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",FOX SPORTS PREMIUM 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f80b04b3e2bf3d8543956882da9dd00:62cc24eaedef1ab322a4d52fd6bf29ad
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/CANAL-2-HD/default.mpd
-:
+#KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",FOX SPORTS PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5548c4823ff7f1ea61bafb7cbc19e005:0fefd5d94a8cb5b40c057ab182f7dc27
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",HBO Extreme
