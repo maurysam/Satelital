@@ -155,6 +155,19 @@ https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es", Azteca 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"afI_Szn2bMUddC9-xrz3ow","k":"M77bLa0cRAKr-WCQ1OwLYw"}]}
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/AZTECA-7-HD/manifest.mpd
+
+
+
+
+
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -209,7 +222,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8 
-https://live2-ott.izzigo.tv/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://logo.iptveditor.com/azteca7.png" group-title="MEXICO", Azteca 7
 #EXTVLCOPT:network-caching=1000
@@ -242,7 +255,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
 #EXTGRP:CANALES HOOTLASK
 #EXTVLCOPT:audio-track="es-ES"
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="CULTURA", Animal Planet 
-https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/ANIMAL-PLANET-HD/manifest.mpd
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png", History Channel
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
