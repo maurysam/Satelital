@@ -25,7 +25,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c768a448428f7e87aaf69da2a0662b0:7f98805ed862b863d51e93f884161b74
-https://aka-live1-ott.izzigo.tv/2/out/u/dash/FOX-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/STAR-HD/manifest.mpd
 
 
 
