@@ -1201,56 +1201,59 @@ https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0b42-MG2p35LSbKsAHb6FhYYLPIwOcl8FdhtrfQpjs6gpswzP4MdRalL&s=10" tvg-group="MEXICO", HBO HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/HBO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GpHy0xX7BZMyG6YKp4PsLA","kid":"CehPx+y3He8UPNfidx87NQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" tvg-group="PREMIUM", HBO 2 HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O9+U+fwYiFKfjSfQcNOFZg","kid":"hhq5iQiYkdhK0NopaVRDfA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-group="PREMIUM",HBO PLUS HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"EUmDrdJpEbWJWV2TG1BcpQ","kid":"OxsVyG5kNE6IArBrgGlXxQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" tvg-group="PREMIUM", HBO FAMILY HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd
+
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uz5L+hgh0r3CXJoJcOTjuA","kid":"ukBSyl62+P9rmNR9CYst7A"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/HBO_Mundi_2020.svg/revision/latest/scale-to-width-down/200?cb=20230215144540&path-prefix=es" tvg-group="PREMIUM",HBO MUNDI HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b/Kfsta32CXrBgBGUKCk6g","kid":"vPNvQS+j1zXOoE90Q/v3fA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" tvg-group="PREMIUM",HBO POP HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ENi7bZ+YUnRymEh6s8Svow","kid":"V4IVYpDwNe8ormbMolLu3Q"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" tvg-group="PREMIUM",HBO SIGNATURE HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"in6AHbwnXj9OH0PLpkiQag","kid":"vI1Dafz/htt2XbgjVrR5fA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGa7Mr5yOgvWR1QHMDMD4BTXPj0QVwxp-H0Q&s" tvg-group="PREMIUM",HBO XTREME HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 
 
