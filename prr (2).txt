@@ -261,30 +261,38 @@ https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/ANIMAL-PLANET-HD/manifest.mpd
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png", History Channel
-https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es", History Channel 2
-https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
 
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es",HTV
-https://streamer1.nexgen.bz/HTV/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/HTV/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es",HBO PLUS
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es",HBO 2
-https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/HBO2/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es",TNT
-https://streamer1.nexgen.bz/TNT/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/TNT/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es",USA
-https://streamer1.nexgen.bz/USA/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/USA/index.m3u8
+
+#EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png",STAR CHANNEL
+https://streamer1.nexgen.bz/STAR/index.m3u8
+
+#EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png",MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
 
 
+#EXTINF:-1,VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DAZN 1" group-title="DEPORTES" ch-number="70" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1
