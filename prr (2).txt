@@ -6,7 +6,7 @@
 https://dish.akamaized.net/content/DASH/Live/channel(history)/variant.mpd
 
 #EXTINF:-1 group-title="Lista 34",Sgj
-https://dish.akamaized.net/content/DASH/Live/channel(lamejortv)/variant.mpd
+https://dish.akamaized.net/content/DASH/Live/channel(adultswim)/variant.mpd
 
 #EXTINF:-1 group-title="Lista 34",Star Channel
 https://coop-montehermoso.cdn.rcs.net.ar/mnp/foxhd/output.mpd
@@ -17,7 +17,7 @@ https://coop-montehermoso.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",plu
-https://dish.akamaized.net/content/DASH/Live/channel(adultswin)/variant.mpd
+https://dish.akamaized.net/content/DASH/Live/channel(adultswim)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
