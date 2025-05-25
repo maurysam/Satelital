@@ -3,7 +3,10 @@
 
 
 #EXTINF:-1 group-title="Lista 34",S
-https://dish.akamaized.net/content/DASH/Live/channel(playboyhd)/variant.mpd
+https://dish.akamaized.net/content/DASH/Live/channel(history)/variant.mpd
+
+#EXTINF:-1 group-title="Lista 34",Sgj
+https://dish.akamaized.net/content/DASH/Live/channel(lamejortv)/variant.mpd
 
 #EXTINF:-1 group-title="Lista 34",Star Channel
 https://coop-montehermoso.cdn.rcs.net.ar/mnp/foxhd/output.mpd
