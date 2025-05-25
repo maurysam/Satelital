@@ -1,8 +1,35 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
 
 
+#EXTINF:-1 group-title="Lista 34",S
+https://dish.akamaized.net/content/HLS_MP4/Live/channel(sexyhothd)/variant.m3u8
+
 #EXTINF:-1 group-title="Lista 34",Star Channel
 https://coop-montehermoso.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+
+#EXTINF:-1 group-title="Lista 34",usa mex
+https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/variant.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:caché de rojo=1000
+#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",vmexc
+https://dish.akamaized.net/content/DASH/Live/channel(sexyhothd)/variant.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:caché de rojo=1000
+#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",vmexc
+https://bcovlive-a.akamaihd.net/7bc1911a899a45b2869e461ac516230c/us-west-2/6057994531001/ts-10380e91fda5e303-4a437delaef8401eaf6694b3a32aa293/playlist_ts.mpd
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",TUDN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
