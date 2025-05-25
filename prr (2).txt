@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
 
+#EXTINF:-1 group-title="Lista 34",fjo
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd
 
 #EXTINF:-1 group-title="Lista 34",S
 https://dish.akamaized.net/content/DASH/Live/channel(sexyhothd)/variant.mpd
