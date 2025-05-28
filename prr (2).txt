@@ -32,7 +32,7 @@ https://coop-montehermoso.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",vmexc
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",usa
 https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/variant.mpd
 
 
@@ -46,11 +46,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.m
 https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.mpd
 5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",GINX
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d54422436550ad2dbb979546a0caf71:5fd24b691f5e5108a4b9bfaf70066463
-https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.mpd
+
 
 
 
