@@ -5,8 +5,7 @@ vj
 #EXTINF:-1 group-title="Lista 34",History
 https://dish.akamaized.net/content/DASH/Live/channel(history)/variant.mpd
 
-#EXTINF:-1 group-title="Lista 34",Rola
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
+
 
 #EXTINF:-1 group-title="Lista 34",Video Rola
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
