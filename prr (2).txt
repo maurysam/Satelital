@@ -145,13 +145,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:caché de rojo=1000
-#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",venus
-https://livedashmx.cdn.startv.tv/bpk-tv/venus/vmx/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -220,27 +214,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/ultra_luna/vmx/index.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
-#EXTVLCOPT:caché de rojo=1000
-#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Ultra_Cl%C3%A1sico_2012.svg/revision/latest/scale-to-width-down/300?cb=20220727222942&path-prefix=es" group-title="HBO",Ultra Clasico
-https://livedashmx.cdn.startv.tv/bpk-tv/ultra_clasico/vmx/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
-#EXTVLCOPT:caché de rojo=1000
-#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="1" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo.png" group-title="HBO",Ultra Banda
-https://livedashmx.cdn.startv.tv/bpk-tv/ultra_banda/vmx/index.mpd
 
 
 
@@ -850,7 +824,7 @@ https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM",TOONCAST
-https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
+https://live1-ott.izzigo.tv/5/out/u/dash/TOONCAST-SD/default.mpd
 
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/BitMe_logo.svg_-e1632251694572.png",Bitme
@@ -861,7 +835,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7 
-https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+https://live1-ott.izzigo.tv/4/out/u/dash/BIT-ME-HD/default.mpd
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/BitMe_logo.svg_-e1632251694572.png",Bitme
 #EXTVLCOPT:network-caching=1000
