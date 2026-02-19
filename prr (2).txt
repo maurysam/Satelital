@@ -6,15 +6,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=820ee7b6e7e489c285a63a9a39249a31:3bdc524168044491d6f2e51b270f4aa1
-https://zap-live1-ott.izzigo.tv/2/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY SPORTS LIVE 1" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="BUNDES LIGA" ,LAS ESTRELLAS 2 HRS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bdc524168044491d6f2e51b270f4aa1:820ee7b6e7e489c285a63a9a39249a31
-https://zap-live1-ott.izzigo.tv/2/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
-
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 
 
 #EXTINF:-1 group-title="Lista 34",Video Rola
@@ -25,7 +17,7 @@ https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
 
 
 
@@ -123,20 +115,20 @@ https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",LAS ESTRELLAS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/CANAL-2-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="PREMIUM MOVIE",FOX SPORTS PREMIUM 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 
 
 
@@ -144,14 +136,14 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
-
+https://live-atv-cdn.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="DEPORTES", SKY SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 
 
@@ -296,7 +288,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
+https://live-atv-cdn.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", SKY Sports 16
 #EXTVLCOPT:network-caching=1000
@@ -306,7 +298,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8 
-https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
 
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
 
@@ -337,7 +329,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=361d47939a32a35422d13728b7089728:1d26ccbbc3a3b1f3e3f7e4850a54c6f2 
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/TLNOVELAS-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/15/out/u/dash/TLNOVELAS-HD/default.mpd
 
 
 
@@ -348,7 +340,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/TLNOVELAS-HD/default.mpd
 #EXTGRP:CANALES HOOTLASK
 #EXTVLCOPT:audio-track="es-ES"
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="CULTURA", Animal Planet 
-https://live-atv-cdn.izzigo.tv/2/out/u/dash/ANIMAL-PLANET-HD/manifest.mpd
+https://live-atv-cdn.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/manifest.mpd
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png", History Channel
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
@@ -8949,6 +8941,7 @@ http://138.59.177.34:8000/play/a07g/index.m3u8
 
 #EXTINF: -1 tvg-id="Playboy.mx" tvg-name="PlayBoy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="IZZI GO",PENTHOUSE 
 http://45.166.92.22:58001/play/a04c/index.m3u8
+
 
 
 
