@@ -1,13 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
 h
 
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HISTORYCHANNELHD/default.mpd
 
-#EXTINF:-1 tvg-id="HBO.mx"  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41611b21-a7ce-419b-bc77-4644f8105930/de2wxnf-d9480167-d11d-4188-9dc7-655029eb3c3d.png/v1/fill/w_1192,h_670/cinemax__2003__blender_render__hbo__by_therprtnetwork_de2wxnf-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzQxNjExYjIxLWE3Y2UtNDE5Yi1iYzc3LTQ2NDRmODEwNTkzMFwvZGUyd3huZi1kOTQ4MDE2Ny1kMTFkLTQxODgtOWRjNy02NTUwMjllYjNjM2QucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8ljl-rklBaI5efsHnd92qQvXaQP7UCzEJCm4bFWTkm0" group-title="Movie Central", HBO (Mexico)m
+
+#EXTINF:-1 tvg-id="HBO.mx"  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41611b21-a7ce-419b-bc77-4644f8105930/de2wxnf-d9480167-d11d-4188-9dc7-655029eb3c3d.png/v1/fill/w_1192,h_670/cinemax__2003__blender_render__hbo__by_therprtnetwork_de2wxnf-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzQxNjExYjIxLWE3Y2UtNDE5Yi1iYzc3LTQ2NDRmODEwNTkzMFwvZGUyd3huZi1kOTQ4MDE2Ny1kMTFkLTQxODgtOWRjNy02NTUwMjllYjNjM2QucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8ljl-rklBaI5efsHnd92qQvXaQP7UCzEJCm4bFWTkm0" group-title="Movie Central", HBO (Mexico)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 
 #EXTINF:-1 tvg-id="HBO 2.mx"  tvg-logo="https://i.ibb.co.com/pnByWRT/hbo2.png" group-title="Movie Central", HBO 2 (Mexico)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -8982,6 +8984,7 @@ http://138.59.177.34:8000/play/a07g/index.m3u8
 
 #EXTINF: -1 tvg-id="Playboy.mx" tvg-name="PlayBoy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png" group-title="IZZI GO",PENTHOUSE 
 http://45.166.92.22:58001/play/a04c/index.m3u8
+
 
 
 
