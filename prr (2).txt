@@ -6037,7 +6037,7 @@ EUROPA EUROPA
 https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/manifest.mpd
 de24e1b99c8b18ff9aa6d1faf2e71720:66f2ae3dc379900b5495f440f68c674a
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",SYFY
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",USA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -6050,6 +6050,24 @@ https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/manifest.mpd
 SYFY
 https://dish.akamaized.net/Content/DASH/Live/channel(syfy)/manifest.mpd
 39773b0d7b389430776142a2fa613ad9:bce74121a4884ec7d2ed9dd96442a775
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",La mejor TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=706240e6eab2a1137262a0c2b8c4be6a:e5a2e8bbe1b4b9cbdb12a2b586aa9b1d
+https://dish.akamaized.net/Content/DASH/Live/channel(lamejortv)/manifest.mpd
+
+https://dish.akamaized.net/Content/DASH/Live/channel(681bf69f-31fc-6394-82b1-96a0c643eb70)/manifest.mpd
+
+706240e6eab2a1137262a0c2b8c4be6a:e5a2e8bbe1b4b9cbdb12a2b586aa9b1d
+
+
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",UNIVERSAL CHANNEL
 #EXTVLCOPT:network-caching=1000
